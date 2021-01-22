@@ -8,26 +8,66 @@
   }
 
   if (isset($_FILES['file']['name'])) {
-      $tmp_file_name = $_FILES['file']['tmp_name'];
-      $tmp_destination = "./tmp_uploads/" . $_SESSION['name'] . '-' . $_FILES['file']['name'];
-
-      move_uploaded_file($tmp_file_name, $tmp_destination);
-
-      $tmp_file = strval($_FILES['file']['name']);
-      $tmp_path = "./tmp_uploads/" . $_SESSION['name'] . '-' . $tmp_file;
-      $tmp_file_contents = file_get_contents($tmp_path, null);
+      $tmp_file = strval($_FILES['file']['tmp_name']);
+      $tmp_file_contents = file_get_contents($tmp_file, null);
       $file_array = json_decode($tmp_file_contents, true);
-      $file_array = array($file_array);
-
-      foreach ($file_array as $key => $value) {
+      
+      unset($file_array['log']['version']);
+      unset($file_array['log']['creator']);
+      unset($file_array['log']['pages']);
+      $i = 0;
+      foreach ($file_array['log']['entries'] as $key => $values) {
+          foreach ($file_array['log']['entries'][$i] as $key_2 => $value_2) {
+              unset($file_array['log']['entries'][$i]['cache']);
+              unset($file_array['log']['entries'][$i]['connection']);
+              unset($file_array['log']['entries'][$i]['pageref']);
+              unset($file_array['log']['entries'][$i]['time']);
+              foreach ($file_array['log']['entries'][$i]['timings'] as $key_3 => $value_3) {
+                  unset($file_array['log']['entries'][$i]['timings']['blocked']);
+                  unset($file_array['log']['entries'][$i]['timings']['connect']);
+                  unset($file_array['log']['entries'][$i]['timings']['dns']);
+                  unset($file_array['log']['entries'][$i]['timings']['receive']);
+                  unset($file_array['log']['entries'][$i]['timings']['send']);
+                  unset($file_array['log']['entries'][$i]['timings']['ssl']);
+                  unset($file_array['log']['entries'][$i]['timings']['_blocked_queueing']);
+              }
+              foreach ($file_array['log']['entries'][$i]['request'] as $key_4 => $value_4) {
+                  unset($file_array['log']['entries'][$i]['request']['bodySize']);
+                  unset($file_array['log']['entries'][$i]['request']['cookies']);
+                  unset($file_array['log']['entries'][$i]['request']['headersSize']);
+                  unset($file_array['log']['entries'][$i]['request']['httpVersion']);
+                  unset($file_array['log']['entries'][$i]['request']['queryString']);
+                  foreach ($file_array['log']['entries'][$i]['request']['headers'] as $key_5 => $value_5) {
+                      if ($file_array['log']['entries'][$i]['request']['headers'][$key_5]['name'] != "content-type" && "Host" && "Cache-Control" && "Pragma" && "Expires" && "Age" && "Last-Modified") {
+                          unset($file_array['log']['entries'][$i]['request']['headers'][$key_5]);
+                      }
+                  }
+              }
+              foreach ($file_array['log']['entries'][$i]['response'] as $key_6 => $value_6) {
+                  unset($file_array['log']['entries'][$i]['response']['bodySize']);
+                  unset($file_array['log']['entries'][$i]['response']['content']);
+                  unset($file_array['log']['entries'][$i]['response']['cookies']);
+                  unset($file_array['log']['entries'][$i]['response']['headersSize']);
+                  unset($file_array['log']['entries'][$i]['response']['httpVersion']);
+                  unset($file_array['log']['entries'][$i]['response']['redirectURL']);
+                  unset($file_array['log']['entries'][$i]['response']['_error']);
+                  unset($file_array['log']['entries'][$i]['response']['_transferSize']);
+                  foreach ($file_array['log']['entries'][$i]['response']['headers'] as $key_7 => $value_7) {
+                      if ($file_array['log']['entries'][$i]['response']['headers'][$key_7]['name'] != "content-type" && "Host" && "Cache-Control" && "Pragma" && "Expires" && "Age" && "Last-Modified") {
+                          unset($file_array['log']['entries'][$i]['response']['headers'][$key_7]);
+                      }
+                  }
+              }
+          }
+          ++$i;
       }
+      
+     
 
       $final_array = array_values($file_array);
-     
       $json_text = json_encode($final_array, JSON_PRETTY_PRINT);
       $destination = $destination = "./uploads/" . $_SESSION['name'] . '-' . $_FILES['file']['name'];
       file_put_contents($destination, $json_text);
-      echo "Το αρχείο ανέβηκε επιτυχώς";
 
       
 
@@ -107,6 +147,8 @@
               //στις επόμενες γραμμές κώδικα αλλάζω το περιεχόμενο του JSON αρχείου διαγ΄ραφοντας τα περιττά στοιχεία
               var content = e.target.result;
               var intern = JSON.parse(content);
+
+              console.log(intern);
 
               delete intern.log.creator;
 
