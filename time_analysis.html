@@ -1,0 +1,1631 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Time Analysis</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+
+  <style>
+    .col-centered {
+      float: none;
+      margin: 0 auto;
+      margin-top: 3%;
+    }
+  </style>
+
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-sm bg-light">
+    <a class="navbar-brand" href="admin_page.html">
+      <img class="img-responsive" src="images/HAR_geo.png">
+    </a>
+  </nav>
+
+  <div id="container" class="col-lg-9 col-centered">
+    <canvas id="timings-chart"></canvas>
+  </div>
+
+  <script>
+    $.ajax({
+        method: 'POST',
+        url: 'time_analysis.php',
+        dataType: 'application/json',
+        data: {}
+      })
+      .then(function (error) {
+        console.log(error);
+      })
+      .catch(function (response) {
+        var timings_info = JSON.parse(response.responseText);
+        var html_headers = timings_info.html_headers;
+        var javascript_headers = timings_info.javascript_headers;
+        var css_headers = timings_info.css_headers;
+        var image_headers = timings_info.image_headers;
+        var monday_timings = timings_info.monday_timings;
+        var tuesday_timings = timings_info.tuesday_timings;
+        var wednesday_timings = timings_info.wednesday_timings;
+        var thursday_timings = timings_info.thursday_timings;
+        var friday_timings = timings_info.friday_timings;
+        var saturday_timings = timings_info.saturday_timings;
+        var sunday_timings = timings_info.sunday_timings;
+        var get_timings = timings_info.get_timings;
+        var post_timings = timings_info.post_timings;
+
+
+        var html_timings_0 = [];
+        var html_timings_1 = [];
+        var html_timings_2 = [];
+        var html_timings_3 = [];
+        var html_timings_4 = [];
+        var html_timings_5 = [];
+        var html_timings_6 = [];
+        var html_timings_7 = [];
+        var html_timings_8 = [];
+        var html_timings_9 = [];
+        var html_timings_10 = [];
+        var html_timings_11 = [];
+        var html_timings_12 = [];
+        var html_timings_13 = [];
+        var html_timings_14 = [];
+        var html_timings_15 = [];
+        var html_timings_16 = [];
+        var html_timings_17 = [];
+        var html_timings_18 = [];
+        var html_timings_19 = [];
+        var html_timings_20 = [];
+        var html_timings_21 = [];
+        var html_timings_22 = [];
+        var html_timings_23 = [];
+
+        for (var i = 0; i < html_headers.length; i++) {
+          if (html_headers[i][0] == '0') {
+            html_timings_0.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '1') {
+            html_timings_1.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '2') {
+            html_timings_2.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '3') {
+            html_timings_3.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '4') {
+            html_timings_4.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '5') {
+            html_timings_5.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '6') {
+            html_timings_6.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '7') {
+            html_timings_7.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '8') {
+            html_timings_8.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '9') {
+            html_timings_9.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '10') {
+            html_timings_10.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '11') {
+            html_timings_11.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '12') {
+            html_timings_12.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '13') {
+            html_timings_13.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '14') {
+            html_timings_14.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '15') {
+            html_timings_15.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '16') {
+            html_timings_16.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '17') {
+            html_timings_17.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '18') {
+            html_timings_18.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '19') {
+            html_timings_19.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '20') {
+            html_timings_20.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '21') {
+            html_timings_21.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '22') {
+            html_timings_22.push(html_headers[i][1]);
+          } else if (html_headers[i][0] == '23') {
+            html_timings_23.push(html_headers[i][1]);
+          }
+        }
+
+        function average(array) {
+          var sum = 0;
+          if (!array.length) {
+            return 0;
+          }
+          for (let i = 0; i < array.length; i++) {
+            sum += array[i];
+          }
+          average_timings = sum / array.length;
+          return average_timings;
+        }
+
+        html_timings_0 = average(html_timings_0.map(Number));
+        html_timings_1 = average(html_timings_1.map(Number));
+        html_timings_2 = average(html_timings_2.map(Number));
+        html_timings_3 = average(html_timings_3.map(Number));
+        html_timings_4 = average(html_timings_4.map(Number));
+        html_timings_5 = average(html_timings_5.map(Number));
+        html_timings_6 = average(html_timings_6.map(Number));
+        html_timings_7 = average(html_timings_7.map(Number));
+        html_timings_8 = average(html_timings_8.map(Number));
+        html_timings_9 = average(html_timings_9.map(Number));
+        html_timings_10 = average(html_timings_10.map(Number));
+        html_timings_11 = average(html_timings_11.map(Number));
+        html_timings_12 = average(html_timings_12.map(Number));
+        html_timings_13 = average(html_timings_13.map(Number));
+        html_timings_14 = average(html_timings_14.map(Number));
+        html_timings_15 = average(html_timings_15.map(Number));
+        html_timings_16 = average(html_timings_16.map(Number));
+        html_timings_17 = average(html_timings_17.map(Number));
+        html_timings_18 = average(html_timings_18.map(Number));
+        html_timings_19 = average(html_timings_19.map(Number));
+        html_timings_20 = average(html_timings_20.map(Number));
+        html_timings_21 = average(html_timings_21.map(Number));
+        html_timings_22 = average(html_timings_22.map(Number));
+        html_timings_23 = average(html_timings_23.map(Number));
+
+        var javascript_timings_0 = [];
+        var javascript_timings_1 = [];
+        var javascript_timings_2 = [];
+        var javascript_timings_3 = [];
+        var javascript_timings_4 = [];
+        var javascript_timings_5 = [];
+        var javascript_timings_6 = [];
+        var javascript_timings_7 = [];
+        var javascript_timings_8 = [];
+        var javascript_timings_9 = [];
+        var javascript_timings_10 = [];
+        var javascript_timings_11 = [];
+        var javascript_timings_12 = [];
+        var javascript_timings_13 = [];
+        var javascript_timings_14 = [];
+        var javascript_timings_15 = [];
+        var javascript_timings_16 = [];
+        var javascript_timings_17 = [];
+        var javascript_timings_18 = [];
+        var javascript_timings_19 = [];
+        var javascript_timings_20 = [];
+        var javascript_timings_21 = [];
+        var javascript_timings_22 = [];
+        var javascript_timings_23 = [];
+
+        for (var i = 0; i < javascript_headers.length; i++) {
+          if (javascript_headers[i][0] == '0') {
+            javascript_timings_0.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '1') {
+            javascript_timings_1.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '2') {
+            javascript_timings_2.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '3') {
+            javascript_timings_3.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '4') {
+            javascript_timings_4.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '5') {
+            javascript_timings_5.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '6') {
+            javascript_timings_6.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '7') {
+            javascript_timings_7.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '8') {
+            javascript_timings_8.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '9') {
+            javascript_timings_9.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '10') {
+            javascript_timings_10.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '11') {
+            javascript_timings_11.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '12') {
+            javascript_timings_12.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '13') {
+            javascript_timings_13.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '14') {
+            javascript_timings_14.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '15') {
+            javascript_timings_15.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '16') {
+            javascript_timings_16.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '17') {
+            javascript_timings_17.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '18') {
+            javascript_timings_18.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '19') {
+            javascript_timings_19.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '20') {
+            javascript_timings_20.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '21') {
+            javascript_timings_21.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '22') {
+            javascript_timings_22.push(javascript_headers[i][1]);
+          } else if (javascript_headers[i][0] == '23') {
+            javascript_timings_23.push(javascript_headers[i][1]);
+          }
+        }
+
+        javascript_timings_0 = average(javascript_timings_0.map(Number));
+        javascript_timings_1 = average(javascript_timings_1.map(Number));
+        javascript_timings_2 = average(javascript_timings_2.map(Number));
+        javascript_timings_3 = average(javascript_timings_3.map(Number));
+        javascript_timings_4 = average(javascript_timings_4.map(Number));
+        javascript_timings_5 = average(javascript_timings_5.map(Number));
+        javascript_timings_6 = average(javascript_timings_6.map(Number));
+        javascript_timings_7 = average(javascript_timings_7.map(Number));
+        javascript_timings_8 = average(javascript_timings_8.map(Number));
+        javascript_timings_9 = average(javascript_timings_9.map(Number));
+        javascript_timings_10 = average(javascript_timings_10.map(Number));
+        javascript_timings_11 = average(javascript_timings_11.map(Number));
+        javascript_timings_12 = average(javascript_timings_12.map(Number));
+        javascript_timings_13 = average(javascript_timings_13.map(Number));
+        javascript_timings_14 = average(javascript_timings_14.map(Number));
+        javascript_timings_15 = average(javascript_timings_15.map(Number));
+        javascript_timings_16 = average(javascript_timings_16.map(Number));
+        javascript_timings_17 = average(javascript_timings_17.map(Number));
+        javascript_timings_18 = average(javascript_timings_18.map(Number));
+        javascript_timings_19 = average(javascript_timings_19.map(Number));
+        javascript_timings_20 = average(javascript_timings_20.map(Number));
+        javascript_timings_21 = average(javascript_timings_21.map(Number));
+        javascript_timings_22 = average(javascript_timings_22.map(Number));
+        javascript_timings_23 = average(javascript_timings_23.map(Number));
+
+        var css_timings_0 = [];
+        var css_timings_1 = [];
+        var css_timings_2 = [];
+        var css_timings_3 = [];
+        var css_timings_4 = [];
+        var css_timings_5 = [];
+        var css_timings_6 = [];
+        var css_timings_7 = [];
+        var css_timings_8 = [];
+        var css_timings_9 = [];
+        var css_timings_10 = [];
+        var css_timings_11 = [];
+        var css_timings_12 = [];
+        var css_timings_13 = [];
+        var css_timings_14 = [];
+        var css_timings_15 = [];
+        var css_timings_16 = [];
+        var css_timings_17 = [];
+        var css_timings_18 = [];
+        var css_timings_19 = [];
+        var css_timings_20 = [];
+        var css_timings_21 = [];
+        var css_timings_22 = [];
+        var css_timings_23 = [];
+
+        for (var i = 0; i < css_headers.length; i++) {
+          if (css_headers[i][0] == '0') {
+            css_timings_0.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '1') {
+            css_timings_1.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '2') {
+            css_timings_2.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '3') {
+            css_timings_3.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '4') {
+            css_timings_4.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '5') {
+            css_timings_5.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '6') {
+            css_timings_6.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '7') {
+            css_timings_7.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '8') {
+            css_timings_8.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '9') {
+            css_timings_9.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '10') {
+            css_timings_10.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '11') {
+            css_timings_11.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '12') {
+            css_timings_12.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '13') {
+            css_timings_13.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '14') {
+            css_timings_14.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '15') {
+            css_timings_15.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '16') {
+            css_timings_16.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '17') {
+            css_timings_17.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '18') {
+            css_timings_18.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '19') {
+            css_timings_19.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '20') {
+            css_timings_20.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '21') {
+            css_timings_21.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '22') {
+            css_timings_22.push(css_headers[i][1]);
+          } else if (css_headers[i][0] == '23') {
+            css_timings_23.push(css_headers[i][1]);
+          }
+        }
+
+        css_timings_0 = average(css_timings_0.map(Number));
+        css_timings_1 = average(css_timings_1.map(Number));
+        css_timings_2 = average(css_timings_2.map(Number));
+        css_timings_3 = average(css_timings_3.map(Number));
+        css_timings_4 = average(css_timings_4.map(Number));
+        css_timings_5 = average(css_timings_5.map(Number));
+        css_timings_6 = average(css_timings_6.map(Number));
+        css_timings_7 = average(css_timings_7.map(Number));
+        css_timings_8 = average(css_timings_8.map(Number));
+        css_timings_9 = average(css_timings_9.map(Number));
+        css_timings_10 = average(css_timings_10.map(Number));
+        css_timings_11 = average(css_timings_11.map(Number));
+        css_timings_12 = average(css_timings_12.map(Number));
+        css_timings_13 = average(css_timings_13.map(Number));
+        css_timings_14 = average(css_timings_14.map(Number));
+        css_timings_15 = average(css_timings_15.map(Number));
+        css_timings_16 = average(css_timings_16.map(Number));
+        css_timings_17 = average(css_timings_17.map(Number));
+        css_timings_18 = average(css_timings_18.map(Number));
+        css_timings_19 = average(css_timings_19.map(Number));
+        css_timings_20 = average(css_timings_20.map(Number));
+        css_timings_21 = average(css_timings_21.map(Number));
+        css_timings_22 = average(css_timings_22.map(Number));
+        css_timings_23 = average(css_timings_23.map(Number));
+
+        var image_timings_0 = [];
+        var image_timings_1 = [];
+        var image_timings_2 = [];
+        var image_timings_3 = [];
+        var image_timings_4 = [];
+        var image_timings_5 = [];
+        var image_timings_6 = [];
+        var image_timings_7 = [];
+        var image_timings_8 = [];
+        var image_timings_9 = [];
+        var image_timings_10 = [];
+        var image_timings_11 = [];
+        var image_timings_12 = [];
+        var image_timings_13 = [];
+        var image_timings_14 = [];
+        var image_timings_15 = [];
+        var image_timings_16 = [];
+        var image_timings_17 = [];
+        var image_timings_18 = [];
+        var image_timings_19 = [];
+        var image_timings_20 = [];
+        var image_timings_21 = [];
+        var image_timings_22 = [];
+        var image_timings_23 = [];
+
+        for (var i = 0; i < image_headers.length; i++) {
+          if (image_headers[i][0] == '0') {
+            image_timings_0.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '1') {
+            image_timings_1.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '2') {
+            image_timings_2.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '3') {
+            image_timings_3.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '4') {
+            image_timings_4.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '5') {
+            image_timings_5.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '6') {
+            image_timings_6.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '7') {
+            image_timings_7.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '8') {
+            image_timings_8.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '9') {
+            image_timings_9.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '10') {
+            image_timings_10.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '11') {
+            image_timings_11.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '12') {
+            image_timings_12.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '13') {
+            image_timings_13.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '14') {
+            image_timings_14.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '15') {
+            image_timings_15.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '16') {
+            image_timings_16.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '17') {
+            image_timings_17.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '18') {
+            image_timings_18.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '19') {
+            image_timings_19.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '20') {
+            image_timings_20.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '21') {
+            image_timings_21.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '22') {
+            image_timings_22.push(image_headers[i][1]);
+          } else if (image_headers[i][0] == '23') {
+            image_timings_23.push(image_headers[i][1]);
+          }
+        }
+
+        image_timings_0 = average(image_timings_0.map(Number));
+        image_timings_1 = average(image_timings_1.map(Number));
+        image_timings_2 = average(image_timings_2.map(Number));
+        image_timings_3 = average(image_timings_3.map(Number));
+        image_timings_4 = average(image_timings_4.map(Number));
+        image_timings_5 = average(image_timings_5.map(Number));
+        image_timings_6 = average(image_timings_6.map(Number));
+        image_timings_7 = average(image_timings_7.map(Number));
+        image_timings_8 = average(image_timings_8.map(Number));
+        image_timings_9 = average(image_timings_9.map(Number));
+        image_timings_10 = average(image_timings_10.map(Number));
+        image_timings_11 = average(image_timings_11.map(Number));
+        image_timings_12 = average(image_timings_12.map(Number));
+        image_timings_13 = average(image_timings_13.map(Number));
+        image_timings_14 = average(image_timings_14.map(Number));
+        image_timings_15 = average(image_timings_15.map(Number));
+        image_timings_16 = average(image_timings_16.map(Number));
+        image_timings_17 = average(image_timings_17.map(Number));
+        image_timings_18 = average(image_timings_18.map(Number));
+        image_timings_19 = average(image_timings_19.map(Number));
+        image_timings_20 = average(image_timings_20.map(Number));
+        image_timings_21 = average(image_timings_21.map(Number));
+        image_timings_22 = average(image_timings_22.map(Number));
+        image_timings_23 = average(image_timings_23.map(Number));
+
+        var monday_timings_0 = [];
+        var monday_timings_1 = [];
+        var monday_timings_2 = [];
+        var monday_timings_3 = [];
+        var monday_timings_4 = [];
+        var monday_timings_5 = [];
+        var monday_timings_6 = [];
+        var monday_timings_7 = [];
+        var monday_timings_8 = [];
+        var monday_timings_9 = [];
+        var monday_timings_10 = [];
+        var monday_timings_11 = [];
+        var monday_timings_12 = [];
+        var monday_timings_13 = [];
+        var monday_timings_14 = [];
+        var monday_timings_15 = [];
+        var monday_timings_16 = [];
+        var monday_timings_17 = [];
+        var monday_timings_18 = [];
+        var monday_timings_19 = [];
+        var monday_timings_20 = [];
+        var monday_timings_21 = [];
+        var monday_timings_22 = [];
+        var monday_timings_23 = [];
+
+        for (var i = 0; i < monday_timings.length; i++) {
+          if (monday_timings[i][0] == '0') {
+            monday_timings_0.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '1') {
+            monday_timings_1.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '2') {
+            monday_timings_2.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '3') {
+            monday_timings_3.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '4') {
+            monday_timings_4.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '5') {
+            monday_timings_5.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '6') {
+            monday_timings_6.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '7') {
+            monday_timings_7.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '8') {
+            monday_timings_8.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '9') {
+            monday_timings_9.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '10') {
+            monday_timings_10.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '11') {
+            monday_timings_11.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '12') {
+            monday_timings_12.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '13') {
+            monday_timings_13.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '14') {
+            monday_timings_14.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '15') {
+            monday_timings_15.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '16') {
+            monday_timings_16.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '17') {
+            monday_timings_17.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '18') {
+            monday_timings_18.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '19') {
+            monday_timings_19.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '20') {
+            monday_timings_20.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '21') {
+            monday_timings_21.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '22') {
+            monday_timings_22.push(monday_timings[i][1]);
+          } else if (monday_timings[i][0] == '23') {
+            monday_timings_23.push(monday_timings[i][1]);
+          }
+        }
+
+        monday_timings_0 = average(monday_timings_0.map(Number));
+        monday_timings_1 = average(monday_timings_1.map(Number));
+        monday_timings_2 = average(monday_timings_2.map(Number));
+        monday_timings_3 = average(monday_timings_3.map(Number));
+        monday_timings_4 = average(monday_timings_4.map(Number));
+        monday_timings_5 = average(monday_timings_5.map(Number));
+        monday_timings_6 = average(monday_timings_6.map(Number));
+        monday_timings_7 = average(monday_timings_7.map(Number));
+        monday_timings_8 = average(monday_timings_8.map(Number));
+        monday_timings_9 = average(monday_timings_9.map(Number));
+        monday_timings_10 = average(monday_timings_10.map(Number));
+        monday_timings_11 = average(monday_timings_11.map(Number));
+        monday_timings_12 = average(monday_timings_12.map(Number));
+        monday_timings_13 = average(monday_timings_13.map(Number));
+        monday_timings_14 = average(monday_timings_14.map(Number));
+        monday_timings_15 = average(monday_timings_15.map(Number));
+        monday_timings_16 = average(monday_timings_16.map(Number));
+        monday_timings_17 = average(monday_timings_17.map(Number));
+        monday_timings_18 = average(monday_timings_18.map(Number));
+        monday_timings_19 = average(monday_timings_19.map(Number));
+        monday_timings_20 = average(monday_timings_20.map(Number));
+        monday_timings_21 = average(monday_timings_21.map(Number));
+        monday_timings_22 = average(monday_timings_22.map(Number));
+        monday_timings_23 = average(monday_timings_23.map(Number));
+
+        var tuesday_timings_0 = [];
+        var tuesday_timings_1 = [];
+        var tuesday_timings_2 = [];
+        var tuesday_timings_3 = [];
+        var tuesday_timings_4 = [];
+        var tuesday_timings_5 = [];
+        var tuesday_timings_6 = [];
+        var tuesday_timings_7 = [];
+        var tuesday_timings_8 = [];
+        var tuesday_timings_9 = [];
+        var tuesday_timings_10 = [];
+        var tuesday_timings_11 = [];
+        var tuesday_timings_12 = [];
+        var tuesday_timings_13 = [];
+        var tuesday_timings_14 = [];
+        var tuesday_timings_15 = [];
+        var tuesday_timings_16 = [];
+        var tuesday_timings_17 = [];
+        var tuesday_timings_18 = [];
+        var tuesday_timings_19 = [];
+        var tuesday_timings_20 = [];
+        var tuesday_timings_21 = [];
+        var tuesday_timings_22 = [];
+        var tuesday_timings_23 = [];
+
+        for (var i = 0; i < tuesday_timings.length; i++) {
+          if (tuesday_timings[i][0] == '0') {
+            tuesday_timings_0.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '1') {
+            tuesday_timings_1.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '2') {
+            tuesday_timings_2.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '3') {
+            tuesday_timings_3.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '4') {
+            tuesday_timings_4.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '5') {
+            tuesday_timings_5.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '6') {
+            tuesday_timings_6.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '7') {
+            tuesday_timings_7.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '8') {
+            tuesday_timings_8.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '9') {
+            tuesday_timings_9.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '10') {
+            tuesday_timings_10.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '11') {
+            tuesday_timings_11.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '12') {
+            tuesday_timings_12.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '13') {
+            tuesday_timings_13.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '14') {
+            tuesday_timings_14.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '15') {
+            tuesday_timings_15.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '16') {
+            tuesday_timings_16.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '17') {
+            tuesday_timings_17.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '18') {
+            tuesday_timings_18.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '19') {
+            tuesday_timings_19.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '20') {
+            tuesday_timings_20.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '21') {
+            tuesday_timings_21.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '22') {
+            tuesday_timings_22.push(tuesday_timings[i][1]);
+          } else if (tuesday_timings[i][0] == '23') {
+            tuesday_timings_23.push(tuesday_timings[i][1]);
+          }
+        }
+
+        tuesday_timings_0 = average(tuesday_timings_0.map(Number));
+        tuesday_timings_1 = average(tuesday_timings_1.map(Number));
+        tuesday_timings_2 = average(tuesday_timings_2.map(Number));
+        tuesday_timings_3 = average(tuesday_timings_3.map(Number));
+        tuesday_timings_4 = average(tuesday_timings_4.map(Number));
+        tuesday_timings_5 = average(tuesday_timings_5.map(Number));
+        tuesday_timings_6 = average(tuesday_timings_6.map(Number));
+        tuesday_timings_7 = average(tuesday_timings_7.map(Number));
+        tuesday_timings_8 = average(tuesday_timings_8.map(Number));
+        tuesday_timings_9 = average(tuesday_timings_9.map(Number));
+        tuesday_timings_10 = average(tuesday_timings_10.map(Number));
+        tuesday_timings_11 = average(tuesday_timings_11.map(Number));
+        tuesday_timings_12 = average(tuesday_timings_12.map(Number));
+        tuesday_timings_13 = average(tuesday_timings_13.map(Number));
+        tuesday_timings_14 = average(tuesday_timings_14.map(Number));
+        tuesday_timings_15 = average(tuesday_timings_15.map(Number));
+        tuesday_timings_16 = average(tuesday_timings_16.map(Number));
+        tuesday_timings_17 = average(tuesday_timings_17.map(Number));
+        tuesday_timings_18 = average(tuesday_timings_18.map(Number));
+        tuesday_timings_19 = average(tuesday_timings_19.map(Number));
+        tuesday_timings_20 = average(tuesday_timings_20.map(Number));
+        tuesday_timings_21 = average(tuesday_timings_21.map(Number));
+        tuesday_timings_22 = average(tuesday_timings_22.map(Number));
+        tuesday_timings_23 = average(tuesday_timings_23.map(Number));
+
+        var wednesday_timings_0 = [];
+        var wednesday_timings_1 = [];
+        var wednesday_timings_2 = [];
+        var wednesday_timings_3 = [];
+        var wednesday_timings_4 = [];
+        var wednesday_timings_5 = [];
+        var wednesday_timings_6 = [];
+        var wednesday_timings_7 = [];
+        var wednesday_timings_8 = [];
+        var wednesday_timings_9 = [];
+        var wednesday_timings_10 = [];
+        var wednesday_timings_11 = [];
+        var wednesday_timings_12 = [];
+        var wednesday_timings_13 = [];
+        var wednesday_timings_14 = [];
+        var wednesday_timings_15 = [];
+        var wednesday_timings_16 = [];
+        var wednesday_timings_17 = [];
+        var wednesday_timings_18 = [];
+        var wednesday_timings_19 = [];
+        var wednesday_timings_20 = [];
+        var wednesday_timings_21 = [];
+        var wednesday_timings_22 = [];
+        var wednesday_timings_23 = [];
+
+        for (var i = 0; i < wednesday_timings.length; i++) {
+          if (wednesday_timings[i][0] == '0') {
+            wednesday_timings_0.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '1') {
+            wednesday_timings_1.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '2') {
+            wednesday_timings_2.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '3') {
+            wednesday_timings_3.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '4') {
+            wednesday_timings_4.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '5') {
+            wednesday_timings_5.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '6') {
+            wednesday_timings_6.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '7') {
+            wednesday_timings_7.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '8') {
+            wednesday_timings_8.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '9') {
+            wednesday_timings_9.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '10') {
+            wednesday_timings_10.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '11') {
+            wednesday_timings_11.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '12') {
+            wednesday_timings_12.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '13') {
+            wednesday_timings_13.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '14') {
+            wednesday_timings_14.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '15') {
+            wednesday_timings_15.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '16') {
+            wednesday_timings_16.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '17') {
+            wednesday_timings_17.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '18') {
+            wednesday_timings_18.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '19') {
+            wednesday_timings_19.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '20') {
+            wednesday_timings_20.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '21') {
+            wednesday_timings_21.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '22') {
+            wednesday_timings_22.push(wednesday_timings[i][1]);
+          } else if (wednesday_timings[i][0] == '23') {
+            wednesday_timings_23.push(wednesday_timings[i][1]);
+          }
+        }
+
+        wednesday_timings_0 = average(wednesday_timings_0.map(Number));
+        wednesday_timings_1 = average(wednesday_timings_1.map(Number));
+        wednesday_timings_2 = average(wednesday_timings_2.map(Number));
+        wednesday_timings_3 = average(wednesday_timings_3.map(Number));
+        wednesday_timings_4 = average(wednesday_timings_4.map(Number));
+        wednesday_timings_5 = average(wednesday_timings_5.map(Number));
+        wednesday_timings_6 = average(wednesday_timings_6.map(Number));
+        wednesday_timings_7 = average(wednesday_timings_7.map(Number));
+        wednesday_timings_8 = average(wednesday_timings_8.map(Number));
+        wednesday_timings_9 = average(wednesday_timings_9.map(Number));
+        wednesday_timings_10 = average(wednesday_timings_10.map(Number));
+        wednesday_timings_11 = average(wednesday_timings_11.map(Number));
+        wednesday_timings_12 = average(wednesday_timings_12.map(Number));
+        wednesday_timings_13 = average(wednesday_timings_13.map(Number));
+        wednesday_timings_14 = average(wednesday_timings_14.map(Number));
+        wednesday_timings_15 = average(wednesday_timings_15.map(Number));
+        wednesday_timings_16 = average(wednesday_timings_16.map(Number));
+        wednesday_timings_17 = average(wednesday_timings_17.map(Number));
+        wednesday_timings_18 = average(wednesday_timings_18.map(Number));
+        wednesday_timings_19 = average(wednesday_timings_19.map(Number));
+        wednesday_timings_20 = average(wednesday_timings_20.map(Number));
+        wednesday_timings_21 = average(wednesday_timings_21.map(Number));
+        wednesday_timings_22 = average(wednesday_timings_22.map(Number));
+        wednesday_timings_23 = average(wednesday_timings_23.map(Number));
+
+        var thursday_timings_0 = [];
+        var thursday_timings_1 = [];
+        var thursday_timings_2 = [];
+        var thursday_timings_3 = [];
+        var thursday_timings_4 = [];
+        var thursday_timings_5 = [];
+        var thursday_timings_6 = [];
+        var thursday_timings_7 = [];
+        var thursday_timings_8 = [];
+        var thursday_timings_9 = [];
+        var thursday_timings_10 = [];
+        var thursday_timings_11 = [];
+        var thursday_timings_12 = [];
+        var thursday_timings_13 = [];
+        var thursday_timings_14 = [];
+        var thursday_timings_15 = [];
+        var thursday_timings_16 = [];
+        var thursday_timings_17 = [];
+        var thursday_timings_18 = [];
+        var thursday_timings_19 = [];
+        var thursday_timings_20 = [];
+        var thursday_timings_21 = [];
+        var thursday_timings_22 = [];
+        var thursday_timings_23 = [];
+
+        for (var i = 0; i < thursday_timings.length; i++) {
+          if (thursday_timings[i][0] == '0') {
+            thursday_timings_0.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '1') {
+            thursday_timings_1.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '2') {
+            thursday_timings_2.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '3') {
+            thursday_timings_3.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '4') {
+            thursday_timings_4.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '5') {
+            thursday_timings_5.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '6') {
+            thursday_timings_6.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '7') {
+            thursday_timings_7.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '8') {
+            thursday_timings_8.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '9') {
+            thursday_timings_9.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '10') {
+            thursday_timings_10.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '11') {
+            thursday_timings_11.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '12') {
+            thursday_timings_12.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '13') {
+            thursday_timings_13.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '14') {
+            thursday_timings_14.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '15') {
+            thursday_timings_15.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '16') {
+            thursday_timings_16.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '17') {
+            thursday_timings_17.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '18') {
+            thursday_timings_18.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '19') {
+            thursday_timings_19.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '20') {
+            thursday_timings_20.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '21') {
+            thursday_timings_21.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '22') {
+            thursday_timings_22.push(thursday_timings[i][1]);
+          } else if (thursday_timings[i][0] == '23') {
+            thursday_timings_23.push(thursday_timings[i][1]);
+          }
+        }
+
+        thursday_timings_0 = average(thursday_timings_0.map(Number));
+        thursday_timings_1 = average(thursday_timings_2.map(Number));
+        thursday_timings_2 = average(thursday_timings_3.map(Number));
+        thursday_timings_3 = average(thursday_timings_4.map(Number));
+        thursday_timings_4 = average(thursday_timings_5.map(Number));
+        thursday_timings_5 = average(thursday_timings_6.map(Number));
+        thursday_timings_6 = average(thursday_timings_7.map(Number));
+        thursday_timings_7 = average(thursday_timings_8.map(Number));
+        thursday_timings_8 = average(thursday_timings_9.map(Number));
+        thursday_timings_9 = average(thursday_timings_10.map(Number));
+        thursday_timings_10 = average(thursday_timings_11.map(Number));
+        thursday_timings_11 = average(thursday_timings_11.map(Number));
+        thursday_timings_12 = average(thursday_timings_12.map(Number));
+        thursday_timings_13 = average(thursday_timings_13.map(Number));
+        thursday_timings_14 = average(thursday_timings_14.map(Number));
+        thursday_timings_15 = average(thursday_timings_15.map(Number));
+        thursday_timings_16 = average(thursday_timings_16.map(Number));
+        thursday_timings_17 = average(thursday_timings_17.map(Number));
+        thursday_timings_18 = average(thursday_timings_18.map(Number));
+        thursday_timings_19 = average(thursday_timings_19.map(Number));
+        thursday_timings_20 = average(thursday_timings_20.map(Number));
+        thursday_timings_21 = average(thursday_timings_21.map(Number));
+        thursday_timings_22 = average(thursday_timings_22.map(Number));
+        thursday_timings_23 = average(thursday_timings_23.map(Number));
+
+        var friday_timings_0 = [];
+        var friday_timings_1 = [];
+        var friday_timings_2 = [];
+        var friday_timings_3 = [];
+        var friday_timings_4 = [];
+        var friday_timings_5 = [];
+        var friday_timings_6 = [];
+        var friday_timings_7 = [];
+        var friday_timings_8 = [];
+        var friday_timings_9 = [];
+        var friday_timings_10 = [];
+        var friday_timings_11 = [];
+        var friday_timings_12 = [];
+        var friday_timings_13 = [];
+        var friday_timings_14 = [];
+        var friday_timings_15 = [];
+        var friday_timings_16 = [];
+        var friday_timings_17 = [];
+        var friday_timings_18 = [];
+        var friday_timings_19 = [];
+        var friday_timings_20 = [];
+        var friday_timings_21 = [];
+        var friday_timings_22 = [];
+        var friday_timings_23 = [];
+
+        for (var i = 0; i < friday_timings.length; i++) {
+          if (friday_timings[i][0] == '0') {
+            friday_timings_0.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '1') {
+            friday_timings_1.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '2') {
+            friday_timings_2.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '3') {
+            friday_timings_3.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '4') {
+            friday_timings_4.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '5') {
+            friday_timings_5.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '6') {
+            friday_timings_6.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '7') {
+            friday_timings_7.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '8') {
+            friday_timings_8.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '9') {
+            friday_timings_9.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '10') {
+            friday_timings_10.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '11') {
+            friday_timings_11.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '12') {
+            friday_timings_12.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '13') {
+            friday_timings_13.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '14') {
+            friday_timings_14.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '15') {
+            friday_timings_15.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '16') {
+            friday_timings_16.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '17') {
+            friday_timings_17.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '18') {
+            friday_timings_18.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '19') {
+            friday_timings_19.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '20') {
+            friday_timings_20.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '21') {
+            friday_timings_21.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '22') {
+            friday_timings_22.push(friday_timings[i][1]);
+          } else if (friday_timings[i][0] == '23') {
+            friday_timings_23.push(friday_timings[i][1]);
+          }
+        }
+
+        friday_timings_0 = average(friday_timings_0.map(Number));
+        friday_timings_1 = average(friday_timings_1.map(Number));
+        friday_timings_2 = average(friday_timings_2.map(Number));
+        friday_timings_3 = average(friday_timings_3.map(Number));
+        friday_timings_4 = average(friday_timings_4.map(Number));
+        friday_timings_5 = average(friday_timings_5.map(Number));
+        friday_timings_6 = average(friday_timings_6.map(Number));
+        friday_timings_7 = average(friday_timings_7.map(Number));
+        friday_timings_8 = average(friday_timings_8.map(Number));
+        friday_timings_9 = average(friday_timings_9.map(Number));
+        friday_timings_10 = average(friday_timings_10.map(Number));
+        friday_timings_11 = average(friday_timings_11.map(Number));
+        friday_timings_12 = average(friday_timings_12.map(Number));
+        friday_timings_13 = average(friday_timings_13.map(Number));
+        friday_timings_14 = average(friday_timings_14.map(Number));
+        friday_timings_15 = average(friday_timings_15.map(Number));
+        friday_timings_16 = average(friday_timings_16.map(Number));
+        friday_timings_17 = average(friday_timings_17.map(Number));
+        friday_timings_18 = average(friday_timings_18.map(Number));
+        friday_timings_19 = average(friday_timings_19.map(Number));
+        friday_timings_20 = average(friday_timings_20.map(Number));
+        friday_timings_21 = average(friday_timings_21.map(Number));
+        friday_timings_22 = average(friday_timings_22.map(Number));
+        friday_timings_23 = average(friday_timings_23.map(Number));
+
+        var saturday_timings_0 = [];
+        var saturday_timings_1 = [];
+        var saturday_timings_2 = [];
+        var saturday_timings_3 = [];
+        var saturday_timings_4 = [];
+        var saturday_timings_5 = [];
+        var saturday_timings_6 = [];
+        var saturday_timings_7 = [];
+        var saturday_timings_8 = [];
+        var saturday_timings_9 = [];
+        var saturday_timings_10 = [];
+        var saturday_timings_11 = [];
+        var saturday_timings_12 = [];
+        var saturday_timings_13 = [];
+        var saturday_timings_14 = [];
+        var saturday_timings_15 = [];
+        var saturday_timings_16 = [];
+        var saturday_timings_17 = [];
+        var saturday_timings_18 = [];
+        var saturday_timings_19 = [];
+        var saturday_timings_20 = [];
+        var saturday_timings_21 = [];
+        var saturday_timings_22 = [];
+        var saturday_timings_23 = [];
+
+        for (var i = 0; i < saturday_timings.length; i++) {
+          if (saturday_timings[i][0] == '0') {
+            saturday_timings_0.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '1') {
+            saturday_timings_1.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '2') {
+            saturday_timings_2.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '3') {
+            saturday_timings_3.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '4') {
+            saturday_timings_4.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '5') {
+            saturday_timings_5.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '6') {
+            saturday_timings_6.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '7') {
+            saturday_timings_7.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '8') {
+            saturday_timings_8.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '9') {
+            saturday_timings_9.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '10') {
+            saturday_timings_10.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '11') {
+            saturday_timings_11.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '12') {
+            saturday_timings_12.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '13') {
+            saturday_timings_13.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '14') {
+            saturday_timings_14.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '15') {
+            saturday_timings_15.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '16') {
+            saturday_timings_16.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '17') {
+            saturday_timings_17.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '18') {
+            saturday_timings_18.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '19') {
+            saturday_timings_19.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '20') {
+            saturday_timings_20.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '21') {
+            saturday_timings_21.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '22') {
+            saturday_timings_22.push(saturday_timings[i][1]);
+          } else if (saturday_timings[i][0] == '23') {
+            saturday_timings_23.push(saturday_timings[i][1]);
+          }
+        }
+
+        saturday_timings_0 = average(saturday_timings_0.map(Number));
+        saturday_timings_1 = average(saturday_timings_1.map(Number));
+        saturday_timings_2 = average(saturday_timings_2.map(Number));
+        saturday_timings_3 = average(saturday_timings_3.map(Number));
+        saturday_timings_4 = average(saturday_timings_4.map(Number));
+        saturday_timings_5 = average(saturday_timings_5.map(Number));
+        saturday_timings_6 = average(saturday_timings_6.map(Number));
+        saturday_timings_7 = average(saturday_timings_7.map(Number));
+        saturday_timings_8 = average(saturday_timings_8.map(Number));
+        saturday_timings_9 = average(saturday_timings_9.map(Number));
+        saturday_timings_10 = average(saturday_timings_10.map(Number));
+        saturday_timings_11 = average(saturday_timings_11.map(Number));
+        saturday_timings_12 = average(saturday_timings_12.map(Number));
+        saturday_timings_13 = average(saturday_timings_13.map(Number));
+        saturday_timings_14 = average(saturday_timings_14.map(Number));
+        saturday_timings_15 = average(saturday_timings_15.map(Number));
+        saturday_timings_16 = average(saturday_timings_16.map(Number));
+        saturday_timings_17 = average(saturday_timings_17.map(Number));
+        saturday_timings_18 = average(saturday_timings_18.map(Number));
+        saturday_timings_19 = average(saturday_timings_19.map(Number));
+        saturday_timings_20 = average(saturday_timings_20.map(Number));
+        saturday_timings_21 = average(saturday_timings_21.map(Number));
+        saturday_timings_22 = average(saturday_timings_22.map(Number));
+        saturday_timings_23 = average(saturday_timings_23.map(Number));
+
+        var sunday_timings_0 = [];
+        var sunday_timings_1 = [];
+        var sunday_timings_2 = [];
+        var sunday_timings_3 = [];
+        var sunday_timings_4 = [];
+        var sunday_timings_5 = [];
+        var sunday_timings_6 = [];
+        var sunday_timings_7 = [];
+        var sunday_timings_8 = [];
+        var sunday_timings_9 = [];
+        var sunday_timings_10 = [];
+        var sunday_timings_11 = [];
+        var sunday_timings_12 = [];
+        var sunday_timings_13 = [];
+        var sunday_timings_14 = [];
+        var sunday_timings_15 = [];
+        var sunday_timings_16 = [];
+        var sunday_timings_17 = [];
+        var sunday_timings_18 = [];
+        var sunday_timings_19 = [];
+        var sunday_timings_20 = [];
+        var sunday_timings_21 = [];
+        var sunday_timings_22 = [];
+        var sunday_timings_23 = [];
+
+
+        for (var i = 0; i < sunday_timings.length; i++) {
+          if (sunday_timings[i][0] == '0') {
+            sunday_timings_0.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '1') {
+            sunday_timings_1.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '2') {
+            sunday_timings_2.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '3') {
+            sunday_timings_3.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '4') {
+            sunday_timings_4.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '5') {
+            sunday_timings_5.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '6') {
+            sunday_timings_6.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '7') {
+            sunday_timings_7.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '8') {
+            sunday_timings_8.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '9') {
+            sunday_timings_9.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '10') {
+            sunday_timings_10.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '11') {
+            sunday_timings_11.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '12') {
+            sunday_timings_12.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '13') {
+            sunday_timings_13.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '14') {
+            sunday_timings_14.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '15') {
+            sunday_timings_15.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '16') {
+            sunday_timings_16.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '17') {
+            sunday_timings_17.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '18') {
+            sunday_timings_18.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '19') {
+            sunday_timings_19.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '20') {
+            sunday_timings_20.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '21') {
+            sunday_timings_21.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '22') {
+            sunday_timings_22.push(sunday_timings[i][1]);
+          } else if (sunday_timings[i][0] == '23') {
+            sunday_timings_23.push(sunday_timings[i][1]);
+          }
+        }
+
+        sunday_timings_0 = average(sunday_timings_0.map(Number));
+        sunday_timings_1 = average(sunday_timings_1.map(Number));
+        sunday_timings_2 = average(sunday_timings_2.map(Number));
+        sunday_timings_3 = average(sunday_timings_3.map(Number));
+        sunday_timings_4 = average(sunday_timings_4.map(Number));
+        sunday_timings_5 = average(sunday_timings_5.map(Number));
+        sunday_timings_6 = average(sunday_timings_6.map(Number));
+        sunday_timings_7 = average(sunday_timings_7.map(Number));
+        sunday_timings_8 = average(sunday_timings_8.map(Number));
+        sunday_timings_9 = average(sunday_timings_9.map(Number));
+        sunday_timings_10 = average(sunday_timings_10.map(Number));
+        sunday_timings_11 = average(sunday_timings_11.map(Number));
+        sunday_timings_12 = average(sunday_timings_12.map(Number));
+        sunday_timings_13 = average(sunday_timings_13.map(Number));
+        sunday_timings_14 = average(sunday_timings_14.map(Number));
+        sunday_timings_15 = average(sunday_timings_15.map(Number));
+        sunday_timings_16 = average(sunday_timings_16.map(Number));
+        sunday_timings_17 = average(sunday_timings_17.map(Number));
+        sunday_timings_18 = average(sunday_timings_18.map(Number));
+        sunday_timings_19 = average(sunday_timings_19.map(Number));
+        sunday_timings_20 = average(sunday_timings_20.map(Number));
+        sunday_timings_21 = average(sunday_timings_21.map(Number));
+        sunday_timings_22 = average(sunday_timings_22.map(Number));
+        sunday_timings_23 = average(sunday_timings_23.map(Number));
+
+        get_timings_0 = [];
+        get_timings_1 = [];
+        get_timings_2 = [];
+        get_timings_3 = [];
+        get_timings_4 = [];
+        get_timings_5 = [];
+        get_timings_6 = [];
+        get_timings_7 = [];
+        get_timings_8 = [];
+        get_timings_9 = [];
+        get_timings_10 = [];
+        get_timings_11 = [];
+        get_timings_12 = [];
+        get_timings_13 = [];
+        get_timings_14 = [];
+        get_timings_15 = [];
+        get_timings_16 = [];
+        get_timings_17 = [];
+        get_timings_18 = [];
+        get_timings_19 = [];
+        get_timings_20 = [];
+        get_timings_21 = [];
+        get_timings_22 = [];
+        get_timings_23 = [];
+
+        for (var i = 0; i < get_timings.length; i++) {
+          if (get_timings[i][0] == '0') {
+            get_timings_0.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '1') {
+            get_timings_1.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '2') {
+            get_timings_2.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '3') {
+            get_timings_3.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '4') {
+            get_timings_4.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '5') {
+            get_timings_5.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '6') {
+            get_timings_6.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '7') {
+            get_timings_7.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '8') {
+            get_timings_8.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '9') {
+            get_timings_9.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '10') {
+            get_timings_10.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '11') {
+            get_timings_11.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '12') {
+            get_timings_12.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '13') {
+            get_timings_13.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '14') {
+            get_timings_14.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '15') {
+            get_timings_15.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '16') {
+            get_timings_16.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '17') {
+            get_timings_17.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '18') {
+            get_timings_18.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '19') {
+            get_timings_19.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '20') {
+            get_timings_20.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '21') {
+            get_timings_21.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '22') {
+            get_timings_22.push(get_timings[i][1]);
+          } else if (get_timings[i][0] == '23') {
+            get_timings_23.push(get_timings[i][1]);
+          }
+        }
+
+        get_timings_0 = average(get_timings_0.map(Number));
+        get_timings_1 = average(get_timings_1.map(Number));
+        get_timings_2 = average(get_timings_2.map(Number));
+        get_timings_3 = average(get_timings_3.map(Number));
+        get_timings_4 = average(get_timings_4.map(Number));
+        get_timings_5 = average(get_timings_5.map(Number));
+        get_timings_6 = average(get_timings_6.map(Number));
+        get_timings_7 = average(get_timings_7.map(Number));
+        get_timings_8 = average(get_timings_8.map(Number));
+        get_timings_9 = average(get_timings_9.map(Number));
+        get_timings_10 = average(get_timings_10.map(Number));
+        get_timings_11 = average(get_timings_11.map(Number));
+        get_timings_12 = average(get_timings_12.map(Number));
+        get_timings_13 = average(get_timings_13.map(Number));
+        get_timings_14 = average(get_timings_14.map(Number));
+        get_timings_15 = average(get_timings_15.map(Number));
+        get_timings_16 = average(get_timings_16.map(Number));
+        get_timings_17 = average(get_timings_17.map(Number));
+        get_timings_18 = average(get_timings_18.map(Number));
+        get_timings_19 = average(get_timings_19.map(Number));
+        get_timings_20 = average(get_timings_20.map(Number));
+        get_timings_21 = average(get_timings_21.map(Number));
+        get_timings_22 = average(get_timings_22.map(Number));
+        get_timings_23 = average(get_timings_23.map(Number));
+
+        var post_timings_0 = [];
+        var post_timings_1 = [];
+        var post_timings_2 = [];
+        var post_timings_3 = [];
+        var post_timings_4 = [];
+        var post_timings_5 = [];
+        var post_timings_6 = [];
+        var post_timings_7 = [];
+        var post_timings_8 = [];
+        var post_timings_9 = [];
+        var post_timings_10 = [];
+        var post_timings_11 = [];
+        var post_timings_12 = [];
+        var post_timings_13 = [];
+        var post_timings_14 = [];
+        var post_timings_15 = [];
+        var post_timings_16 = [];
+        var post_timings_17 = [];
+        var post_timings_18 = [];
+        var post_timings_19 = [];
+        var post_timings_20 = [];
+        var post_timings_21 = [];
+        var post_timings_22 = [];
+        var post_timings_23 = [];
+
+        for (var i = 0; i < post_timings.length; i++) {
+          if (post_timings[i][0] == '0') {
+            post_timings_0.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '1') {
+            post_timings_1.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '2') {
+            post_timings_2.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '3') {
+            post_timings_3.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '4') {
+            post_timings_4.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '5') {
+            post_timings_5.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '6') {
+            post_timings_6.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '7') {
+            post_timings_7.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '8') {
+            post_timings_8.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '9') {
+            post_timings_9.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '10') {
+            post_timings_10.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '11') {
+            post_timings_11.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '12') {
+            post_timings_12.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '13') {
+            post_timings_13.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '14') {
+            post_timings_14.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '15') {
+            post_timings_15.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '16') {
+            post_timings_16.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '17') {
+            post_timings_17.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '18') {
+            post_timings_18.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '19') {
+            post_timings_19.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '20') {
+            post_timings_20.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '21') {
+            post_timings_21.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '22') {
+            post_timings_22.push(post_timings[i][1]);
+          } else if (post_timings[i][0] == '23') {
+            post_timings_23.push(post_timings[i][1]);
+          }
+        }
+
+        post_timings_0 = average(post_timings_0.map(Number));
+        post_timings_1 = average(post_timings_1.map(Number));
+        post_timings_2 = average(post_timings_2.map(Number));
+        post_timings_3 = average(post_timings_3.map(Number));
+        post_timings_4 = average(post_timings_4.map(Number));
+        post_timings_5 = average(post_timings_5.map(Number));
+        post_timings_6 = average(post_timings_6.map(Number));
+        post_timings_7 = average(post_timings_7.map(Number));
+        post_timings_8 = average(post_timings_8.map(Number));
+        post_timings_9 = average(post_timings_9.map(Number));
+        post_timings_10 = average(post_timings_10.map(Number));
+        post_timings_11 = average(post_timings_11.map(Number));
+        post_timings_12 = average(post_timings_12.map(Number));
+        post_timings_13 = average(post_timings_13.map(Number));
+        post_timings_14 = average(post_timings_14.map(Number));
+        post_timings_15 = average(post_timings_15.map(Number));
+        post_timings_16 = average(post_timings_16.map(Number));
+        post_timings_17 = average(post_timings_17.map(Number));
+        post_timings_18 = average(post_timings_18.map(Number));
+        post_timings_19 = average(post_timings_19.map(Number));
+        post_timings_20 = average(post_timings_20.map(Number));
+        post_timings_21 = average(post_timings_21.map(Number));
+        post_timings_22 = average(post_timings_22.map(Number));
+        post_timings_23 = average(post_timings_23.map(Number));
+
+
+
+
+
+        var ctx = document.getElementById('timings-chart').getContext('2d');
+        var timings_chart = new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+            datasets: [{
+              label: 'html-headers',
+              fill: false,
+              backgroundColor: '#7425EC',
+              borderColor: '#6633FF',
+              borderWidth: 1,
+              data: [html_timings_0, html_timings_1, html_timings_2, html_timings_3, html_timings_4,
+                html_timings_5, html_timings_6, html_timings_7, html_timings_8, html_timings_9,
+                html_timings_10, html_timings_11, html_timings_12, html_timings_13, html_timings_14,
+                html_timings_15, html_timings_16, html_timings_17, html_timings_18,
+                html_timings_19,
+                html_timings_20,
+                html_timings_21, html_timings_22, html_timings_23
+              ]
+            }, {
+              label: 'javascript-headers',
+              fill: false,
+              backgroundColor: '#333AFF',
+              borderColor: '#3333FF',
+              borderWidth: 1,
+              data: [javascript_timings_0, javascript_timings_1, javascript_timings_2, javascript_timings_3,
+                javascript_timings_4, javascript_timings_5, javascript_timings_6, javascript_timings_7,
+                javascript_timings_8, javascript_timings_9, javascript_timings_10, javascript_timings_11,
+                javascript_timings_12, javascript_timings_13, javascript_timings_14, javascript_timings_15,
+                javascript_timings_16,
+                javascript_timings_17, javascript_timings_18, javascript_timings_19, javascript_timings_20,
+                javascript_timings_21, javascript_timings_22,
+                javascript_timings_23
+              ]
+            }, {
+              label: 'css-headers',
+              fill: false,
+              backgroundColor: '#336AFF',
+              borderColor: '#3366FF',
+              borderWidth: 1,
+              data: [css_timings_0, css_timings_1, css_timings_2, css_timings_3, css_timings_4, css_timings_5,
+                css_timings_6, css_timings_7,
+                css_timings_8, css_timings_9, css_timings_10, css_timings_11, css_timings_12,
+                css_timings_13,
+                css_timings_14, css_timings_15, css_timings_16, css_timings_17, css_timings_18,
+                css_timings_19,
+                css_timings_20,
+                css_timings_21, css_timings_22, css_timings_23
+              ]
+            }, {
+              label: 'image-headers',
+              fill: false,
+              backgroundColor: '#33AEFF',
+              borderColor: '#3399FF',
+              borderWidth: 1,
+              data: [image_timings_0, image_timings_1, image_timings_2, image_timings_3, image_timings_4,
+                monday_timings_5,
+                image_timings_6, image_timings_7, image_timings_8, image_timings_9, image_timings_10,
+                image_timings_11, image_timings_12, image_timings_13, image_timings_14, image_timings_15,
+                image_timings_16, image_timings_17, image_timings_18, image_timings_19, image_timings_20,
+                image_timings_21,
+                image_timings_22, image_timings_23
+              ]
+            }, {
+              label: 'Δευτέρα',
+              fill: false,
+              backgroundColor: '#33D0FF',
+              borderColor: '#33CCFF',
+              borderWidth: 1,
+              data: [monday_timings_0, monday_timings_1, monday_timings_2, monday_timings_3, monday_timings_4,
+                monday_timings_5, monday_timings_6, monday_timings_7, monday_timings_8, monday_timings_9,
+                monday_timings_10, monday_timings_11, monday_timings_12, monday_timings_13,
+                monday_timings_14,
+                monday_timings_15, monday_timings_16, monday_timings_17, monday_timings_18,
+                monday_timings_19,
+                monday_timings_20,
+                monday_timings_21, monday_timings_22, monday_timings_23
+              ]
+            }, {
+              label: 'Τρίτη',
+              fill: false,
+              backgroundColor: '#33ECFF',
+              borderColor: '#33FFFF',
+              borderWidth: 1,
+              data: [tuesday_timings_0, tuesday_timings_1, tuesday_timings_2, tuesday_timings_3,
+                tuesday_timings_4, tuesday_timings_5, tuesday_timings_6, tuesday_timings_7,
+                tuesday_timings_8, tuesday_timings_9, tuesday_timings_10, tuesday_timings_11,
+                tuesday_timings_12, tuesday_timings_13, tuesday_timings_14,
+                tuesday_timings_15, tuesday_timings_16, tuesday_timings_17, tuesday_timings_18,
+                tuesday_timings_19,
+                tuesday_timings_20,
+                tuesday_timings_21, tuesday_timings_22, tuesday_timings_23
+              ]
+            }, {
+              label: 'Τετάρτη',
+              fill: false,
+              backgroundColor: '#33FFD0',
+              borderColor: '#33FFD0',
+              borderWidth: 1,
+              data: [wednesday_timings_0, wednesday_timings_1, wednesday_timings_2, wednesday_timings_3,
+                wednesday_timings_4, wednesday_timings_5, wednesday_timings_6, wednesday_timings_7,
+                wednesday_timings_8, wednesday_timings_9, wednesday_timings_10, wednesday_timings_11,
+                wednesday_timings_12, wednesday_timings_13, wednesday_timings_14, wednesday_timings_15,
+                wednesday_timings_16, wednesday_timings_17, wednesday_timings_18,
+                wednesday_timings_19,
+                wednesday_timings_20,
+                wednesday_timings_21, wednesday_timings_22, wednesday_timings_23
+              ]
+            }, {
+              label: 'Πέμπτη',
+              fill: false,
+              backgroundColor: '#33FFA7',
+              borderColor: '#33FF99',
+              borderWidth: 1,
+              data: [thursday_timings_0, thursday_timings_1, thursday_timings_2, thursday_timings_3,
+                thursday_timings_4, thursday_timings_5, thursday_timings_6, thursday_timings_7,
+                thursday_timings_8, thursday_timings_9, thursday_timings_10, thursday_timings_11,
+                thursday_timings_12, thursday_timings_13, thursday_timings_14, thursday_timings_15,
+                thursday_timings_16,
+                thursday_timings_17, thursday_timings_18,
+                thursday_timings_19,
+                thursday_timings_20,
+                thursday_timings_21, thursday_timings_22, thursday_timings_23
+              ]
+            }, {
+              label: 'Παρασκευή',
+              fill: false,
+              backgroundColor: '#33FF71',
+              borderColor: '#33FF66',
+              borderWidth: 1,
+              data: [friday_timings_0, friday_timings_1, friday_timings_2, friday_timings_3, friday_timings_4,
+                friday_timings_5, friday_timings_6, friday_timings_7, friday_timings_8, friday_timings_9,
+                friday_timings_10, friday_timings_11, friday_timings_12, friday_timings_13,
+                friday_timings_14, friday_timings_15, friday_timings_16, friday_timings_17,
+                friday_timings_18,
+                friday_timings_19,
+                friday_timings_20,
+                friday_timings_21, friday_timings_22, friday_timings_23
+              ]
+            }, {
+              label: 'Σάββατο',
+              fill: false,
+              backgroundColor: '#33FF33',
+              borderColor: '#33FF33',
+              borderWidth: 1,
+              data: [saturday_timings_0, saturday_timings_1, saturday_timings_2, saturday_timings_3,
+                saturday_timings_4, saturday_timings_5, saturday_timings_6, saturday_timings_7,
+                saturday_timings_8, saturday_timings_9, saturday_timings_10, saturday_timings_11,
+                saturday_timings_12, saturday_timings_13, saturday_timings_14, saturday_timings_15,
+                saturday_timings_16,
+                saturday_timings_17, saturday_timings_18,
+                saturday_timings_19,
+                saturday_timings_20,
+                saturday_timings_21, saturday_timings_22, saturday_timings_23
+              ]
+            }, {
+              label: 'Κυριακή',
+              fill: false,
+              backgroundColor: '#7EFF33',
+              borderColor: '#66FF33',
+              borderWidth: 1,
+              data: [sunday_timings_0, sunday_timings_1, sunday_timings_2, sunday_timings_3, sunday_timings_4,
+                sunday_timings_5, sunday_timings_6, sunday_timings_7, sunday_timings_8, sunday_timings_9,
+                sunday_timings_10, sunday_timings_11, sunday_timings_12, sunday_timings_13,
+                sunday_timings_14, sunday_timings_15, sunday_timings_16, sunday_timings_17,
+                sunday_timings_18,
+                sunday_timings_19,
+                sunday_timings_20,
+                sunday_timings_21, sunday_timings_22, sunday_timings_23
+              ]
+            }, {
+              label: 'GET',
+              fill: false,
+              backgroundColor: '#85FF33',
+              borderColor: '#85FF33',
+              borderWidth: 1,
+              data: [get_timings_0, get_timings_1, get_timings_2, get_timings_3, get_timings_4, get_timings_5,
+                get_timings_6, get_timings_7, get_timings_8, get_timings_9, get_timings_10, get_timings_11,
+                get_timings_12, get_timings_13, get_timings_14, get_timings_15, get_timings_16,
+                get_timings_17,
+                get_timings_18,
+                get_timings_19,
+                get_timings_20,
+                get_timings_21, get_timings_22, get_timings_23
+              ]
+            }, {
+              label: 'POST',
+              fill: false,
+              backgroundColor: '#A7FF33',
+              borderColor: '#A7FF33',
+              borderWidth: 1,
+              data: [post_timings_0, post_timings_1, post_timings_2, post_timings_3, post_timings_4,
+                post_timings_5, post_timings_6, post_timings_7, post_timings_8, post_timings_9,
+                post_timings_10, post_timings_11, post_timings_12, post_timings_13, post_timings_14,
+                post_timings_15, post_timings_16, post_timings_17, post_timings_18,
+                post_timings_19,
+                post_timings_20,
+                post_timings_21, post_timings_22, post_timings_23
+              ]
+            }]
+          },
+          options: {
+            scales: {
+              xAxes: [{}],
+              yAxes: [{
+                gridLines: {
+                  color: "rgba(0, 0, 0, 0)",
+                },
+                ticks: {
+                  beginAtZero: true
+                }
+              }]
+            }
+          }
+        });
+      });
+  </script>
+
+</body>
+
+</html>

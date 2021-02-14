@@ -1,0 +1,4615 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "oracle.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "oracle.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "Moved Permanently",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "137.254.120.50",
+        "startedDateTime": "2021-02-08T11:28:29.861Z",
+        "timings": {
+          "wait": 264.1029999908656
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.oracle.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "Moved Permanently",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:30.536Z",
+        "timings": {
+          "wait": 68.56300005039571
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:30.751Z",
+        "timings": {
+          "wait": 126.4729999202192
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=iso-8859-1"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.119Z",
+        "timings": {
+          "wait": 70.43300002728402
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=iso-8859-1"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.120Z",
+        "timings": {
+          "wait": 67.17600004658102
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "unknown"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.120Z",
+        "timings": {
+          "wait": 66.76200000238418
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.138Z",
+        "timings": {
+          "wait": 78.94699995408952
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.139Z",
+        "timings": {
+          "wait": 206.99600004164876
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.139Z",
+        "timings": {
+          "wait": 207.40900008615853
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.139Z",
+        "timings": {
+          "wait": 211.2229999064952
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.140Z",
+        "timings": {
+          "wait": 211.13900007967652
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.140Z",
+        "timings": {
+          "wait": 295.43799996784327
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.141Z",
+        "timings": {
+          "wait": 325.40100000606475
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.142Z",
+        "timings": {
+          "wait": 335.95899997605386
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.142Z",
+        "timings": {
+          "wait": 336.21200006656346
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.144Z",
+        "timings": {
+          "wait": 389.8519999037087
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.144Z",
+        "timings": {
+          "wait": 342.6180000068545
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.146Z",
+        "timings": {
+          "wait": 342.88099996587636
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "assets.adobedtm.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:19a::1e80]",
+        "startedDateTime": "2021-02-08T11:28:31.146Z",
+        "timings": {
+          "wait": 166.51999989907443
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.146Z",
+        "timings": {
+          "wait": 377.09900009962917
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset="
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.147Z",
+        "timings": {
+          "wait": 139.65199994991718
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.148Z",
+        "timings": {
+          "wait": 133.37099991746246
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.148Z",
+        "timings": {
+          "wait": 116.51000011402368
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.148Z",
+        "timings": {
+          "wait": 360.49899996486306
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "unknown"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.226Z",
+        "timings": {
+          "wait": 299.3960000359714
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "unknown"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:31.227Z",
+        "timings": {
+          "wait": 328.6830000795275
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.truste.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "99.86.241.18",
+        "startedDateTime": "2021-02-08T11:28:32.275Z",
+        "timings": {
+          "wait": 159.3449999995977
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "service.maxymiser.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.36.210.16",
+        "startedDateTime": "2021-02-08T11:28:32.287Z",
+        "timings": {
+          "wait": 178.4730000833273
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "service.maxymiser.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.36.210.16",
+        "startedDateTime": "2021-02-08T11:28:32.479Z",
+        "timings": {
+          "wait": 175.6329999254495
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "service.maxymiser.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.36.210.16",
+        "startedDateTime": "2021-02-08T11:28:32.668Z",
+        "timings": {
+          "wait": 185.7699999333471
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "service.maxymiser.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.36.210.16",
+        "startedDateTime": "2021-02-08T11:28:32.944Z",
+        "timings": {
+          "wait": 138.34999991960822
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.go-mpulse.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:280::11a6]",
+        "startedDateTime": "2021-02-08T11:28:33.092Z",
+        "timings": {
+          "wait": 68.72200006213785
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.260Z",
+        "timings": {
+          "wait": 101.11099989320338
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.oracleinfinity.io",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c.oracleinfinity.io"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 05 Feb 2021 15:05:52 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Expires",
+              "value": "Mon, 08 Feb 2021 11:28:33 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.205.239.32",
+        "startedDateTime": "2021-02-08T11:28:33.261Z",
+        "timings": {
+          "wait": 117.73000005334616
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "tags.bkrtx.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "tags.bkrtx.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 01 Feb 2021 19:39:43 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=604800"
+            },
+            {
+              "name": "Expires",
+              "value": "Mon, 15 Feb 2021 11:28:33 GMT"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.125.12.66",
+        "startedDateTime": "2021-02-08T11:28:33.276Z",
+        "timings": {
+          "wait": 118.31999993787706
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "img03.en25.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "img03.en25.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 16 Oct 2020 14:38:37 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache, no-store"
+            },
+            {
+              "name": "Expires",
+              "value": "Mon, 08 Feb 2021 11:28:33 GMT"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.125.79.33",
+        "startedDateTime": "2021-02-08T11:28:33.403Z",
+        "timings": {
+          "wait": 82.64600000654161
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset="
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.469Z",
+        "timings": {
+          "wait": 53.32700011268258
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.631Z",
+        "timings": {
+          "wait": 55.528000105157496
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.657Z",
+        "timings": {
+          "wait": 55.990000076666476
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.658Z",
+        "timings": {
+          "wait": 56.06399988426268
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.672Z",
+        "timings": {
+          "wait": 72.06600003302097
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.675Z",
+        "timings": {
+          "wait": 99.95899988864362
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/webp"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.679Z",
+        "timings": {
+          "wait": 120.89199992799759
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.trustarc.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "13.32.6.112",
+        "startedDateTime": "2021-02-08T11:28:33.865Z",
+        "timings": {
+          "wait": 85.92900008067488
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.trustarc.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "13.32.6.112",
+        "startedDateTime": "2021-02-08T11:28:33.869Z",
+        "timings": {
+          "wait": 82.18699991680683
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent-or.trustarc.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "54.76.222.220",
+        "startedDateTime": "2021-02-08T11:28:33.867Z",
+        "timings": {
+          "wait": 102.8139998883307
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s1973398186.t.eloqua.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "s1973398186.t.eloqua.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "Found",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-store"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {
+              "name": "Expires",
+              "value": "-1"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "142.0.160.13",
+        "startedDateTime": "2021-02-08T11:28:33.871Z",
+        "timings": {
+          "wait": 171.02199991975726
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:33.898Z",
+        "timings": {
+          "wait": 54.2170000012964
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-www-form-urlencoded"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "ap=true&bt=%7B%22charging%22%3Atrue%2C%22chargingTime%22%3A0%2C%22dischargingTime%22%3A%22Infinity%22%2C%22level%22%3A1%2C%22onchargingchange%22%3Anull%2C%22onchargingtimechange%22%3Anull%2C%22ondischargingtimechange%22%3Anull%2C%22onlevelchange%22%3Anull%7D&fonts=3%2C4%2C5%2C6%2C7%2C9%2C12%2C13%2C37%2C38%2C39%2C43%2C44%2C52%2C53%2C54%2C60%2C61%2C62%2C63%2C64%2C65&fh=6a29817921d63bf3b8cdd13e107cff7118fab08c&timing=%7B%221%22%3A109%2C%222%22%3A482%2C%223%22%3A671%2C%22profile%22%3A%7B%22bp%22%3A0%2C%22sr%22%3A0%2C%22dp%22%3A1%2C%22lt%22%3A0%2C%22ps%22%3A0%2C%22cv%22%3A79%2C%22fp%22%3A0%2C%22sp%22%3A1%2C%22br%22%3A0%2C%22ieps%22%3A1%2C%22av%22%3A0%2C%22z1%22%3A22%2C%22jsv%22%3A1%2C%22nav%22%3A1%2C%22nap%22%3A1%2C%22crc%22%3A1%2C%22z2%22%3A2%2C%22z3%22%3A10%2C%22fonts%22%3A312%7D%2C%22main%22%3A2207%2C%22compute%22%3A109%2C%22send%22%3A983%7D&bp=1038350511%2C-1979380391%2C1738406762%2C749224105&sr=%7B%22inner%22%3A%5B982%2C754%5D%2C%22outer%22%3A%5B1536%2C824%5D%2C%22screen%22%3A%5B0%2C0%5D%2C%22pageOffset%22%3A%5B0%2C0%5D%2C%22avail%22%3A%5B1536%2C824%5D%2C%22size%22%3A%5B1536%2C864%5D%2C%22client%22%3A%5B965%2C754%5D%2C%22colorDepth%22%3A24%2C%22pixelDepth%22%3A24%7D&dp=%7B%22XDomainRequest%22%3A0%2C%22createPopup%22%3A0%2C%22removeEventListener%22%3A1%2C%22globalStorage%22%3A0%2C%22openDatabase%22%3A1%2C%22indexedDB%22%3A1%2C%22attachEvent%22%3A0%2C%22ActiveXObject%22%3A0%2C%22dispatchEvent%22%3A1%2C%22addBehavior%22%3A0%2C%22addEventListener%22%3A1%2C%22detachEvent%22%3A0%2C%22fireEvent%22%3A0%2C%22MutationObserver%22%3A1%2C%22HTMLMenuItemElement%22%3A0%2C%22Int8Array%22%3A1%2C%22postMessage%22%3A1%2C%22querySelector%22%3A1%2C%22getElementsByClassName%22%3A1%2C%22images%22%3A1%2C%22compatMode%22%3A%22CSS1Compat%22%2C%22documentMode%22%3A0%2C%22all%22%3A1%2C%22now%22%3A1%2C%22contextMenu%22%3A0%7D&lt=1612783713294%2B2&ps=true%2Ctrue&cv=c6107e020fc4a4f1ec7881b315ed3f4cb72ec4d5&fp=false&sp=false&br=Chrome&ieps=false&av=false&z=%7B%22a%22%3A804256503%2C%22b%22%3A1%2C%22c%22%3A0%7D&zh=&jsv=1.7&nav=%7B%22userAgent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.150%20Safari%2F537.36%22%2C%22appName%22%3A%22Netscape%22%2C%22appCodeName%22%3A%22Mozilla%22%2C%22appVersion%22%3A%225.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.150%20Safari%2F537.36%22%2C%22appMinorVersion%22%3A0%2C%22product%22%3A%22Gecko%22%2C%22productSub%22%3A%2220030107%22%2C%22vendor%22%3A%22Google%20Inc.%22%2C%22vendorSub%22%3A%22%22%2C%22buildID%22%3A0%2C%22platform%22%3A%22Win32%22%2C%22oscpu%22%3A0%2C%22hardwareConcurrency%22%3A8%2C%22language%22%3A%22el-GR%22%2C%22languages%22%3A%5B%22el-GR%22%2C%22el%22%2C%22en%22%5D%2C%22systemLanguage%22%3A0%2C%22userLanguage%22%3A0%2C%22doNotTrack%22%3Anull%2C%22msDoNotTrack%22%3A0%2C%22cookieEnabled%22%3Atrue%2C%22geolocation%22%3A1%2C%22vibrate%22%3A1%2C%22maxTouchPoints%22%3A0%2C%22webdriver%22%3A0%2C%22plugins%22%3A%5B%22Chrome%20PDF%20Plugin%22%2C%22Chrome%20PDF%20Viewer%22%2C%22Native%20Client%22%5D%7D&crc=%7B%22window.chrome%22%3A%7B%22app%22%3A%7B%22isInstalled%22%3Afalse%2C%22InstallState%22%3A%7B%22DISABLED%22%3A%22disabled%22%2C%22INSTALLED%22%3A%22installed%22%2C%22NOT_INSTALLED%22%3A%22not_installed%22%7D%2C%22RunningState%22%3A%7B%22CANNOT_RUN%22%3A%22cannot_run%22%2C%22READY_TO_RUN%22%3A%22ready_to_run%22%2C%22RUNNING%22%3A%22running%22%7D%7D%2C%22runtime%22%3A%7B%22OnInstalledReason%22%3A%7B%22CHROME_UPDATE%22%3A%22chrome_update%22%2C%22INSTALL%22%3A%22install%22%2C%22SHARED_MODULE_UPDATE%22%3A%22shared_module_update%22%2C%22UPDATE%22%3A%22update%22%7D%2C%22OnRestartRequiredReason%22%3A%7B%22APP_UPDATE%22%3A%22app_update%22%2C%22OS_UPDATE%22%3A%22os_update%22%2C%22PERIODIC%22%3A%22periodic%22%7D%2C%22PlatformArch%22%3A%7B%22ARM%22%3A%22arm%22%2C%22ARM64%22%3A%22arm64%22%2C%22MIPS%22%3A%22mips%22%2C%22MIPS64%22%3A%22mips64%22%2C%22X86_32%22%3A%22x86-32%22%2C%22X86_64%22%3A%22x86-64%22%7D%2C%22PlatformNaclArch%22%3A%7B%22ARM%22%3A%22arm%22%2C%22MIPS%22%3A%22mips%22%2C%22MIPS64%22%3A%22mips64%22%2C%22X86_32%22%3A%22x86-32%22%2C%22X86_64%22%3A%22x86-64%22%7D%2C%22PlatformOs%22%3A%7B%22ANDROID%22%3A%22android%22%2C%22CROS%22%3A%22cros%22%2C%22LINUX%22%3A%22linux%22%2C%22MAC%22%3A%22mac%22%2C%22OPENBSD%22%3A%22openbsd%22%2C%22WIN%22%3A%22win%22%7D%2C%22RequestUpdateCheckStatus%22%3A%7B%22NO_UPDATE%22%3A%22no_update%22%2C%22THROTTLED%22%3A%22throttled%22%2C%22UPDATE_AVAILABLE%22%3A%22update_available%22%7D%7D%7D%7D&t=2963e720304118737444f5f972fa5cef8ab0f816&u=5dcdcf9f5b535b73af861d9ced8d1a27&nap=11321144241322243122&fc=true",
+            "params": [
+              {
+                "name": "ap",
+                "value": "true"
+              },
+              {
+                "name": "bt",
+                "value": "%7B%22charging%22%3Atrue%2C%22chargingTime%22%3A0%2C%22dischargingTime%22%3A%22Infinity%22%2C%22level%22%3A1%2C%22onchargingchange%22%3Anull%2C%22onchargingtimechange%22%3Anull%2C%22ondischargingtimechange%22%3Anull%2C%22onlevelchange%22%3Anull%7D"
+              },
+              {
+                "name": "fonts",
+                "value": "3%2C4%2C5%2C6%2C7%2C9%2C12%2C13%2C37%2C38%2C39%2C43%2C44%2C52%2C53%2C54%2C60%2C61%2C62%2C63%2C64%2C65"
+              },
+              {
+                "name": "fh",
+                "value": "6a29817921d63bf3b8cdd13e107cff7118fab08c"
+              },
+              {
+                "name": "timing",
+                "value": "%7B%221%22%3A109%2C%222%22%3A482%2C%223%22%3A671%2C%22profile%22%3A%7B%22bp%22%3A0%2C%22sr%22%3A0%2C%22dp%22%3A1%2C%22lt%22%3A0%2C%22ps%22%3A0%2C%22cv%22%3A79%2C%22fp%22%3A0%2C%22sp%22%3A1%2C%22br%22%3A0%2C%22ieps%22%3A1%2C%22av%22%3A0%2C%22z1%22%3A22%2C%22jsv%22%3A1%2C%22nav%22%3A1%2C%22nap%22%3A1%2C%22crc%22%3A1%2C%22z2%22%3A2%2C%22z3%22%3A10%2C%22fonts%22%3A312%7D%2C%22main%22%3A2207%2C%22compute%22%3A109%2C%22send%22%3A983%7D"
+              },
+              {
+                "name": "bp",
+                "value": "1038350511%2C-1979380391%2C1738406762%2C749224105"
+              },
+              {
+                "name": "sr",
+                "value": "%7B%22inner%22%3A%5B982%2C754%5D%2C%22outer%22%3A%5B1536%2C824%5D%2C%22screen%22%3A%5B0%2C0%5D%2C%22pageOffset%22%3A%5B0%2C0%5D%2C%22avail%22%3A%5B1536%2C824%5D%2C%22size%22%3A%5B1536%2C864%5D%2C%22client%22%3A%5B965%2C754%5D%2C%22colorDepth%22%3A24%2C%22pixelDepth%22%3A24%7D"
+              },
+              {
+                "name": "dp",
+                "value": "%7B%22XDomainRequest%22%3A0%2C%22createPopup%22%3A0%2C%22removeEventListener%22%3A1%2C%22globalStorage%22%3A0%2C%22openDatabase%22%3A1%2C%22indexedDB%22%3A1%2C%22attachEvent%22%3A0%2C%22ActiveXObject%22%3A0%2C%22dispatchEvent%22%3A1%2C%22addBehavior%22%3A0%2C%22addEventListener%22%3A1%2C%22detachEvent%22%3A0%2C%22fireEvent%22%3A0%2C%22MutationObserver%22%3A1%2C%22HTMLMenuItemElement%22%3A0%2C%22Int8Array%22%3A1%2C%22postMessage%22%3A1%2C%22querySelector%22%3A1%2C%22getElementsByClassName%22%3A1%2C%22images%22%3A1%2C%22compatMode%22%3A%22CSS1Compat%22%2C%22documentMode%22%3A0%2C%22all%22%3A1%2C%22now%22%3A1%2C%22contextMenu%22%3A0%7D"
+              },
+              {
+                "name": "lt",
+                "value": "1612783713294%2B2"
+              },
+              {
+                "name": "ps",
+                "value": "true%2Ctrue"
+              },
+              {
+                "name": "cv",
+                "value": "c6107e020fc4a4f1ec7881b315ed3f4cb72ec4d5"
+              },
+              {
+                "name": "fp",
+                "value": "false"
+              },
+              {
+                "name": "sp",
+                "value": "false"
+              },
+              {
+                "name": "br",
+                "value": "Chrome"
+              },
+              {
+                "name": "ieps",
+                "value": "false"
+              },
+              {
+                "name": "av",
+                "value": "false"
+              },
+              {
+                "name": "z",
+                "value": "%7B%22a%22%3A804256503%2C%22b%22%3A1%2C%22c%22%3A0%7D"
+              },
+              {
+                "name": "zh",
+                "value": ""
+              },
+              {
+                "name": "jsv",
+                "value": "1.7"
+              },
+              {
+                "name": "nav",
+                "value": "%7B%22userAgent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.150%20Safari%2F537.36%22%2C%22appName%22%3A%22Netscape%22%2C%22appCodeName%22%3A%22Mozilla%22%2C%22appVersion%22%3A%225.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.150%20Safari%2F537.36%22%2C%22appMinorVersion%22%3A0%2C%22product%22%3A%22Gecko%22%2C%22productSub%22%3A%2220030107%22%2C%22vendor%22%3A%22Google%20Inc.%22%2C%22vendorSub%22%3A%22%22%2C%22buildID%22%3A0%2C%22platform%22%3A%22Win32%22%2C%22oscpu%22%3A0%2C%22hardwareConcurrency%22%3A8%2C%22language%22%3A%22el-GR%22%2C%22languages%22%3A%5B%22el-GR%22%2C%22el%22%2C%22en%22%5D%2C%22systemLanguage%22%3A0%2C%22userLanguage%22%3A0%2C%22doNotTrack%22%3Anull%2C%22msDoNotTrack%22%3A0%2C%22cookieEnabled%22%3Atrue%2C%22geolocation%22%3A1%2C%22vibrate%22%3A1%2C%22maxTouchPoints%22%3A0%2C%22webdriver%22%3A0%2C%22plugins%22%3A%5B%22Chrome%20PDF%20Plugin%22%2C%22Chrome%20PDF%20Viewer%22%2C%22Native%20Client%22%5D%7D"
+              },
+              {
+                "name": "crc",
+                "value": "%7B%22window.chrome%22%3A%7B%22app%22%3A%7B%22isInstalled%22%3Afalse%2C%22InstallState%22%3A%7B%22DISABLED%22%3A%22disabled%22%2C%22INSTALLED%22%3A%22installed%22%2C%22NOT_INSTALLED%22%3A%22not_installed%22%7D%2C%22RunningState%22%3A%7B%22CANNOT_RUN%22%3A%22cannot_run%22%2C%22READY_TO_RUN%22%3A%22ready_to_run%22%2C%22RUNNING%22%3A%22running%22%7D%7D%2C%22runtime%22%3A%7B%22OnInstalledReason%22%3A%7B%22CHROME_UPDATE%22%3A%22chrome_update%22%2C%22INSTALL%22%3A%22install%22%2C%22SHARED_MODULE_UPDATE%22%3A%22shared_module_update%22%2C%22UPDATE%22%3A%22update%22%7D%2C%22OnRestartRequiredReason%22%3A%7B%22APP_UPDATE%22%3A%22app_update%22%2C%22OS_UPDATE%22%3A%22os_update%22%2C%22PERIODIC%22%3A%22periodic%22%7D%2C%22PlatformArch%22%3A%7B%22ARM%22%3A%22arm%22%2C%22ARM64%22%3A%22arm64%22%2C%22MIPS%22%3A%22mips%22%2C%22MIPS64%22%3A%22mips64%22%2C%22X86_32%22%3A%22x86-32%22%2C%22X86_64%22%3A%22x86-64%22%7D%2C%22PlatformNaclArch%22%3A%7B%22ARM%22%3A%22arm%22%2C%22MIPS%22%3A%22mips%22%2C%22MIPS64%22%3A%22mips64%22%2C%22X86_32%22%3A%22x86-32%22%2C%22X86_64%22%3A%22x86-64%22%7D%2C%22PlatformOs%22%3A%7B%22ANDROID%22%3A%22android%22%2C%22CROS%22%3A%22cros%22%2C%22LINUX%22%3A%22linux%22%2C%22MAC%22%3A%22mac%22%2C%22OPENBSD%22%3A%22openbsd%22%2C%22WIN%22%3A%22win%22%7D%2C%22RequestUpdateCheckStatus%22%3A%7B%22NO_UPDATE%22%3A%22no_update%22%2C%22THROTTLED%22%3A%22throttled%22%2C%22UPDATE_AVAILABLE%22%3A%22update_available%22%7D%7D%7D%7D"
+              },
+              {
+                "name": "t",
+                "value": "2963e720304118737444f5f972fa5cef8ab0f816"
+              },
+              {
+                "name": "u",
+                "value": "5dcdcf9f5b535b73af861d9ced8d1a27"
+              },
+              {
+                "name": "nap",
+                "value": "11321144241322243122"
+              },
+              {
+                "name": "fc",
+                "value": "true"
+              }
+            ]
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:34.275Z",
+        "timings": {
+          "wait": 82.76599989640712
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:34.329Z",
+        "timings": {
+          "wait": 49.634000093981626
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/webp"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:34.344Z",
+        "timings": {
+          "wait": 44.72599994009733
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "oracle.112.2o7.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif;charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "35.181.18.61",
+        "startedDateTime": "2021-02-08T11:28:34.599Z",
+        "timings": {
+          "wait": 95.22199999833106
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.oracleinfinity.io",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c.oracleinfinity.io"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 05 Feb 2021 15:05:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Expires",
+              "value": "Mon, 08 Feb 2021 11:28:34 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.205.239.32",
+        "startedDateTime": "2021-02-08T11:28:34.601Z",
+        "timings": {
+          "wait": 76.94799995407462
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "stags.bluekai.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "stags.bluekai.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 01 Dec 1994 16:00:00 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache, no-store"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.36.217.117",
+        "startedDateTime": "2021-02-08T11:28:34.752Z",
+        "timings": {
+          "wait": 263.23099994881454
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "go.oracle.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "go.oracle.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "private,no-store"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {
+              "name": "Expires",
+              "value": "-1"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "142.0.160.17",
+        "startedDateTime": "2021-02-08T11:28:34.781Z",
+        "timings": {
+          "wait": 353.9959999868721
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.trustarc.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "13.32.6.112",
+        "startedDateTime": "2021-02-08T11:28:34.826Z",
+        "timings": {
+          "wait": 116.7569999295473
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=iso-8859-1"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:34.829Z",
+        "timings": {
+          "wait": 45.04300006569922
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.oracleinfinity.io",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c.oracleinfinity.io"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Sat, 30 Jan 2021 03:46:55 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Expires",
+              "value": "Mon, 08 Feb 2021 11:28:34 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.205.239.32",
+        "startedDateTime": "2021-02-08T11:28:34.843Z",
+        "timings": {
+          "wait": 94.40499994042516
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.oracleinfinity.io",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c.oracleinfinity.io"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 05 Feb 2021 15:05:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Expires",
+              "value": "Mon, 08 Feb 2021 11:28:34 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "23.205.239.32",
+        "startedDateTime": "2021-02-08T11:28:34.844Z",
+        "timings": {
+          "wait": 109.2100000359714
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.go-mpulse.net",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c.go-mpulse.net"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "private, max-age=300, stale-while-revalidate=60, stale-if-error=120"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:299::11a6]",
+        "startedDateTime": "2021-02-08T11:28:34.846Z",
+        "timings": {
+          "wait": 195.63199995528163
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "unknown"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:34.879Z",
+        "timings": {
+          "wait": 109.84800009185076
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:35.067Z",
+        "timings": {
+          "wait": 57.2470000153631
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:35.068Z",
+        "timings": {
+          "wait": 62.48200000667572
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "dc.oracleinfinity.io",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "dc.oracleinfinity.io"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "-1"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "130.61.67.95",
+        "startedDateTime": "2021-02-08T11:28:35.161Z",
+        "timings": {
+          "wait": 79.45000008063019
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "dc.oracleinfinity.io",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "dc.oracleinfinity.io"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "-1"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "130.61.67.95",
+        "startedDateTime": "2021-02-08T11:28:35.161Z",
+        "timings": {
+          "wait": 77.64299996618927
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.facebook.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a03:2880:f1ff:83:face:b00c:0:25de]",
+        "startedDateTime": "2021-02-08T11:28:35.275Z",
+        "timings": {
+          "wait": 82.55099988405406
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cm.g.doubleclick.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-08T11:28:35.277Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "tags.bluekai.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "tags.bluekai.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 01 Dec 1994 16:00:00 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache, no-store"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.122.198.198",
+        "startedDateTime": "2021-02-08T11:28:35.622Z",
+        "timings": {
+          "wait": 272.6410000304282
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "assets.adobedtm.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:19a::1e80]",
+        "startedDateTime": "2021-02-08T11:28:36.032Z",
+        "timings": {
+          "wait": 44.200000043556095
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.oracle.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "unknown"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:283::a15]",
+        "startedDateTime": "2021-02-08T11:28:36.097Z",
+        "timings": {
+          "wait": 58.5729999525696
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "6852bd0d.akstat.io",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-www-form-urlencoded"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "h.d=oracle.com&h.key=DXNLE-YBWWY-AR74T-WMD99-77VRA&h.t=1612783714958&mob.etype=4g&mob.dl=10&mob.rtt=150&rua.upush=false&rua.cpush=false&rua.upre=true&rua.cpre=false&rua.uprl=false&rua.cprl=false&rua.cprf=false&rua.trans=SJ-d24e41f0-8a08-4092-b906-a6aab94335c4&rua.cook=false&rua.ims=false&rua.ufprl=true&rua.cfprl=true&sm.sw.v=1.3.0&sm.p.v=&pt.lcp=4488&c.e=kkwhs2w0&c.tti.m=lt&t_configjs=329&t_configfb=323&h.pg=Homepage&cdim.subDomain=www.oracle.com&cdim.Language=en-us&cdim.ConnectionType=4g&cdim.mpulseDim=ProdNav-Index&custom0_st=3193&custom1_st=5766&custom2_st=1290&custom4_st=4926&custom5_st=3405&custom7_st=2420&custom8_st=4009&custom9_st=4926&custom6_st=1283&rt.start=navigation&rt.bmr=3236%2C335%2C244%2C192%2C192%2C109%2C41%2C41%2C3&rt.cnf=4991%2C321%2C320%2C125%2C124%2C79%2C48%2C48%2C3&rt.tstart=1612783709856&rt.bstart=1612783713933&rt.blstart=1612783713092&rt.end=1612783716033&t_resp=1229&t_page=4948&t_done=6177&t_other=custom0%7C1898%2Ccustom1%7C388%2Ccustom2%7C863%2Ccustom4%7C1062%2Ccustom5%7C142%2Ccustom7%7C1211%2Ccustom8%7C323%2Ccustom9%7C1062%2Ccustom6%7C274%2Cboomerang%7C10%2Cboomr_fb%7C4077%2Cboomr_ld%7C3236%2Cboomr_lat%7C841&rt.tt=6177&rt.obo=0&pt.fp=3355&pt.fcp=3355&nt_nav_st=1612783709856&nt_fet_st=1612783710750&nt_dns_st=1612783710794&nt_dns_end=1612783710794&nt_con_st=1612783710794&nt_con_end=1612783710957&nt_req_st=1612783710958&nt_res_st=1612783711085&nt_res_end=1612783711089&nt_domloading=1612783711115&nt_domint=1612783713291&nt_domcontloaded_st=1612783713402&nt_domcontloaded_end=1612783713403&nt_domcomp=1612783716013&nt_load_st=1612783716014&nt_load_end=1612783716033&nt_ssl_st=1612783710876&nt_enc_size=10057&nt_dec_size=33407&nt_trn_size=11852&nt_protocol=h2&nt_first_paint=1612783713211&nt_red_cnt=0&nt_nav_type=0&restiming=%7B%22https%3A%2F%2F%22%3A%7B%22www.oracle.com%2F%22%3A%7B%22index.html%22%3A%226%2Cy9%2Cy5%2Cun%2Cum%2Csd%2Cq3%2Cq3%2Cq3*17rd%2C1dv%2Ci0m*30%2C1%3A1%22%2C%22product-navigator%2F%22%3A%7B%22_next%2Fstatic%2F%22%3A%7B%22chunks%2F%22%3A%7B%22main-1d508368f640d1acb2d5.js%22%3A%222zn%2C7m%2C6e%2Cl%2C2%2C2%2C2%2C2%2C2*15n5%2Cbs%2Casn*25*30%2C1%3A1*42*61%22%2C%22webpack-e067438c4cf4ef2ef178.js%22%3A%222zn%2C7m%2C6e%2Cl%2C3%2C3%2C3%2C3%2C3*1kv%2Cbi%2Clw*25*30%2C1%3A1*42*61%22%2C%22framework.6e6c7d5b2a0b152c4c1a.js%22%3A%222zn%2C9c%2C6j%2Co%2C3%2C3%2C3%2C3%2C3*1wkp%2Ce3%2C1wjy*25*30%2C1%3A1*42*61%22%2C%22commons.085c28b3e4a07d9f9387.js%22%3A%222zo%2C9g%2C6l%2Cn%2C3%2C3%2C3%2C3%2C3*1387%2Cbs%2C5z3*25*30%2C1%3A1*42*61%22%2C%22c3369f7f651fecd51087bee95da4d34a5f8158b8.e9217aac34154466e678.js%22%3A%222zp%2C9r%2C8w%2Cm%2C2%2C2%2C2%2C2%2C2*18ql%2Cc2%2Chwk*25*30%2C1%3A1*42*61%22%2C%228f7813acb60c0028d721fa2452c4bbe5b1b12562.d34a4d441608e048eb00.js%22%3A%222zp%2Cdm%2C9q%2Cm%2C2%2C2%2C2%2C2%2C2*12nb%2Cbs%2C7ep*25*30%2C1%3A1*42*61%22%2C%22pages%2F%22%3A%7B%22_app-03981c62917a815e1a2c.js%22%3A%222zq%2Cdl%2Ca1%2Cn%2C2%2C2%2C2%2C2%2C2*11yc%2Cbj%2C2wq*25*30%2C1%3A1*42*61%22%2C%22%255B%255B...slug%255D%255D-e8e500242a2f922397e5.js%22%3A%222zq%2Cul%2Ca1%2Cn%2C2%2C2%2C2%2C2%2C2*117hz%2Cf3%2C2zrw*25*30%2C1%3A1*42*62%22%7D%7D%2C%221.16.29%2F%22%3A%7B%22_buildManifest.js%22%3A%223zw%2C1f5%2C1f5%2C1bf%2C1be%2C1be%2C1be%2C1be%2C1be*16n%2Cbi%2C4t*25*30%2C1%3A1*61be%22%2C%22_ssgManifest.js%22%3A%223zw%2C1gs%2C1gr%2C1di%2C1dg%2C1dg%2C1dg%2C1dg%2C1dg*12b%2Cbg%2Cg*25*30%2C1%3A1*61dg%22%7D%2C%22css%2Fa5c49bd378dc35298642.css%22%3A%222zm%2C2s%2C2r%2Ck%2C3%2C3%2C3%2C3%2C3*12eo%2Cb9%2C7cj*30%2C1%3A1*44*62%22%7D%2C%22js%2Fcore-video.min.js%22%3A%223zu%2Cgn%2Ca4%2Cj*165z%2Cc1%2Cdvn*20*30%2C1%3A1*6%22%7D%2C%22pdit-locale-map.json%22%3A%2293g9%2C1i%2C1g%2C3%2C1%2C1%2C1%2C1%2C1*126x%2Cmy%2Ci60*30%2C1%3A1*61%22%2C%22asset%2Fweb%2F%22%3A%7B%22fonts%2F%22%3A%7B%22OracleSans-Rg.woff2%22%3A%222z3%2Czn%2Cbd%2C31%2C31%2C31%2C31%2C31%2C31%2C2x%2C1*1w14%2C163*30%2C1%3A1*42*61%22%2C%22OracleSansVF.woff2%22%3A%222z4%2C11u%2Cc5%2C31%2C30%2C30%2C30%2C30%2C30%2C2w%2C1*11jpg%2C15v*30%2C1%3A1*42*61%22%2C%22oracleicons-v41.woff2%3F22.6.0%22%3A%222z4%2C82%2C2v%2C11%2C2%2C2%2C2%2C2%2C2*12r8k%2Cpy*30%2C1%3A1*61%22%2C%22OracleSansVF-CyGr.woff2%22%3A%2243u6%2C5y%2C4g%2C1e%2C1e%2C1e%2C1e%2C1e%2C1e%2C1b*11ii4%2C16b*30%2C1%3A1*6%22%7D%2C%22css%2F%22%3A%7B%22redwood-base.css%22%3A%222zs%2Ct9%2Cbh%2Cl%2C1%2C1%2C1%2C1%2C1*12ubv%2Cqo%2Ciyzu*30%2C1%3A1*44*62%22%2C%22redwood-styles.css%22%3A%222zt%2Cts%2Ca4%2Ck%2C1%2C1%2C1%2C1%2C1*11h78%2Cm0%2C74uu*30%2C1%3A1*44*61%22%7D%2C%22i%2F%22%3A%7B%22rh02-panel2.jpg%22%3A%2242y0%2C45%2C23%2C3%2C1%2C1%2C1%2C1%2C1*11y6q%2Ci3*30%2C18%3A1*61%22%2C%22rh02-panel1.jpg%22%3A%2242y3%2C5z%2C2v%2C3%2C1%2C1%2C1%2C1%2C1*11uro%2Cio*30%2C13%3A1*61%22%2C%22rh02-panel3.jpg%22%3A%2242y7%2C6u%2C3f%2C2%2C1%2C1%2C1%2C1%2C1*1143o%2Cgo*30%2C6%3A1*61%22%2C%22u28-navbg.jpg%22%3A%2243go%2C1c%2C1b%2C3*15w2%2Cd2*30%2C1%3A1*6%22%7D%2C%22analytics%2F%22%3A%7B%22infinity_common.js%22%3A%22340s%2C1o%2C1n%2C2*12lg%2Cho%2C54t*21*30%2C1%3A1*6%22%2C%22infinity_click_tracking_ocom.js%22%3A%22340s%2C1u%2C1t%2C3%2C1%2C1%2C1%2C1%2C1*13jr%2Ci7%2C9h5*21*30%2C1%3A1*61%22%7D%2C%22js%2Fjquery-min.js%22%3A%2232mk%2C3z%2C2v%2C2*1ogy%2Cjk%2C19yl*21*30%2C1%3A1*61%22%7D%2C%22akam%2F11%2F%22%3A%7B%222feffba5%22%3A%223zv%2C1bc%2C1bc%2C10v%2C10t%2C10t%2C10t%2C10t%2C10t*182b%2Cou%2Ch9z*22*30%2C220%3A1*610t%22%2C%22pixel_2feffba5%22%3A%2253es%2C2e%2C2d%2C2*1%2Cj1*30%2C38%3A1*6%22%7D%2C%22us%2Fassets%2Fmetrics%2F%22%3A%7B%22ora_storyhub.js%22%3A%223zv%2C1a6%2C1a6%2C16a%2C168%2C168%2C168%2C168%2C168*12z9%2Cd1%2C9ac*25*30%2C2%3A1*6168%22%2C%22ora_code.js%22%3A%2232se%2C1n%2C1j%2C2*1g15%2Ce1%2Cw2e*25*30%2C1%3A1*6%22%7D%2C%22resource%2F70cc049e59rn2487b2bc59dd8540619e%22%3A%223zw%2Che%2Caj%2Ch%2C1%2C1%2C1%2C1%2C1*1e5e%2Cbv%2C15ey*24*30%2C1%3A1*61%22%2C%22universal-menu%2F%22%3A%2292wv%2C1n%2C1l%2C2*1bs4%2C10o%2Cx3b*30%2C1%3A1*61%22%2C%22a%2Focom%2Fimg%2F%22%3A%7B%22oracle-live-rebrand.svg%22%3A%22*0j%2C44%2C86%2Ciy%2C13%2C8c%7C12xl%2C1o%2C1n%2C3%2C1%2C1%2C1%2C1%2C1*11o6%2Ch1*30%2C1%3A1*61%22%2C%22customerlogo-land-o-lakes-blk.svg%22%3A%22*010%2C3c%2C7l%2Cry%2C2h%2C8c%7C12xm%2C1n%2C1m%2C2*12h5%2Chh*30%2C1%3A1*6%22%7D%2C%22node%2Foce%2Fstoryhub%2Fprod%2Fapi%2Fv1.1%2Fassets%2FCONT779E7D46CB884A70BABCDFB528F196E3%2Fnative%22%3A%22434a%2C2z%2C1k%2C2*11pj4%2Ciz*30%2C1%3A1*61%22%7D%2C%22service.maxymiser.net%2F%22%3A%7B%22cdn%2Foracle%2Fjs%2Fmmcore.js%22%3A%2231vj%2C54*20*61%22%2C%22cg%2Fv5us%2F%22%3A%7B%22%3Ffv%3Ddmn%253Doracle.com%253Bref%253D%253Burl%253Dhttps%25253A%25252F%25252Fwww.oracle.com%25252Findex.html%253Bscrw%253D1536%253Bscrh%253D864%253Bclrd%253D24%253Bcok%253D1%26lver%3D1.18%26jsncl%3DmmRequestCallbacks%255B1%255D%26ri%3D1%26lto%3D120%26jrt%3Ds%26uat%3DSourceParam%253Dunknown%22%3A%22320w%2C56*6%22%2C%22%3F...%22%3A%2232ds%2C3z*61%22%7D%2C%22platform%2Fus%2Fapi%2Fmmpackage-1.25.js%22%3A%223264%2C77*20*61%22%7D%2C%22consent.trustarc.com%2F%22%3A%7B%22get%3Fname%3Dcrossdomain.html%26domain%3Doracle.com%22%3A%22a33f%2C8m%22%2C%22noticemsg%3Fa%22%3A%7B%22ction%3Dreturns%26domain%3Doracle.com%26behavior%3Dexpressed%26country%3Dgr%26language%3Del%26rand%3D0.3232388283787566%22%3A%2213u2%2C3d*61%22%7D%2C%22asset%2Fnotice.js%2Fv%2Fv1.7-226%22%3A%22333d%2C8z*25*61%22%7D%2C%22assets.adobedtm.com%2F6f37a0dc9cdbe818dc4979828b58b88e3f060ea4%2FsatelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js%22%3A%223zu%2Cnz%2Cb0%2C6d%2C6c%2C43%2C25%2C25%2Ci*11bf8%2Cbx%2C5o5r*20*61%22%2C%22consent.truste.com%2Fnotice%3Fdomain%3Doracle.com%26c%3Dteconsent%26js%3Dbb%26noticeType%3Dbb%26text%3Dtrue%26gtm%3D1%26cdn%3D1%26pcookie%22%3A%2231v8%2Cxn*21*6lh%22%2C%22c.oracleinfinity.io%2Facs%2F%22%3A%7B%22account%2Fwh3g12c3gg%2Fjs%2Foracle%2F%22%3A%7B%22odc.js%3F_ora.context%3Danalytics%3Aproduction%22%3A%2232ml%2C3y*21*61%22%2C%22analytics-production.js%22%3A%2233nt%2C28*23*61%22%2C%22analytics-production%2Fanalytics.js%22%3A%2233uk%2C5w*23*61%22%7D%2C%22common%2Fjs%2F1.3.38%2Fcommon.js%22%3A%2233uj%2C2t*23*61%22%7D%2C%22tags.bkrtx.com%2Fjs%2Fbk-coretag.js%22%3A%2232n1%2C3d*21*6%22%2C%22img03.en25.com%2Fi%2FelqCfg.min.js%22%3A%2232qj%2C2f*21*61%22%2C%22consent-or.trustarc.com%2Flog%3Fdomain%3Doracle.com%26country%3Dgr%26state%3D%26behavior%3Dexpressed%26c%3D3ea7%22%3A%22133g%2C9x*6%22%2C%22oracle.112.2o7.net%2Fb%2Fss%2Foracleglobal%2F1%2FJS-2.6.0%2Fs11326342216744%3F...%22%3A%2213ns%2C9y*6%22%2C%22stags.bluekai.com%2Fsite%2F25867%3Fret%3Dhtml%26phint%3DcontTop%253D%26phint%3DcontLang%253D%26phint%3DprodInt%253D%26phint%3Dpgname%253D%26phint%3D__bk_t%253DOracle%2520%257C%2520Integrated%2520Cloud%2520Applications%2520and%2520Platform%2520Services%26phint%3D__bk_k%253Denterprise%252C%2520applications%252C%2520software%252C%2520database%252C%2520middleware%252C%2520fusions%252C%2520business%252C%2520hardware%252C%2520Oracle%252C%2520AA01Test%26phint%3D__bk_l%253Dhttps%253A%252F%252Fwww.oracle.com%252Findex.html%26phint%3D__bk_v%253D3.1.9%26limit%3D1%26r%3D1054523%22%3A%22a3ry%2Cda%22%2C%22s1973398186.t.eloqua.com%2Fvisitor%2Fv200%2FsvrGP%3Fpps%3D3%26siteid%3D1973398186%26ref2%3DelqNone%26tzo%3D-120%26ms%3D868%26optin%3Ddisabled%26firstPartyCookieDomain%3Dgo.oracle.com%22%3A%2213su%2Cti*6-pa%22%2C%22dc.oracleinfinity.io%2Fwh3g12c3gg%2Fdcs.gif%3F...%22%3A%22143d%2C2f*61%7C143d%2C4n*61%22%2C%22tags.bluekai.com%2Fsite%2F46606%3Fret%3Djs%22%3A%2234g6%2Cas*6%22%7D%7D&servertiming=~(~(~'cdn-cache~'HIT)~'edge)&u=https%3A%2F%2Fwww.oracle.com%2Findex.html&v=1.720.0&sv=12&sm=p&rt.si=760187f9-a5aa-4b27-9764-14d8dd9734f8-qo7jvi&rt.ss=1612783709856&rt.sl=1&vis.st=visible&ua.plt=Win32&ua.vnd=Google%20Inc.&pid=nfsb5ocq&n=1&ak.v=30&ak.cp=1094117&ak.ai=604074&ak.ol=0&ak.cr=72&ak.ipv=6&ak.proto=h2&ak.rid=341babe7&ak.r=31665&ak.a2=1&ak.m=dscx&ak.n=essl&ak.bpcip=2a02%3A587%3A8e00%3Ad14a%3A%3A&ak.cport=57718&ak.gh=2.19.51.58&ak.quicv=&ak.tlsv=tls1.3&ak.0rtt=&ak.csrc=-&ak.acc=&ak.t=1612783710&ak.ak=hOBiQwZUYzCg5VSAfCLimQ%3D%3DwH7USjvYRFr7N910V8%2FqBTz0tWMox3iBhj9MKCHLiIhvlgNXjN1Nwx77Km4A5LSb3kBqYp0%2FGZkTMtiI90IngBvGW0SdxuRoNXZ8up5tbEmeYhmx%2F%2F3v4f9%2FFHKXfbnw%2FGFELsXYzWODgj3xDTPiXlZal%2FCGHHMbCXV92%2BbNujm0YUtUmxraYET7WmXBqDDMIpp2VKjdfv%2F%2F4QOHUHk2664bbAmqWQYMMO9PjqJdgL8xJJWvV5aq0O%2BxUDPuT3mJ%2FtDtUNsSqRV2UVOeU%2Bia3W7cuPqm9hgkvZPV60Wo2hKfNMYcSDYgR1LL0zVRnjraJFSeLmpPGaIPk38Eb32LYxgAYTg5WjocS6H60nSfVEzWC71miIYmTEsgbsHZaFyEgAuEVpqf%2FkNpF1r2Mps2x4ellAaLgxAiqayQwq%2FnInI%3D&ak.pv=186&ak.dpoabenc=&ak.feo=0&dom.res=61&dom.doms=16&mem.total=21172895&mem.limit=2172649472&mem.used=12136823&mem.lsln=6&mem.ssln=0&mem.lssz=22179&mem.sssz=2&scr.xy=1536x864&scr.bpp=24%2F24&scr.orn=0%2Flandscape-primary&scr.dpx=1.25&cpu.cnc=8&dom.ln=1032&dom.sz=87591&dom.ck=1385&dom.img=2&dom.script=46&dom.script.ext=32&dom.iframe=2&dom.iframe.ext=1&dom.link=16&dom.link.css=3&et.e=~(~(c~1~d~'18g~n~'mouseover~p~'0~s~'1ct)~(c~1~d~'3c~n~'mouseout~p~'0~s~'2hy)~(c~1~d~'3c~n~'mouseover~p~'0~s~'2hy)~(c~1~d~'2w~n~'pointerout~p~'0~s~'3kt)~(c~1~d~'2w~n~'pointerover~p~'0~s~'3kt)~(c~1~d~'2w~n~'mouseout~p~'0~s~'3kt)~(c~1~d~'2w~n~'mouseover~p~'0~s~'3kt))&c.l=24al%2Cxi5%2Cy7g&c.t.longtask=0*a*01&c.t.fps=07*7*6531&c.t.mouse=0.ju.510404020&c.t.mousepct=20056&c.tti.vr=4488&c.tti=5214&c.lt.n=1&c.lt.tt=104.02500000782311&c.lt=~(~(a~(~(a~0~s~'~t~0))~d~'2x~n~1~s~'4ts))&c.f=55&c.f.d=1052&c.f.m=1&c.f.l=1&c.f.s=kkwhs6zm&c.m.p=56&c.m.n=730&c.cls=0.0012946446595447237&h.cr=29499afb22e8473ee707facc1f2610c54ff9f65c&sb=1",
+            "params": [
+              {
+                "name": "h.d",
+                "value": "oracle.com"
+              },
+              {
+                "name": "h.key",
+                "value": "DXNLE-YBWWY-AR74T-WMD99-77VRA"
+              },
+              {
+                "name": "h.t",
+                "value": "1612783714958"
+              },
+              {
+                "name": "mob.etype",
+                "value": "4g"
+              },
+              {
+                "name": "mob.dl",
+                "value": "10"
+              },
+              {
+                "name": "mob.rtt",
+                "value": "150"
+              },
+              {
+                "name": "rua.upush",
+                "value": "false"
+              },
+              {
+                "name": "rua.cpush",
+                "value": "false"
+              },
+              {
+                "name": "rua.upre",
+                "value": "true"
+              },
+              {
+                "name": "rua.cpre",
+                "value": "false"
+              },
+              {
+                "name": "rua.uprl",
+                "value": "false"
+              },
+              {
+                "name": "rua.cprl",
+                "value": "false"
+              },
+              {
+                "name": "rua.cprf",
+                "value": "false"
+              },
+              {
+                "name": "rua.trans",
+                "value": "SJ-d24e41f0-8a08-4092-b906-a6aab94335c4"
+              },
+              {
+                "name": "rua.cook",
+                "value": "false"
+              },
+              {
+                "name": "rua.ims",
+                "value": "false"
+              },
+              {
+                "name": "rua.ufprl",
+                "value": "true"
+              },
+              {
+                "name": "rua.cfprl",
+                "value": "true"
+              },
+              {
+                "name": "sm.sw.v",
+                "value": "1.3.0"
+              },
+              {
+                "name": "sm.p.v",
+                "value": ""
+              },
+              {
+                "name": "pt.lcp",
+                "value": "4488"
+              },
+              {
+                "name": "c.e",
+                "value": "kkwhs2w0"
+              },
+              {
+                "name": "c.tti.m",
+                "value": "lt"
+              },
+              {
+                "name": "t_configjs",
+                "value": "329"
+              },
+              {
+                "name": "t_configfb",
+                "value": "323"
+              },
+              {
+                "name": "h.pg",
+                "value": "Homepage"
+              },
+              {
+                "name": "cdim.subDomain",
+                "value": "www.oracle.com"
+              },
+              {
+                "name": "cdim.Language",
+                "value": "en-us"
+              },
+              {
+                "name": "cdim.ConnectionType",
+                "value": "4g"
+              },
+              {
+                "name": "cdim.mpulseDim",
+                "value": "ProdNav-Index"
+              },
+              {
+                "name": "custom0_st",
+                "value": "3193"
+              },
+              {
+                "name": "custom1_st",
+                "value": "5766"
+              },
+              {
+                "name": "custom2_st",
+                "value": "1290"
+              },
+              {
+                "name": "custom4_st",
+                "value": "4926"
+              },
+              {
+                "name": "custom5_st",
+                "value": "3405"
+              },
+              {
+                "name": "custom7_st",
+                "value": "2420"
+              },
+              {
+                "name": "custom8_st",
+                "value": "4009"
+              },
+              {
+                "name": "custom9_st",
+                "value": "4926"
+              },
+              {
+                "name": "custom6_st",
+                "value": "1283"
+              },
+              {
+                "name": "rt.start",
+                "value": "navigation"
+              },
+              {
+                "name": "rt.bmr",
+                "value": "3236%2C335%2C244%2C192%2C192%2C109%2C41%2C41%2C3"
+              },
+              {
+                "name": "rt.cnf",
+                "value": "4991%2C321%2C320%2C125%2C124%2C79%2C48%2C48%2C3"
+              },
+              {
+                "name": "rt.tstart",
+                "value": "1612783709856"
+              },
+              {
+                "name": "rt.bstart",
+                "value": "1612783713933"
+              },
+              {
+                "name": "rt.blstart",
+                "value": "1612783713092"
+              },
+              {
+                "name": "rt.end",
+                "value": "1612783716033"
+              },
+              {
+                "name": "t_resp",
+                "value": "1229"
+              },
+              {
+                "name": "t_page",
+                "value": "4948"
+              },
+              {
+                "name": "t_done",
+                "value": "6177"
+              },
+              {
+                "name": "t_other",
+                "value": "custom0%7C1898%2Ccustom1%7C388%2Ccustom2%7C863%2Ccustom4%7C1062%2Ccustom5%7C142%2Ccustom7%7C1211%2Ccustom8%7C323%2Ccustom9%7C1062%2Ccustom6%7C274%2Cboomerang%7C10%2Cboomr_fb%7C4077%2Cboomr_ld%7C3236%2Cboomr_lat%7C841"
+              },
+              {
+                "name": "rt.tt",
+                "value": "6177"
+              },
+              {
+                "name": "rt.obo",
+                "value": "0"
+              },
+              {
+                "name": "pt.fp",
+                "value": "3355"
+              },
+              {
+                "name": "pt.fcp",
+                "value": "3355"
+              },
+              {
+                "name": "nt_nav_st",
+                "value": "1612783709856"
+              },
+              {
+                "name": "nt_fet_st",
+                "value": "1612783710750"
+              },
+              {
+                "name": "nt_dns_st",
+                "value": "1612783710794"
+              },
+              {
+                "name": "nt_dns_end",
+                "value": "1612783710794"
+              },
+              {
+                "name": "nt_con_st",
+                "value": "1612783710794"
+              },
+              {
+                "name": "nt_con_end",
+                "value": "1612783710957"
+              },
+              {
+                "name": "nt_req_st",
+                "value": "1612783710958"
+              },
+              {
+                "name": "nt_res_st",
+                "value": "1612783711085"
+              },
+              {
+                "name": "nt_res_end",
+                "value": "1612783711089"
+              },
+              {
+                "name": "nt_domloading",
+                "value": "1612783711115"
+              },
+              {
+                "name": "nt_domint",
+                "value": "1612783713291"
+              },
+              {
+                "name": "nt_domcontloaded_st",
+                "value": "1612783713402"
+              },
+              {
+                "name": "nt_domcontloaded_end",
+                "value": "1612783713403"
+              },
+              {
+                "name": "nt_domcomp",
+                "value": "1612783716013"
+              },
+              {
+                "name": "nt_load_st",
+                "value": "1612783716014"
+              },
+              {
+                "name": "nt_load_end",
+                "value": "1612783716033"
+              },
+              {
+                "name": "nt_ssl_st",
+                "value": "1612783710876"
+              },
+              {
+                "name": "nt_enc_size",
+                "value": "10057"
+              },
+              {
+                "name": "nt_dec_size",
+                "value": "33407"
+              },
+              {
+                "name": "nt_trn_size",
+                "value": "11852"
+              },
+              {
+                "name": "nt_protocol",
+                "value": "h2"
+              },
+              {
+                "name": "nt_first_paint",
+                "value": "1612783713211"
+              },
+              {
+                "name": "nt_red_cnt",
+                "value": "0"
+              },
+              {
+                "name": "nt_nav_type",
+                "value": "0"
+              },
+              {
+                "name": "restiming",
+                "value": "%7B%22https%3A%2F%2F%22%3A%7B%22www.oracle.com%2F%22%3A%7B%22index.html%22%3A%226%2Cy9%2Cy5%2Cun%2Cum%2Csd%2Cq3%2Cq3%2Cq3*17rd%2C1dv%2Ci0m*30%2C1%3A1%22%2C%22product-navigator%2F%22%3A%7B%22_next%2Fstatic%2F%22%3A%7B%22chunks%2F%22%3A%7B%22main-1d508368f640d1acb2d5.js%22%3A%222zn%2C7m%2C6e%2Cl%2C2%2C2%2C2%2C2%2C2*15n5%2Cbs%2Casn*25*30%2C1%3A1*42*61%22%2C%22webpack-e067438c4cf4ef2ef178.js%22%3A%222zn%2C7m%2C6e%2Cl%2C3%2C3%2C3%2C3%2C3*1kv%2Cbi%2Clw*25*30%2C1%3A1*42*61%22%2C%22framework.6e6c7d5b2a0b152c4c1a.js%22%3A%222zn%2C9c%2C6j%2Co%2C3%2C3%2C3%2C3%2C3*1wkp%2Ce3%2C1wjy*25*30%2C1%3A1*42*61%22%2C%22commons.085c28b3e4a07d9f9387.js%22%3A%222zo%2C9g%2C6l%2Cn%2C3%2C3%2C3%2C3%2C3*1387%2Cbs%2C5z3*25*30%2C1%3A1*42*61%22%2C%22c3369f7f651fecd51087bee95da4d34a5f8158b8.e9217aac34154466e678.js%22%3A%222zp%2C9r%2C8w%2Cm%2C2%2C2%2C2%2C2%2C2*18ql%2Cc2%2Chwk*25*30%2C1%3A1*42*61%22%2C%228f7813acb60c0028d721fa2452c4bbe5b1b12562.d34a4d441608e048eb00.js%22%3A%222zp%2Cdm%2C9q%2Cm%2C2%2C2%2C2%2C2%2C2*12nb%2Cbs%2C7ep*25*30%2C1%3A1*42*61%22%2C%22pages%2F%22%3A%7B%22_app-03981c62917a815e1a2c.js%22%3A%222zq%2Cdl%2Ca1%2Cn%2C2%2C2%2C2%2C2%2C2*11yc%2Cbj%2C2wq*25*30%2C1%3A1*42*61%22%2C%22%255B%255B...slug%255D%255D-e8e500242a2f922397e5.js%22%3A%222zq%2Cul%2Ca1%2Cn%2C2%2C2%2C2%2C2%2C2*117hz%2Cf3%2C2zrw*25*30%2C1%3A1*42*62%22%7D%7D%2C%221.16.29%2F%22%3A%7B%22_buildManifest.js%22%3A%223zw%2C1f5%2C1f5%2C1bf%2C1be%2C1be%2C1be%2C1be%2C1be*16n%2Cbi%2C4t*25*30%2C1%3A1*61be%22%2C%22_ssgManifest.js%22%3A%223zw%2C1gs%2C1gr%2C1di%2C1dg%2C1dg%2C1dg%2C1dg%2C1dg*12b%2Cbg%2Cg*25*30%2C1%3A1*61dg%22%7D%2C%22css%2Fa5c49bd378dc35298642.css%22%3A%222zm%2C2s%2C2r%2Ck%2C3%2C3%2C3%2C3%2C3*12eo%2Cb9%2C7cj*30%2C1%3A1*44*62%22%7D%2C%22js%2Fcore-video.min.js%22%3A%223zu%2Cgn%2Ca4%2Cj*165z%2Cc1%2Cdvn*20*30%2C1%3A1*6%22%7D%2C%22pdit-locale-map.json%22%3A%2293g9%2C1i%2C1g%2C3%2C1%2C1%2C1%2C1%2C1*126x%2Cmy%2Ci60*30%2C1%3A1*61%22%2C%22asset%2Fweb%2F%22%3A%7B%22fonts%2F%22%3A%7B%22OracleSans-Rg.woff2%22%3A%222z3%2Czn%2Cbd%2C31%2C31%2C31%2C31%2C31%2C31%2C2x%2C1*1w14%2C163*30%2C1%3A1*42*61%22%2C%22OracleSansVF.woff2%22%3A%222z4%2C11u%2Cc5%2C31%2C30%2C30%2C30%2C30%2C30%2C2w%2C1*11jpg%2C15v*30%2C1%3A1*42*61%22%2C%22oracleicons-v41.woff2%3F22.6.0%22%3A%222z4%2C82%2C2v%2C11%2C2%2C2%2C2%2C2%2C2*12r8k%2Cpy*30%2C1%3A1*61%22%2C%22OracleSansVF-CyGr.woff2%22%3A%2243u6%2C5y%2C4g%2C1e%2C1e%2C1e%2C1e%2C1e%2C1e%2C1b*11ii4%2C16b*30%2C1%3A1*6%22%7D%2C%22css%2F%22%3A%7B%22redwood-base.css%22%3A%222zs%2Ct9%2Cbh%2Cl%2C1%2C1%2C1%2C1%2C1*12ubv%2Cqo%2Ciyzu*30%2C1%3A1*44*62%22%2C%22redwood-styles.css%22%3A%222zt%2Cts%2Ca4%2Ck%2C1%2C1%2C1%2C1%2C1*11h78%2Cm0%2C74uu*30%2C1%3A1*44*61%22%7D%2C%22i%2F%22%3A%7B%22rh02-panel2.jpg%22%3A%2242y0%2C45%2C23%2C3%2C1%2C1%2C1%2C1%2C1*11y6q%2Ci3*30%2C18%3A1*61%22%2C%22rh02-panel1.jpg%22%3A%2242y3%2C5z%2C2v%2C3%2C1%2C1%2C1%2C1%2C1*11uro%2Cio*30%2C13%3A1*61%22%2C%22rh02-panel3.jpg%22%3A%2242y7%2C6u%2C3f%2C2%2C1%2C1%2C1%2C1%2C1*1143o%2Cgo*30%2C6%3A1*61%22%2C%22u28-navbg.jpg%22%3A%2243go%2C1c%2C1b%2C3*15w2%2Cd2*30%2C1%3A1*6%22%7D%2C%22analytics%2F%22%3A%7B%22infinity_common.js%22%3A%22340s%2C1o%2C1n%2C2*12lg%2Cho%2C54t*21*30%2C1%3A1*6%22%2C%22infinity_click_tracking_ocom.js%22%3A%22340s%2C1u%2C1t%2C3%2C1%2C1%2C1%2C1%2C1*13jr%2Ci7%2C9h5*21*30%2C1%3A1*61%22%7D%2C%22js%2Fjquery-min.js%22%3A%2232mk%2C3z%2C2v%2C2*1ogy%2Cjk%2C19yl*21*30%2C1%3A1*61%22%7D%2C%22akam%2F11%2F%22%3A%7B%222feffba5%22%3A%223zv%2C1bc%2C1bc%2C10v%2C10t%2C10t%2C10t%2C10t%2C10t*182b%2Cou%2Ch9z*22*30%2C220%3A1*610t%22%2C%22pixel_2feffba5%22%3A%2253es%2C2e%2C2d%2C2*1%2Cj1*30%2C38%3A1*6%22%7D%2C%22us%2Fassets%2Fmetrics%2F%22%3A%7B%22ora_storyhub.js%22%3A%223zv%2C1a6%2C1a6%2C16a%2C168%2C168%2C168%2C168%2C168*12z9%2Cd1%2C9ac*25*30%2C2%3A1*6168%22%2C%22ora_code.js%22%3A%2232se%2C1n%2C1j%2C2*1g15%2Ce1%2Cw2e*25*30%2C1%3A1*6%22%7D%2C%22resource%2F70cc049e59rn2487b2bc59dd8540619e%22%3A%223zw%2Che%2Caj%2Ch%2C1%2C1%2C1%2C1%2C1*1e5e%2Cbv%2C15ey*24*30%2C1%3A1*61%22%2C%22universal-menu%2F%22%3A%2292wv%2C1n%2C1l%2C2*1bs4%2C10o%2Cx3b*30%2C1%3A1*61%22%2C%22a%2Focom%2Fimg%2F%22%3A%7B%22oracle-live-rebrand.svg%22%3A%22*0j%2C44%2C86%2Ciy%2C13%2C8c%7C12xl%2C1o%2C1n%2C3%2C1%2C1%2C1%2C1%2C1*11o6%2Ch1*30%2C1%3A1*61%22%2C%22customerlogo-land-o-lakes-blk.svg%22%3A%22*010%2C3c%2C7l%2Cry%2C2h%2C8c%7C12xm%2C1n%2C1m%2C2*12h5%2Chh*30%2C1%3A1*6%22%7D%2C%22node%2Foce%2Fstoryhub%2Fprod%2Fapi%2Fv1.1%2Fassets%2FCONT779E7D46CB884A70BABCDFB528F196E3%2Fnative%22%3A%22434a%2C2z%2C1k%2C2*11pj4%2Ciz*30%2C1%3A1*61%22%7D%2C%22service.maxymiser.net%2F%22%3A%7B%22cdn%2Foracle%2Fjs%2Fmmcore.js%22%3A%2231vj%2C54*20*61%22%2C%22cg%2Fv5us%2F%22%3A%7B%22%3Ffv%3Ddmn%253Doracle.com%253Bref%253D%253Burl%253Dhttps%25253A%25252F%25252Fwww.oracle.com%25252Findex.html%253Bscrw%253D1536%253Bscrh%253D864%253Bclrd%253D24%253Bcok%253D1%26lver%3D1.18%26jsncl%3DmmRequestCallbacks%255B1%255D%26ri%3D1%26lto%3D120%26jrt%3Ds%26uat%3DSourceParam%253Dunknown%22%3A%22320w%2C56*6%22%2C%22%3F...%22%3A%2232ds%2C3z*61%22%7D%2C%22platform%2Fus%2Fapi%2Fmmpackage-1.25.js%22%3A%223264%2C77*20*61%22%7D%2C%22consent.trustarc.com%2F%22%3A%7B%22get%3Fname%3Dcrossdomain.html%26domain%3Doracle.com%22%3A%22a33f%2C8m%22%2C%22noticemsg%3Fa%22%3A%7B%22ction%3Dreturns%26domain%3Doracle.com%26behavior%3Dexpressed%26country%3Dgr%26language%3Del%26rand%3D0.3232388283787566%22%3A%2213u2%2C3d*61%22%7D%2C%22asset%2Fnotice.js%2Fv%2Fv1.7-226%22%3A%22333d%2C8z*25*61%22%7D%2C%22assets.adobedtm.com%2F6f37a0dc9cdbe818dc4979828b58b88e3f060ea4%2FsatelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js%22%3A%223zu%2Cnz%2Cb0%2C6d%2C6c%2C43%2C25%2C25%2Ci*11bf8%2Cbx%2C5o5r*20*61%22%2C%22consent.truste.com%2Fnotice%3Fdomain%3Doracle.com%26c%3Dteconsent%26js%3Dbb%26noticeType%3Dbb%26text%3Dtrue%26gtm%3D1%26cdn%3D1%26pcookie%22%3A%2231v8%2Cxn*21*6lh%22%2C%22c.oracleinfinity.io%2Facs%2F%22%3A%7B%22account%2Fwh3g12c3gg%2Fjs%2Foracle%2F%22%3A%7B%22odc.js%3F_ora.context%3Danalytics%3Aproduction%22%3A%2232ml%2C3y*21*61%22%2C%22analytics-production.js%22%3A%2233nt%2C28*23*61%22%2C%22analytics-production%2Fanalytics.js%22%3A%2233uk%2C5w*23*61%22%7D%2C%22common%2Fjs%2F1.3.38%2Fcommon.js%22%3A%2233uj%2C2t*23*61%22%7D%2C%22tags.bkrtx.com%2Fjs%2Fbk-coretag.js%22%3A%2232n1%2C3d*21*6%22%2C%22img03.en25.com%2Fi%2FelqCfg.min.js%22%3A%2232qj%2C2f*21*61%22%2C%22consent-or.trustarc.com%2Flog%3Fdomain%3Doracle.com%26country%3Dgr%26state%3D%26behavior%3Dexpressed%26c%3D3ea7%22%3A%22133g%2C9x*6%22%2C%22oracle.112.2o7.net%2Fb%2Fss%2Foracleglobal%2F1%2FJS-2.6.0%2Fs11326342216744%3F...%22%3A%2213ns%2C9y*6%22%2C%22stags.bluekai.com%2Fsite%2F25867%3Fret%3Dhtml%26phint%3DcontTop%253D%26phint%3DcontLang%253D%26phint%3DprodInt%253D%26phint%3Dpgname%253D%26phint%3D__bk_t%253DOracle%2520%257C%2520Integrated%2520Cloud%2520Applications%2520and%2520Platform%2520Services%26phint%3D__bk_k%253Denterprise%252C%2520applications%252C%2520software%252C%2520database%252C%2520middleware%252C%2520fusions%252C%2520business%252C%2520hardware%252C%2520Oracle%252C%2520AA01Test%26phint%3D__bk_l%253Dhttps%253A%252F%252Fwww.oracle.com%252Findex.html%26phint%3D__bk_v%253D3.1.9%26limit%3D1%26r%3D1054523%22%3A%22a3ry%2Cda%22%2C%22s1973398186.t.eloqua.com%2Fvisitor%2Fv200%2FsvrGP%3Fpps%3D3%26siteid%3D1973398186%26ref2%3DelqNone%26tzo%3D-120%26ms%3D868%26optin%3Ddisabled%26firstPartyCookieDomain%3Dgo.oracle.com%22%3A%2213su%2Cti*6-pa%22%2C%22dc.oracleinfinity.io%2Fwh3g12c3gg%2Fdcs.gif%3F...%22%3A%22143d%2C2f*61%7C143d%2C4n*61%22%2C%22tags.bluekai.com%2Fsite%2F46606%3Fret%3Djs%22%3A%2234g6%2Cas*6%22%7D%7D"
+              },
+              {
+                "name": "servertiming",
+                "value": "~(~(~'cdn-cache~'HIT)~'edge)"
+              },
+              {
+                "name": "u",
+                "value": "https%3A%2F%2Fwww.oracle.com%2Findex.html"
+              },
+              {
+                "name": "v",
+                "value": "1.720.0"
+              },
+              {
+                "name": "sv",
+                "value": "12"
+              },
+              {
+                "name": "sm",
+                "value": "p"
+              },
+              {
+                "name": "rt.si",
+                "value": "760187f9-a5aa-4b27-9764-14d8dd9734f8-qo7jvi"
+              },
+              {
+                "name": "rt.ss",
+                "value": "1612783709856"
+              },
+              {
+                "name": "rt.sl",
+                "value": "1"
+              },
+              {
+                "name": "vis.st",
+                "value": "visible"
+              },
+              {
+                "name": "ua.plt",
+                "value": "Win32"
+              },
+              {
+                "name": "ua.vnd",
+                "value": "Google%20Inc."
+              },
+              {
+                "name": "pid",
+                "value": "nfsb5ocq"
+              },
+              {
+                "name": "n",
+                "value": "1"
+              },
+              {
+                "name": "ak.v",
+                "value": "30"
+              },
+              {
+                "name": "ak.cp",
+                "value": "1094117"
+              },
+              {
+                "name": "ak.ai",
+                "value": "604074"
+              },
+              {
+                "name": "ak.ol",
+                "value": "0"
+              },
+              {
+                "name": "ak.cr",
+                "value": "72"
+              },
+              {
+                "name": "ak.ipv",
+                "value": "6"
+              },
+              {
+                "name": "ak.proto",
+                "value": "h2"
+              },
+              {
+                "name": "ak.rid",
+                "value": "341babe7"
+              },
+              {
+                "name": "ak.r",
+                "value": "31665"
+              },
+              {
+                "name": "ak.a2",
+                "value": "1"
+              },
+              {
+                "name": "ak.m",
+                "value": "dscx"
+              },
+              {
+                "name": "ak.n",
+                "value": "essl"
+              },
+              {
+                "name": "ak.bpcip",
+                "value": "2a02%3A587%3A8e00%3Ad14a%3A%3A"
+              },
+              {
+                "name": "ak.cport",
+                "value": "57718"
+              },
+              {
+                "name": "ak.gh",
+                "value": "2.19.51.58"
+              },
+              {
+                "name": "ak.quicv",
+                "value": ""
+              },
+              {
+                "name": "ak.tlsv",
+                "value": "tls1.3"
+              },
+              {
+                "name": "ak.0rtt",
+                "value": ""
+              },
+              {
+                "name": "ak.csrc",
+                "value": "-"
+              },
+              {
+                "name": "ak.acc",
+                "value": ""
+              },
+              {
+                "name": "ak.t",
+                "value": "1612783710"
+              },
+              {
+                "name": "ak.ak",
+                "value": "hOBiQwZUYzCg5VSAfCLimQ%3D%3DwH7USjvYRFr7N910V8%2FqBTz0tWMox3iBhj9MKCHLiIhvlgNXjN1Nwx77Km4A5LSb3kBqYp0%2FGZkTMtiI90IngBvGW0SdxuRoNXZ8up5tbEmeYhmx%2F%2F3v4f9%2FFHKXfbnw%2FGFELsXYzWODgj3xDTPiXlZal%2FCGHHMbCXV92%2BbNujm0YUtUmxraYET7WmXBqDDMIpp2VKjdfv%2F%2F4QOHUHk2664bbAmqWQYMMO9PjqJdgL8xJJWvV5aq0O%2BxUDPuT3mJ%2FtDtUNsSqRV2UVOeU%2Bia3W7cuPqm9hgkvZPV60Wo2hKfNMYcSDYgR1LL0zVRnjraJFSeLmpPGaIPk38Eb32LYxgAYTg5WjocS6H60nSfVEzWC71miIYmTEsgbsHZaFyEgAuEVpqf%2FkNpF1r2Mps2x4ellAaLgxAiqayQwq%2FnInI%3D"
+              },
+              {
+                "name": "ak.pv",
+                "value": "186"
+              },
+              {
+                "name": "ak.dpoabenc",
+                "value": ""
+              },
+              {
+                "name": "ak.feo",
+                "value": "0"
+              },
+              {
+                "name": "dom.res",
+                "value": "61"
+              },
+              {
+                "name": "dom.doms",
+                "value": "16"
+              },
+              {
+                "name": "mem.total",
+                "value": "21172895"
+              },
+              {
+                "name": "mem.limit",
+                "value": "2172649472"
+              },
+              {
+                "name": "mem.used",
+                "value": "12136823"
+              },
+              {
+                "name": "mem.lsln",
+                "value": "6"
+              },
+              {
+                "name": "mem.ssln",
+                "value": "0"
+              },
+              {
+                "name": "mem.lssz",
+                "value": "22179"
+              },
+              {
+                "name": "mem.sssz",
+                "value": "2"
+              },
+              {
+                "name": "scr.xy",
+                "value": "1536x864"
+              },
+              {
+                "name": "scr.bpp",
+                "value": "24%2F24"
+              },
+              {
+                "name": "scr.orn",
+                "value": "0%2Flandscape-primary"
+              },
+              {
+                "name": "scr.dpx",
+                "value": "1.25"
+              },
+              {
+                "name": "cpu.cnc",
+                "value": "8"
+              },
+              {
+                "name": "dom.ln",
+                "value": "1032"
+              },
+              {
+                "name": "dom.sz",
+                "value": "87591"
+              },
+              {
+                "name": "dom.ck",
+                "value": "1385"
+              },
+              {
+                "name": "dom.img",
+                "value": "2"
+              },
+              {
+                "name": "dom.script",
+                "value": "46"
+              },
+              {
+                "name": "dom.script.ext",
+                "value": "32"
+              },
+              {
+                "name": "dom.iframe",
+                "value": "2"
+              },
+              {
+                "name": "dom.iframe.ext",
+                "value": "1"
+              },
+              {
+                "name": "dom.link",
+                "value": "16"
+              },
+              {
+                "name": "dom.link.css",
+                "value": "3"
+              },
+              {
+                "name": "et.e",
+                "value": "~(~(c~1~d~'18g~n~'mouseover~p~'0~s~'1ct)~(c~1~d~'3c~n~'mouseout~p~'0~s~'2hy)~(c~1~d~'3c~n~'mouseover~p~'0~s~'2hy)~(c~1~d~'2w~n~'pointerout~p~'0~s~'3kt)~(c~1~d~'2w~n~'pointerover~p~'0~s~'3kt)~(c~1~d~'2w~n~'mouseout~p~'0~s~'3kt)~(c~1~d~'2w~n~'mouseover~p~'0~s~'3kt))"
+              },
+              {
+                "name": "c.l",
+                "value": "24al%2Cxi5%2Cy7g"
+              },
+              {
+                "name": "c.t.longtask",
+                "value": "0*a*01"
+              },
+              {
+                "name": "c.t.fps",
+                "value": "07*7*6531"
+              },
+              {
+                "name": "c.t.mouse",
+                "value": "0.ju.510404020"
+              },
+              {
+                "name": "c.t.mousepct",
+                "value": "20056"
+              },
+              {
+                "name": "c.tti.vr",
+                "value": "4488"
+              },
+              {
+                "name": "c.tti",
+                "value": "5214"
+              },
+              {
+                "name": "c.lt.n",
+                "value": "1"
+              },
+              {
+                "name": "c.lt.tt",
+                "value": "104.02500000782311"
+              },
+              {
+                "name": "c.lt",
+                "value": "~(~(a~(~(a~0~s~'~t~0))~d~'2x~n~1~s~'4ts))"
+              },
+              {
+                "name": "c.f",
+                "value": "55"
+              },
+              {
+                "name": "c.f.d",
+                "value": "1052"
+              },
+              {
+                "name": "c.f.m",
+                "value": "1"
+              },
+              {
+                "name": "c.f.l",
+                "value": "1"
+              },
+              {
+                "name": "c.f.s",
+                "value": "kkwhs6zm"
+              },
+              {
+                "name": "c.m.p",
+                "value": "56"
+              },
+              {
+                "name": "c.m.n",
+                "value": "730"
+              },
+              {
+                "name": "c.cls",
+                "value": "0.0012946446595447237"
+              },
+              {
+                "name": "h.cr",
+                "value": "29499afb22e8473ee707facc1f2610c54ff9f65c"
+              },
+              {
+                "name": "sb",
+                "value": "1"
+              }
+            ]
+          }
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:280::11a6]",
+        "startedDateTime": "2021-02-08T11:28:36.224Z",
+        "timings": {
+          "wait": 254.07899996982513
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "trial-eum-clientnsv4-s.akamaihd.net",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "trial-eum-clientnsv4-s.akamaihd.net"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "Moved Temporarily",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "212.205.126.16",
+        "startedDateTime": "2021-02-08T11:28:36.241Z",
+        "timings": {
+          "wait": 38.85800003316996
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "trial-eum-clienttons-s.akamaihd.net",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "trial-eum-clienttons-s.akamaihd.net"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "Moved Temporarily",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:582:a00::d4cd:7e9a]",
+        "startedDateTime": "2021-02-08T11:28:36.242Z",
+        "timings": {
+          "wait": 49.8599998845458
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fibalb4oadiuukqcawbauaaaabqccide-pnfsb5-e7db829b6-clienttons-s.akamaihd.net",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "fibalb4oadiuukqcawbauaaaabqccide-pnfsb5-e7db829b6-clienttons-s.akamaihd.net"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 08 May 2013 07:51:12 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:582:a00::d4cd:7e98]",
+        "startedDateTime": "2021-02-08T11:28:36.487Z",
+        "timings": {
+          "wait": 39.429000097781426
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "lzan2g6uzv7baybbebsa-pnfsb5-79e18e2a2-clientnsv4-s.akamaihd.net",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "lzan2g6uzv7baybbebsa-pnfsb5-79e18e2a2-clientnsv4-s.akamaihd.net"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 08 May 2013 07:51:12 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "212.205.126.10",
+        "startedDateTime": "2021-02-08T11:28:36.613Z",
+        "timings": {
+          "wait": 35.70000008001924
+        }
+      }
+    ]
+  }
+}

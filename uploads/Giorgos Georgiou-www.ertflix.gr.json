@@ -1,0 +1,6522 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "ertflix.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ertflix.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "Moved Permanently",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "52.219.74.23",
+        "startedDateTime": "2021-02-13T09:08:20.149Z",
+        "timings": {
+          "wait": 0.36499999515525994
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "Moved Permanently",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "public, max-age=10, stale-while-revalidate=360, stale-if-error=43200"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.154Z",
+        "timings": {
+          "wait": 40.60999999715388
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.232Z",
+        "timings": {
+          "wait": 49.270999995724296
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.gstatic.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:801::2003]",
+        "startedDateTime": "2021-02-13T09:08:18.972Z",
+        "timings": {
+          "wait": 0.3019999964889139
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.gstatic.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:82b::2003]",
+        "startedDateTime": "2021-02-13T09:08:19.085Z",
+        "timings": {
+          "wait": 0.30699999852012844
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "play.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-www-form-urlencoded;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "application/x-www-form-urlencoded;charset=UTF-8",
+            "text": "[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,\"el\",null,\"boq_onegooglehttpserver_20210207.01_p0\"]],241,[[\"1613207299099\",null,[],null,null,null,null,\"[1613207299097,[[\\\"2397168675742140944\\\",null,[[296,1]]],[\\\"16147638372540442232\\\",null,[[312,1]]],[\\\"14719340685975485085\\\",null,[[380,1]]],[\\\"17077408715954654437\\\",null,[[496,1]]],[\\\"3318688667027929436\\\",null,[[312,1]]],[\\\"5790177495296899286\\\",null,[[0,1]]],[\\\"16829267986558572790\\\",null,[[96,1]]],[\\\"16339156775003354937\\\",null,[[144,1]]],[\\\"749851692583976763\\\",null,[[17,1]]],[\\\"15419336178855610526\\\",null,[[247,1]]],[\\\"17276521865292187132\\\",null,[[4,1]]],[\\\"8257051839445688306\\\",null,[[495,1]]],[\\\"7792735449360349632\\\",null,[[496,1]]],[\\\"7094487270460551484\\\",null,[[8,1]]],[\\\"12563104964214410683\\\",null,[[115,1]]],[\\\"15605813632677093659\\\",null,[[3,1]]],[\\\"17914751415692637656\\\",null,[[8,1]]],[\\\"9797767207516844257\\\",null,[[0,1]]],[\\\"14906952326733574741\\\",null,[[4,1]]],[\\\"4891744519482609478\\\",null,[[15,1]]],[\\\"14307859671070593733\\\",null,[[2,1]]],[\\\"7494582641517049914\\\",null,[[4,1]]],[\\\"6667106912793420619\\\",null,[[0,1]]],[\\\"10118692516388306266\\\",null,[[1,1]]],[\\\"408159237941253787\\\",null,[[2,1]]],[\\\"476083397694989718\\\",null,[[2,1]]],[\\\"8791060314450143495\\\",null,[[1,1]]],[\\\"6342145065879578001\\\",null,[[3,1]]],[\\\"13596961294000664596\\\",null,[[115,1]]],[\\\"2107494750385856652\\\",null,[[4,1]]],[\\\"1309831198388189068\\\",null,[[3,1]]],[\\\"522022639063469804\\\",null,[[0,1]]],[\\\"4950535922500196698\\\",null,[[2072,1]]],[\\\"1757184925777806825\\\",null,[[22,1]]],[\\\"3079121564595244695\\\",null,[[15,1]]],[\\\"10652791942255425261\\\",null,[[11351,1]]],[\\\"4132870161583308123\\\",null,[[114,1]]]],null,null,\\\"[1,\\\\\\\"qBzSPd_PL\\\\\\\"]\\\"]\",null,null,null,585206948,null,null,-7200,[null,[],null,\"[[],[],[1763433,1772879],[]]\"],null,null,null,[],1,null,null,null,null,null,[]]],\"1613207299100\",[],null,null,null,null,null,null,null,null,0]",
+            "params": [
+              {
+                "name": "[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,\"el\",null,\"boq_onegooglehttpserver_20210207.01_p0\"]],241,[[\"1613207299099\",null,[],null,null,null,null,\"[1613207299097,[[\\\"2397168675742140944\\\",null,[[296,1]]],[\\\"16147638372540442232\\\",null,[[312,1]]],[\\\"14719340685975485085\\\",null,[[380,1]]],[\\\"17077408715954654437\\\",null,[[496,1]]],[\\\"3318688667027929436\\\",null,[[312,1]]],[\\\"5790177495296899286\\\",null,[[0,1]]],[\\\"16829267986558572790\\\",null,[[96,1]]],[\\\"16339156775003354937\\\",null,[[144,1]]],[\\\"749851692583976763\\\",null,[[17,1]]],[\\\"15419336178855610526\\\",null,[[247,1]]],[\\\"17276521865292187132\\\",null,[[4,1]]],[\\\"8257051839445688306\\\",null,[[495,1]]],[\\\"7792735449360349632\\\",null,[[496,1]]],[\\\"7094487270460551484\\\",null,[[8,1]]],[\\\"12563104964214410683\\\",null,[[115,1]]],[\\\"15605813632677093659\\\",null,[[3,1]]],[\\\"17914751415692637656\\\",null,[[8,1]]],[\\\"9797767207516844257\\\",null,[[0,1]]],[\\\"14906952326733574741\\\",null,[[4,1]]],[\\\"4891744519482609478\\\",null,[[15,1]]],[\\\"14307859671070593733\\\",null,[[2,1]]],[\\\"7494582641517049914\\\",null,[[4,1]]],[\\\"6667106912793420619\\\",null,[[0,1]]],[\\\"10118692516388306266\\\",null,[[1,1]]],[\\\"408159237941253787\\\",null,[[2,1]]],[\\\"476083397694989718\\\",null,[[2,1]]],[\\\"8791060314450143495\\\",null,[[1,1]]],[\\\"6342145065879578001\\\",null,[[3,1]]],[\\\"13596961294000664596\\\",null,[[115,1]]],[\\\"2107494750385856652\\\",null,[[4,1]]],[\\\"1309831198388189068\\\",null,[[3,1]]],[\\\"522022639063469804\\\",null,[[0,1]]],[\\\"4950535922500196698\\\",null,[[2072,1]]],[\\\"1757184925777806825\\\",null,[[22,1]]],[\\\"3079121564595244695\\\",null,[[15,1]]],[\\\"10652791942255425261\\\",null,[[11351,1]]],[\\\"4132870161583308123\\\",null,[[114,1]]]],null,null,\\\"[1,\\\\\\\"qBzSPd_PL\\\\\\\"]\\\"]\",null,null,null,585206948,null,null,-7200,[null,[],null,\"[[],[],[1763433,1772879],[]]\"],null,null,null,[],1,null,null,null,null,null,[]]],\"1613207299100\",[],null,null,null,null,null,null,null,null,0]",
+                "value": ""
+              }
+            ]
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:803::200e]",
+        "startedDateTime": "2021-02-13T09:08:19.101Z",
+        "timings": {
+          "wait": 124.05800000452996
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:810::2004]",
+        "startedDateTime": "2021-02-13T09:08:20.143Z",
+        "timings": {
+          "wait": 83.60300000395625
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.409Z",
+        "timings": {
+          "wait": 14.173999997127801
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.410Z",
+        "timings": {
+          "wait": 14.577000003095716
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.410Z",
+        "timings": {
+          "wait": 15.455999995416962
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.410Z",
+        "timings": {
+          "wait": 15.501999996437691
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.411Z",
+        "timings": {
+          "wait": 15.368999996594154
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.411Z",
+        "timings": {
+          "wait": 14.96200000534486
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.411Z",
+        "timings": {
+          "wait": 14.939000006355345
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.412Z",
+        "timings": {
+          "wait": 14.941999996709637
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.412Z",
+        "timings": {
+          "wait": 15.02700000078231
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.412Z",
+        "timings": {
+          "wait": 14.921999996876345
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.412Z",
+        "timings": {
+          "wait": 14.90099999332428
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.413Z",
+        "timings": {
+          "wait": 14.8369999968661
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.413Z",
+        "timings": {
+          "wait": 14.895000000595115
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.413Z",
+        "timings": {
+          "wait": 15.020000007209369
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.413Z",
+        "timings": {
+          "wait": 15.389999993208797
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.414Z",
+        "timings": {
+          "wait": 16.013000001405366
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.414Z",
+        "timings": {
+          "wait": 16.01000000005122
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.415Z",
+        "timings": {
+          "wait": 16.025999998530374
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.415Z",
+        "timings": {
+          "wait": 16.09900000073854
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.415Z",
+        "timings": {
+          "wait": 16.0149999995511
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.416Z",
+        "timings": {
+          "wait": 15.788999995291233
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.416Z",
+        "timings": {
+          "wait": 17.100999998996965
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.416Z",
+        "timings": {
+          "wait": 17.94399999926612
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.417Z",
+        "timings": {
+          "wait": 17.97200000722427
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.417Z",
+        "timings": {
+          "wait": 17.924000006370246
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.417Z",
+        "timings": {
+          "wait": 18.43499999323394
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.418Z",
+        "timings": {
+          "wait": 18.568000004754403
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.418Z",
+        "timings": {
+          "wait": 18.574000006785617
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:828::200a]",
+        "startedDateTime": "2021-02-13T09:08:20.418Z",
+        "timings": {
+          "wait": 18.501000005087814
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:813::2008]",
+        "startedDateTime": "2021-02-13T09:08:20.419Z",
+        "timings": {
+          "wait": 0.6149999938216061
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.419Z",
+        "timings": {
+          "wait": 1.1719999965913594
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.551Z",
+        "timings": {
+          "wait": 7.511000006651506
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.617Z",
+        "timings": {
+          "wait": 7.17399999392312
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.617Z",
+        "timings": {
+          "wait": 7.059000002537854
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.617Z",
+        "timings": {
+          "wait": 6.892000005902722
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.617Z",
+        "timings": {
+          "wait": 6.441000004664064
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.618Z",
+        "timings": {
+          "wait": 6.466000000434928
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.648Z",
+        "timings": {
+          "wait": 6.28500000109151
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.648Z",
+        "timings": {
+          "wait": 6.077999999883585
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.648Z",
+        "timings": {
+          "wait": 6.083000006821006
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.648Z",
+        "timings": {
+          "wait": 6.039999995477498
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 0.37999999294709413
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:828::200a]",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 0.9079999950397759
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 0.8089999979045241
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 6.656999995892868
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 6.899000001840293
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 0.31200000309292225
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 2.01600000498537
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 2.5910000038696452
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 2.539000005046837
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.659Z",
+        "timings": {
+          "wait": 2.4499999967450274
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.660Z",
+        "timings": {
+          "wait": 2.656000005567446
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.660Z",
+        "timings": {
+          "wait": 7.376999997839332
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.660Z",
+        "timings": {
+          "wait": 7.800999999244698
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.660Z",
+        "timings": {
+          "wait": 7.51900000090152
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.660Z",
+        "timings": {
+          "wait": 7.474000001401641
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:3800:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-13T09:08:20.688Z",
+        "timings": {
+          "wait": 7.328000003245659
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "connect.facebook.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-13T09:08:20.690Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.733Z",
+        "timings": {
+          "wait": 1.5140000062780454
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.734Z",
+        "timings": {
+          "wait": 0.7749999934984371
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80f::2003]",
+        "startedDateTime": "2021-02-13T09:08:20.816Z",
+        "timings": {
+          "wait": 0.5459999980404973
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/font-woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.816Z",
+        "timings": {
+          "wait": 0.5180000066654756
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80f::2003]",
+        "startedDateTime": "2021-02-13T09:08:20.843Z",
+        "timings": {
+          "wait": 0.39099999582208694
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-font-ttf"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.844Z",
+        "timings": {
+          "wait": 0.5979999928008765
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/font-woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.844Z",
+        "timings": {
+          "wait": 0.5230000066654756
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80f::2003]",
+        "startedDateTime": "2021-02-13T09:08:20.850Z",
+        "timings": {
+          "wait": 0.31399999919719995
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80f::2003]",
+        "startedDateTime": "2021-02-13T09:08:20.859Z",
+        "timings": {
+          "wait": 0.3299999976763502
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::200e]",
+        "startedDateTime": "2021-02-13T09:08:20.918Z",
+        "timings": {
+          "wait": 72.29600000632274
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:20.918Z",
+        "timings": {
+          "wait": 52.79699999773688
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdnjs.cloudflare.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6810:135e]",
+        "startedDateTime": "2021-02-13T09:08:20.970Z",
+        "timings": {
+          "wait": 0.3620000047907233
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.029Z",
+        "timings": {
+          "wait": 0.5480000012591482
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.029Z",
+        "timings": {
+          "wait": 0.7390000014463439
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.032Z",
+        "timings": {
+          "wait": 0.24700000308267772
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.033Z",
+        "timings": {
+          "wait": 0.28600000697840006
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.034Z",
+        "timings": {
+          "wait": 0.2499999969890341
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.036Z",
+        "timings": {
+          "wait": 0.23399999428074808
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.037Z",
+        "timings": {
+          "wait": 0.25799999902024867
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.038Z",
+        "timings": {
+          "wait": 0.2560000010514632
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.039Z",
+        "timings": {
+          "wait": 0.2070000056140125
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-font-ttf"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.047Z",
+        "timings": {
+          "wait": 1575.9650000065658
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80f::2003]",
+        "startedDateTime": "2021-02-13T09:08:21.047Z",
+        "timings": {
+          "wait": 0.4090000047907233
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80f::2003]",
+        "startedDateTime": "2021-02-13T09:08:21.047Z",
+        "timings": {
+          "wait": 0.3979999973429367
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.121Z",
+        "timings": {
+          "wait": 0.30300000274926425
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.122Z",
+        "timings": {
+          "wait": 0.3560000044470653
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.124Z",
+        "timings": {
+          "wait": 0.2830000035930425
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.125Z",
+        "timings": {
+          "wait": 0.26500000223889947
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.127Z",
+        "timings": {
+          "wait": 0.39600000259280205
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.129Z",
+        "timings": {
+          "wait": 37.159999998560174
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.131Z",
+        "timings": {
+          "wait": 65.0739999998482
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.133Z",
+        "timings": {
+          "wait": 96.80299999330565
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.135Z",
+        "timings": {
+          "wait": 122.34100000717119
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.136Z",
+        "timings": {
+          "wait": 146.75700000601822
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.138Z",
+        "timings": {
+          "wait": 170.61600000006428
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.139Z",
+        "timings": {
+          "wait": 212.03799999874178
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.140Z",
+        "timings": {
+          "wait": 244.7349999992596
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.142Z",
+        "timings": {
+          "wait": 268.5900000047954
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.145Z",
+        "timings": {
+          "wait": 302.2769999996759
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.146Z",
+        "timings": {
+          "wait": 352.5449999936484
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.148Z",
+        "timings": {
+          "wait": 388.3999999963995
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.150Z",
+        "timings": {
+          "wait": 399.65299999807496
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.152Z",
+        "timings": {
+          "wait": 427.8620000058617
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.153Z",
+        "timings": {
+          "wait": 539.3930000035456
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.154Z",
+        "timings": {
+          "wait": 538.6339999941513
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.155Z",
+        "timings": {
+          "wait": 537.527000004341
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.157Z",
+        "timings": {
+          "wait": 535.7920000070212
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.160Z",
+        "timings": {
+          "wait": 586.5140000064615
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.161Z",
+        "timings": {
+          "wait": 619.6409999939995
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.162Z",
+        "timings": {
+          "wait": 629.558000002115
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.164Z",
+        "timings": {
+          "wait": 666.3749999966873
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.166Z",
+        "timings": {
+          "wait": 689.604000006047
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.167Z",
+        "timings": {
+          "wait": 815.4489999950034
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.169Z",
+        "timings": {
+          "wait": 814.3379999960474
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.170Z",
+        "timings": {
+          "wait": 862.196000005452
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.172Z",
+        "timings": {
+          "wait": 910.9989999933439
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.173Z",
+        "timings": {
+          "wait": 1041.9729999954152
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.177Z",
+        "timings": {
+          "wait": 1039.8309999975133
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.178Z",
+        "timings": {
+          "wait": 1038.2849999956413
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.180Z",
+        "timings": {
+          "wait": 1065.595000001274
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.181Z",
+        "timings": {
+          "wait": 1091.134999996515
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.183Z",
+        "timings": {
+          "wait": 1136.289999992935
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.184Z",
+        "timings": {
+          "wait": 1269.403999999648
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.187Z",
+        "timings": {
+          "wait": 1466.9039999935655
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.189Z",
+        "timings": {
+          "wait": 1465.7430000045988
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.190Z",
+        "timings": {
+          "wait": 1464.9249999928195
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.192Z",
+        "timings": {
+          "wait": 1481.579000006484
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.194Z",
+        "timings": {
+          "wait": 1640.1530000038751
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.195Z",
+        "timings": {
+          "wait": 1855.5920000040169
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.197Z",
+        "timings": {
+          "wait": 1853.789000002427
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.199Z",
+        "timings": {
+          "wait": 2008.4070000042636
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.201Z",
+        "timings": {
+          "wait": 2007.7500000029943
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.204Z",
+        "timings": {
+          "wait": 2258.7270000049716
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.206Z",
+        "timings": {
+          "wait": 2257.8580000045354
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.208Z",
+        "timings": {
+          "wait": 2258.7859999972006
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.209Z",
+        "timings": {
+          "wait": 2259.8130000042606
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.212Z",
+        "timings": {
+          "wait": 2626.394999996486
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.214Z",
+        "timings": {
+          "wait": 2625.2309999963427
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.215Z",
+        "timings": {
+          "wait": 2817.410000000625
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.216Z",
+        "timings": {
+          "wait": 2816.397999993231
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:21.245Z",
+        "timings": {
+          "wait": 2917.3709999973103
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-font-ttf"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:22.227Z",
+        "timings": {
+          "wait": 1669.0929999933578
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:82b::2003]",
+        "startedDateTime": "2021-02-13T09:08:22.240Z",
+        "timings": {
+          "wait": 0.5119999927906319
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/font-woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:22.240Z",
+        "timings": {
+          "wait": 1669.094999999431
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:82b::2003]",
+        "startedDateTime": "2021-02-13T09:08:22.348Z",
+        "timings": {
+          "wait": 0.39100000563450155
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/font-woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:22.510Z",
+        "timings": {
+          "wait": 1696.8959999942613
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "secure.quantserve.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:51e4:db4b:4436:b305]",
+        "startedDateTime": "2021-02-13T09:08:22.594Z",
+        "timings": {
+          "wait": 0.6959999951859936
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:3800:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-13T09:08:22.594Z",
+        "timings": {
+          "wait": 0.6090000002486631
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::200e]",
+        "startedDateTime": "2021-02-13T09:08:22.957Z",
+        "timings": {
+          "wait": 249.22899999911525
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:82b::2003]",
+        "startedDateTime": "2021-02-13T09:08:22.999Z",
+        "timings": {
+          "wait": 5.181000000114553
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:82b::2003]",
+        "startedDateTime": "2021-02-13T09:08:23.000Z",
+        "timings": {
+          "wait": 4.833000000917353
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:82a::2003]",
+        "startedDateTime": "2021-02-13T09:08:23.044Z",
+        "timings": {
+          "wait": 232.46699999478366
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "rules.quantcount.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:20eb:8c00:6:44e3:f8c0:93a1]",
+        "startedDateTime": "2021-02-13T09:08:23.119Z",
+        "timings": {
+          "wait": 543.126000004949
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "test.quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:1800:3:a4cd:8380:93a1]",
+        "startedDateTime": "2021-02-13T09:08:23.152Z",
+        "timings": {
+          "wait": 245.65000000003442
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "stats.g.doubleclick.net",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-13T09:08:23.215Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:3800:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-13T09:08:23.937Z",
+        "timings": {
+          "wait": 109.88499999593944
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:24.418Z",
+        "timings": {
+          "wait": 41.243999996622094
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ertflix.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.16.167.126",
+        "startedDateTime": "2021-02-13T09:08:24.430Z",
+        "timings": {
+          "wait": 39.21799999813922
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:3800:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-13T09:08:24.544Z",
+        "timings": {
+          "wait": 74.67100000480656
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:21f3:7e00:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-13T09:08:24.629Z",
+        "timings": {
+          "wait": 64.55900000193063
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "audit-tcfv2.quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "13.224.193.80",
+        "startedDateTime": "2021-02-13T09:08:24.765Z",
+        "timings": {
+          "wait": 75.01799999687728
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1188 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.speedex.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "private"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.629Z",
+        "timings": {
+          "wait": 129.86999999532102
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:827::200a]",
+        "startedDateTime": "2021-02-06T15:09:54.794Z",
+        "timings": {
+          "wait": 0.10799989104270935
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 03 Oct 2016 12:46:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.795Z",
+        "timings": {
+          "wait": 0.045000109821558
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 01 Sep 2016 11:37:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.795Z",
+        "timings": {
+          "wait": 0.063000014051795
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 01 Sep 2016 11:38:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.795Z",
+        "timings": {
+          "wait": 0.040999846532940865
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 01 Sep 2016 11:38:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.795Z",
+        "timings": {
+          "wait": 0.03900006413459778
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 02 Dec 2020 09:59:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.795Z",
+        "timings": {
+          "wait": 0.04300009459257126
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 03 Oct 2016 12:46:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.795Z",
+        "timings": {
+          "wait": 0.059999991208314896
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.speedex.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 12 Sep 2013 01:03:14 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.795Z",
+        "timings": {
+          "wait": 39.5649999127537
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.cookiebot.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000::213:334f]",
+        "startedDateTime": "2021-02-06T15:09:54.796Z",
+        "timings": {
+          "wait": 0.10199984535574913
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.speedex.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 28 Nov 2016 11:28:32 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.796Z",
+        "timings": {
+          "wait": 44.16500000603497
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 31 Jul 2020 12:54:20 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.796Z",
+        "timings": {
+          "wait": 0.08099991828203201
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 01 Sep 2016 11:35:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.797Z",
+        "timings": {
+          "wait": 0.07800012826919556
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 01 Sep 2016 11:35:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.797Z",
+        "timings": {
+          "wait": 0.03700004890561104
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 01 Sep 2016 11:35:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.797Z",
+        "timings": {
+          "wait": 0.0350000336766243
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.cookiebot.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000::213:334f]",
+        "startedDateTime": "2021-02-06T15:09:54.797Z",
+        "timings": {
+          "wait": 117.04099992805719
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 03 Oct 2016 12:46:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.815Z",
+        "timings": {
+          "wait": 0.053999945521354675
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 03 Oct 2016 12:46:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.815Z",
+        "timings": {
+          "wait": 0.051999930292367935
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 02 Dec 2020 10:09:02 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.816Z",
+        "timings": {
+          "wait": 0.053999945521354675
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 19 Nov 2020 13:30:55 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.817Z",
+        "timings": {
+          "wait": 0.039999838918447495
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:829::2003]",
+        "startedDateTime": "2021-02-06T15:09:54.841Z",
+        "timings": {
+          "wait": 0.10099983774125576
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:829::2003]",
+        "startedDateTime": "2021-02-06T15:09:54.842Z",
+        "timings": {
+          "wait": 0.07699988782405853
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:829::2003]",
+        "startedDateTime": "2021-02-06T15:09:54.842Z",
+        "timings": {
+          "wait": 0.1400001347064972
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:829::2003]",
+        "startedDateTime": "2021-02-06T15:09:54.842Z",
+        "timings": {
+          "wait": 0.08800020441412926
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::200e]",
+        "startedDateTime": "2021-02-06T15:09:54.865Z",
+        "timings": {
+          "wait": 0.14599994756281376
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consentcdn.cookiebot.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:289::f09]",
+        "startedDateTime": "2021-02-06T15:09:54.872Z",
+        "timings": {
+          "wait": 0.07399986498057842
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 04 Jul 2019 12:46:46 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.895Z",
+        "timings": {
+          "wait": 0.06699981167912483
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.speedex.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 04 Jul 2019 12:42:42 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "81.92.50.37",
+        "startedDateTime": "2021-02-06T15:09:54.896Z",
+        "timings": {
+          "wait": 0.0779998954385519
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::200e]",
+        "startedDateTime": "2021-02-06T15:09:54.936Z",
+        "timings": {
+          "wait": 78.3650000886321
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consentcdn.cookiebot.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000:289::f09]",
+        "startedDateTime": "2021-02-06T15:09:55.038Z",
+        "timings": {
+          "wait": 0.40500006672739985
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.cookiebot.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000::213:334f]",
+        "startedDateTime": "2021-02-06T15:09:55.105Z",
+        "timings": {
+          "wait": 100.03500005058945
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "consent.cookiebot.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:26f0:c000::213:334f]",
+        "startedDateTime": "2021-02-06T15:09:56.041Z",
+        "timings": {
+          "wait": 260.0169999950379
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Προφίλ</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+
+    <style>
+        * {
+            font-family: Helvetica;
+            box-sizing: border-box;
+        }
+
+        .center {
+            text-align: center;
+            margin: auto;
+        }
+
+
+
+        .form-popup {
+            display: none;
+            position: fixed;
+            bottom: 150px;
+            right: 500px;
+            border: 1px solid #f1f1f1;
+            z-index: 9;
+        }
+
+        .form-popup-password {
+            display: none;
+            position: fixed;
+            bottom: 150px;
+            right: 500px;
+            border: 1px solid #f1f1f1;
+            z-index: 9;
+        }
+
+        .form-container {
+            max-width: 500px;
+            padding: 15px;
+            background-color: white;
+        }
+
+        .form-container-password {
+            max-width: 500px;
+            padding: 15px;
+            background-color: white;
+        }
+
+        .form-container input[type=name],
+        .form-container input[type=password] {
+            width: 100%;
+            padding: 15px;
+            margin: 5px 0 22px 0;
+            border: none;
+            background: #f1f1f1;
+        }
+
+        .form-container-password input[type=password],
+        .form-container-password input[type=password] {
+            width: 100%;
+            padding: 15px;
+            margin: 5px 0 22px 0;
+            border: none;
+            background: #f1f1f1;
+        }
+
+        .form-container input[type=name]:focus,
+        .form-container input[type=password]:focus {
+            background-color: #ddd;
+            outline: none;
+        }
+
+        .form-container-password input[type=password]:focus,
+        .form-container-password input[type=text] {
+            background-color: #ddd;
+            outline: none;
+        }
+
+        .form-container .btn,
+        .cancel {
+            background-color: skyblue;
+            color: white;
+            padding: 16px 20px;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            margin-bottom: 10px;
+            opacity: 0.8;
+        }
+
+        .form-container-password .btn-password {
+            background-color: skyblue;
+            color: white;
+            padding: 16px 20px;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            margin-bottom: 10px;
+            opacity: 0.8;
+        }
+
+        .form-container-password .cancel-password {
+            background-color: skyblue;
+            color: white;
+            padding: 16px 20px;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            margin-bottom: 10px;
+            opacity: 0.8;
+        }
+
+        .form-container .cancel,
+        .form-container-password .cancel-password {
+            background-color: red;
+        }
+
+        .form-container .btn:hover,
+        .open-button:hover {
+            opacity: 1;
+            color: black;
+            -moz-transition: all 0.4s ease-out;
+            -o-transition: all 0.4s ease-out;
+            -webkit-transition: all 0.4s ease-out;
+            -ms-transition: all 0.4s ease-out;
+            transition: all 0.4s ease-out;
+        }
+
+        .open-button-password:hover {
+            opacity: 1;
+            color: black;
+            -moz-transition: all 0.4s ease-out;
+            -o-transition: all 0.4s ease-out;
+            -webkit-transition: all 0.4s ease-out;
+            -ms-transition: all 0.4s ease-out;
+            transition: all 0.4s ease-out;
+        }
+
+        .form-container-password .btn-password:hover {
+            opacity: 1;
+            color: black;
+            -moz-transition: all 0.4s ease-out;
+            -o-transition: all 0.4s ease-out;
+            -webkit-transition: all 0.4s ease-out;
+            -ms-transition: all 0.4s ease-out;
+            transition: all 0.4s ease-out;
+        }
+    </style>
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-light">
+        <a class="navbar-brand" href="user_page.html">
+            <img class="img-responsive" src="images/HAR_geo.png">
+        </a>
+    </nav>
+
+    <script>
+        $.ajax({
+                method: 'POST',
+                url: 'profile.php',
+                dataType: 'application/json',
+                data: {}
+            })
+            .then(function (error) {
+                console.log(error);
+            })
+            .catch(function (response) {
+                var server_response = JSON.parse(response.responseText);
+                var last_upload = server_response.last_upload;
+                var upload_count = server_response.row_upload_count;
+                var username = server_response.username;
+                var user_ip = server_response.user_ip;
+                var user_city = server_response.user_city;
+                var user_isp = server_response.user_isp;
+                var entries_count = server_response.entries_count;
+
+                var paragraph_username = document.getElementById('username');
+                paragraph_username.textContent = 'Όνομα χρήστη: ' + username;
+
+                var paragraph_last_upload = document.getElementById('last-upload');
+                paragraph_last_upload.textContent = 'Ημερομηνία τελευταίου upload: ' + last_upload;
+
+                var paragraph_entries_count = document.getElementById('entries-count');
+                paragraph_entries_count.textContent = 'Σύνολο entries: ' + entries_count;
+
+                var paragraph_user_ip = document.getElementById('user-ip');
+                paragraph_user_ip.textContent = 'IP διεύθυνση: ' + user_ip;
+
+                var paragraph_user_city = document.getElementById('user-city');
+                paragraph_user_city.textContent = 'Πόλη χρήστη: ' + user_city;
+
+                var paragraph_user_isp = document.getElementById('user-isp');
+                paragraph_user_isp.textContent = 'Πάροχος internet : ' + user_isp;
+
+            });
+    </script>
+
+    <section class="jumbotron text-center">
+        <div class="container">
+            <h1 class="jumbotron-heading">Στοιχεία χρήστη</h1>
+            <p class="lead text-muted" id="username"></p>
+            <p class="lead text-muted" id="last-upload"></p>
+            <p class="lead text-muted" id="upload-count"></p>
+            <p class="lead text-muted" id="entries-count"></p>
+            <p class="lead text-muted" id="user-ip"></p>
+            <p class="lead text-muted" id="user-city"></p>
+            <p class="lead text-muted" id="user-isp"></p>
+
+            <div class="row">
+                <div class="col">
+                    <div class="text-right">
+                        <button class="btn btn-primary open-button" onclick="openForm()">Αλλάξτε το Όνομα</button>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="text-left">
+                        <button class="btn btn-primary open-button-password" onclick="openFormPassword()">Αλλάξτε τον
+                            Κωδικό</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="form-popup" id="change-username">
+        <form action="change_username.php" method="POST" class="form-container">
+
+            <label for="username"><b>Νέο όνομα χρήστη :</b></label>
+            <input type="name" name="_name" required>
+            <label for="password"><b>Επιβεβαίωση κωδικού :</b></label>
+            <input type="password" name="_password" required>
+            <button type="submit" value="name_submit" class="btn">Επιβεβαίωση αλλαγής</button>
+            <button type="button" class="cancel" onclick="closeForm()">Ακύρωση</button>
+        </form>
+    </div>
+
+
+
+    <div class="form-popup-password" id="change-password">
+        <form name="password_form" action="change_password.php" method="POST" class="form-container-password"
+            onSubmit="return validatePassword()">
+
+            <label for="password"><b>Πληκτρολογήστε τον παλαιό κωδικό σας :</b></label>
+            <input type="password" name="old_password" id="old_password" required>
+            <label for="password"><b>Νέος Κωδικός πρόσβασης :</b></label>
+            <input type="password" name="new_password" id="new_password" required>
+            <button type="submit" value="password_submit" class="btn-password">Επιβεβαίωση αλλαγής</button>
+            <button type="button" class="cancel-password" onclick="closeFormPassword()">Ακύρωση</button>
+        </form>
+    </div>
+
+
+
+
+    <script>
+        function openForm() {
+            document.getElementById("change-username").style.display = "block";
+        }
+
+        function closeForm() {
+            document.getElementById("change-username").style.display = "none";
+        }
+
+
+        function openFormPassword() {
+            document.getElementById("change-password").style.display = "block";
+        }
+
+        function closeFormPassword() {
+            document.getElementById("change-password").style.display = "none";
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,7585 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "alfavita.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "alfavita.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "Moved Permanently",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=3600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 04 Feb 2021 20:01:42 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:41.958Z",
+        "timings": {
+          "wait": 68.41200001803784
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.217Z",
+        "timings": {
+          "wait": 198.56099996893107
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.567Z",
+        "timings": {
+          "wait": 94.605000032112
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.787Z",
+        "timings": {
+          "wait": 129.81999998174607
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.787Z",
+        "timings": {
+          "wait": 210.2049999474585
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.788Z",
+        "timings": {
+          "wait": 71.96200001011044
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.788Z",
+        "timings": {
+          "wait": 198.51800001482667
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.789Z",
+        "timings": {
+          "wait": 222.0579999783635
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.791Z",
+        "timings": {
+          "wait": 222.2520000034049
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.792Z",
+        "timings": {
+          "wait": 197.86800005681812
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.792Z",
+        "timings": {
+          "wait": 222.34399998746812
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.orangeclickmedia.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-04T19:01:42.792Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "agorahtag.tech",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3036::ac43:cf2e]",
+        "startedDateTime": "2021-02-04T19:01:42.792Z",
+        "timings": {
+          "wait": 257.29499995325506
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.onesignal.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e234]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 262.34299998102335
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 108.81499997480213
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 82.0979999769777
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 202.1850000198111
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 144.47999999830128
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 199.3159999580905
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 198.8740000526011
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 188.4479999578595
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.793Z",
+        "timings": {
+          "wait": 191.02400003200023
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 214.46699998813867
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 211.6750000378266
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 202.33000001139195
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 517.0260000176802
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 197.97200000398607
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 806.7690000134111
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 738.9770000402481
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/webp"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 673.5020000129864
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 616.2680000222623
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.794Z",
+        "timings": {
+          "wait": 332.2330000568628
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 201.12499997583032
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 200.53000000517815
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 199.05700000376254
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/webp"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 195.86100003027917
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 180.05899996566774
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 139.00199999255688
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 145.72099996549636
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 182.42300003020466
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.795Z",
+        "timings": {
+          "wait": 133.42599998170138
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 140.11399995517732
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 123.22800001766532
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 122.31499996082485
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 111.06000003691018
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 124.90799999026954
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 135.9409999750182
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 110.5219999454543
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 96.49200000025331
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 54.144000037014486
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 53.46300002814084
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.796Z",
+        "timings": {
+          "wait": 53.26399999383837
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.797Z",
+        "timings": {
+          "wait": 57.83899996120483
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.797Z",
+        "timings": {
+          "wait": 67.00999999068678
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.797Z",
+        "timings": {
+          "wait": 66.66900004045665
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.797Z",
+        "timings": {
+          "wait": 55.08999997861683
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.797Z",
+        "timings": {
+          "wait": 58.85500001419336
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 63.71100001225621
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 50.92800000206381
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 56.19800001465529
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 45.78400002370775
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 44.543999982409176
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 46.03200005683303
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 51.51100001463294
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 66.79500001627952
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 49.36200002913922
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 52.664000009693204
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 42.69699999872595
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 50.7940000038743
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 53.414999952621756
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.831Z",
+        "timings": {
+          "wait": 46.37599997464567
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.832Z",
+        "timings": {
+          "wait": 136.18199999754876
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.832Z",
+        "timings": {
+          "wait": 45.66099996192753
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.832Z",
+        "timings": {
+          "wait": 166.14300003985315
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.832Z",
+        "timings": {
+          "wait": 153.177000053294
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.833Z",
+        "timings": {
+          "wait": 214.40500003169478
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.833Z",
+        "timings": {
+          "wait": 195.14799999352545
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.833Z",
+        "timings": {
+          "wait": 350.98000005336104
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.833Z",
+        "timings": {
+          "wait": 316.22899999602885
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.833Z",
+        "timings": {
+          "wait": 317.4380000130907
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.833Z",
+        "timings": {
+          "wait": 288.9249999985993
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.834Z",
+        "timings": {
+          "wait": 278.2569999754429
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.834Z",
+        "timings": {
+          "wait": 53.093999985136094
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.834Z",
+        "timings": {
+          "wait": 53.59099996495992
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.834Z",
+        "timings": {
+          "wait": 48.903999987855556
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.834Z",
+        "timings": {
+          "wait": 45.22399999962002
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.834Z",
+        "timings": {
+          "wait": 52.547000035159286
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.834Z",
+        "timings": {
+          "wait": 78.32900000553578
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.835Z",
+        "timings": {
+          "wait": 59.664000048428775
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.835Z",
+        "timings": {
+          "wait": 70.92599996645004
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.835Z",
+        "timings": {
+          "wait": 79.77300000911951
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.835Z",
+        "timings": {
+          "wait": 80.75800003997982
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.835Z",
+        "timings": {
+          "wait": 87.56999995373934
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.836Z",
+        "timings": {
+          "wait": 116.01399997664988
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.836Z",
+        "timings": {
+          "wait": 88.32899994456022
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.836Z",
+        "timings": {
+          "wait": 115.71199997539074
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.836Z",
+        "timings": {
+          "wait": 113.38000004587323
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.837Z",
+        "timings": {
+          "wait": 117.06999997163564
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.837Z",
+        "timings": {
+          "wait": 102.7710000126958
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.837Z",
+        "timings": {
+          "wait": 79.6489999434948
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.838Z",
+        "timings": {
+          "wait": 69.86200005044043
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.838Z",
+        "timings": {
+          "wait": 57.281000017568466
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.838Z",
+        "timings": {
+          "wait": 114.0809999685511
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:42.838Z",
+        "timings": {
+          "wait": 118.51900001370907
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "xplayer.stream",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3036::6815:40fe]",
+        "startedDateTime": "2021-02-04T19:01:42.838Z",
+        "timings": {
+          "wait": 224.71200002862508
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:801::2008]",
+        "startedDateTime": "2021-02-04T19:01:43.112Z",
+        "timings": {
+          "wait": 285.2049999925345
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:214f:c000:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-04T19:01:43.125Z",
+        "timings": {
+          "wait": 253.25300000146774
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:43.141Z",
+        "timings": {
+          "wait": 48.70800004627556
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "certify-js.alexametrics.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "certify-js.alexametrics.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Sat, 16 Mar 2019 16:01:33 GMT"
+            },
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=26920000"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "11125617"
+            }
+          ]
+        },
+        "serverIPAddress": "99.86.241.43",
+        "startedDateTime": "2021-02-04T19:01:43.440Z",
+        "timings": {
+          "wait": 287.1100000232607
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "secure.quantserve.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:8c6e:cf2c:8d6:9fb5]",
+        "startedDateTime": "2021-02-04T19:01:43.441Z",
+        "timings": {
+          "wait": 339.79400003613534
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.onesignal.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e234]",
+        "startedDateTime": "2021-02-04T19:01:43.746Z",
+        "timings": {
+          "wait": 256.0099999926537
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "aghtag.tech",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3030::6815:1b4]",
+        "startedDateTime": "2021-02-04T19:01:43.749Z",
+        "timings": {
+          "wait": 130.76599999158827
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "imasdk.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-04T19:01:43.950Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:214f:c000:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-04T19:01:43.996Z",
+        "timings": {
+          "wait": 467.0569999492839
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "pixel.quantserve.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:8c6e:cf2c:8d6:9fb5]",
+        "startedDateTime": "2021-02-04T19:01:43.996Z",
+        "timings": {
+          "wait": 327.6160000206977
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80e::200e]",
+        "startedDateTime": "2021-02-04T19:01:44.075Z",
+        "timings": {
+          "wait": 148.54499994495512
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "static.hotjar.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "99.86.3.19",
+        "startedDateTime": "2021-02-04T19:01:44.079Z",
+        "timings": {
+          "wait": 81.92499998203664
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "connect.facebook.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-04T19:01:44.081Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:801::2008]",
+        "startedDateTime": "2021-02-04T19:01:44.084Z",
+        "timings": {
+          "wait": 306.0349999618977
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "onesignal.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e234]",
+        "startedDateTime": "2021-02-04T19:01:44.349Z",
+        "timings": {
+          "wait": 284.0650000346899
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "certify.alexametrics.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "certify.alexametrics.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 17 Jan 2011 20:41:40 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "59729"
+            }
+          ]
+        },
+        "serverIPAddress": "13.32.6.4",
+        "startedDateTime": "2021-02-04T19:01:44.357Z",
+        "timings": {
+          "wait": 83.87900004546344
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "rules.quantcount.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:9600:6:44e3:f8c0:93a1]",
+        "startedDateTime": "2021-02-04T19:01:44.442Z",
+        "timings": {
+          "wait": 186.77299996824564
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "rules.quantcount.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:9600:6:44e3:f8c0:93a1]",
+        "startedDateTime": "2021-02-04T19:01:44.443Z",
+        "timings": {
+          "wait": 795.8959999494032
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:214f:c000:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-04T19:01:44.545Z",
+        "timings": {
+          "wait": 99.21000000322613
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:801::2008]",
+        "startedDateTime": "2021-02-04T19:01:44.589Z",
+        "timings": {
+          "wait": 175.02999997811764
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:80e::200e]",
+        "startedDateTime": "2021-02-04T19:01:44.686Z",
+        "timings": {
+          "wait": 170.03300003366917
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "static.criteo.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:2638:1::3]",
+        "startedDateTime": "2021-02-04T19:01:44.800Z",
+        "timings": {
+          "wait": 98.66799996113033
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "stats.g.doubleclick.net",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-04T19:01:44.862Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "script.hotjar.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "143.204.215.79",
+        "startedDateTime": "2021-02-04T19:01:44.931Z",
+        "timings": {
+          "wait": 231.9029999520555
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "vars.hotjar.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "143.204.215.118",
+        "startedDateTime": "2021-02-04T19:01:44.992Z",
+        "timings": {
+          "wait": 183.06900002083927
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "test.quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:214f:e600:3:a4cd:8380:93a1]",
+        "startedDateTime": "2021-02-04T19:01:45.035Z",
+        "timings": {
+          "wait": 122.99200003652277
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "static.criteo.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-04T19:01:45.607Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "static.criteo.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-04T19:01:45.608Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:214f:c000:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-04T19:01:45.705Z",
+        "timings": {
+          "wait": 162.70300004854798
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:214f:c000:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-04T19:01:45.911Z",
+        "timings": {
+          "wait": 78.24099995337427
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:801::2008]",
+        "startedDateTime": "2021-02-04T19:01:45.960Z",
+        "timings": {
+          "wait": 79.43700001021475
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.alfavita.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/x-icon"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681a:692]",
+        "startedDateTime": "2021-02-04T19:01:45.963Z",
+        "timings": {
+          "wait": 65.92000002686679
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "gum.criteo.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:2638:1::13]",
+        "startedDateTime": "2021-02-04T19:01:46.070Z",
+        "timings": {
+          "wait": 79.53499999378622
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:214f:c000:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-04T19:01:46.053Z",
+        "timings": {
+          "wait": 98.09200002121925
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "audit-tcfv2.quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "99.86.3.81",
+        "startedDateTime": "2021-02-04T19:01:46.334Z",
+        "timings": {
+          "wait": 76.96400002035497
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:801::2008]",
+        "startedDateTime": "2021-02-04T19:01:46.469Z",
+        "timings": {
+          "wait": 82.70699998440594
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "onesignal.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e234]",
+        "startedDateTime": "2021-02-04T19:01:47.941Z",
+        "timings": {
+          "wait": 49.802999985732136
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "onesignal.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e134]",
+        "startedDateTime": "2021-02-04T19:01:47.998Z",
+        "timings": {
+          "wait": 60.70700000041724
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "img.onesignal.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e234]",
+        "startedDateTime": "2021-02-04T19:01:48.148Z",
+        "timings": {
+          "wait": 62.5000000191778
+        }
+      }
+    ]
+  }
+}

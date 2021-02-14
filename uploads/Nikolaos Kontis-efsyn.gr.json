@@ -1,0 +1,4952 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.565Z",
+        "timings": {
+          "wait": 153.417999994345
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.766Z",
+        "timings": {
+          "wait": 0.10599999222904444
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.766Z",
+        "timings": {
+          "wait": 0.059999991208314896
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.766Z",
+        "timings": {
+          "wait": 67.03200003151596
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.orangeclickmedia.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T16:40:55.766Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.onesignal.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e134]",
+        "startedDateTime": "2021-02-05T16:40:55.767Z",
+        "timings": {
+          "wait": 0.06700004450976849
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.elasticad.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T16:40:55.767Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.767Z",
+        "timings": {
+          "wait": 0.05500006955116987
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.767Z",
+        "timings": {
+          "wait": 0.052999937906861305
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.767Z",
+        "timings": {
+          "wait": 74.50299999409914
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.767Z",
+        "timings": {
+          "wait": 0.062000006437301636
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.767Z",
+        "timings": {
+          "wait": 63.580999960139394
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.768Z",
+        "timings": {
+          "wait": 86.28199999401718
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.768Z",
+        "timings": {
+          "wait": 108.62900001116097
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.768Z",
+        "timings": {
+          "wait": 127.63300004226714
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.768Z",
+        "timings": {
+          "wait": 166.67000002267957
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.768Z",
+        "timings": {
+          "wait": 177.44999999471008
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:827::2008]",
+        "startedDateTime": "2021-02-05T16:40:55.788Z",
+        "timings": {
+          "wait": 0.06500002928078175
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "efsyngr.disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "efsyngr.disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "public, max-age=300"
+            },
+            {
+              "name": "Age",
+              "value": "2141754"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 08 Jan 2021 01:56:33 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.16.134",
+        "startedDateTime": "2021-02-05T16:40:55.810Z",
+        "timings": {
+          "wait": 82.6600000355765
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.811Z",
+        "timings": {
+          "wait": 0.0950000248849392
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.811Z",
+        "timings": {
+          "wait": 0.07400009781122208
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.811Z",
+        "timings": {
+          "wait": 0.07499998901039362
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.811Z",
+        "timings": {
+          "wait": 0.07299997378140688
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.812Z",
+        "timings": {
+          "wait": 0.07099995855242014
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.812Z",
+        "timings": {
+          "wait": 0.06900005973875523
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.812Z",
+        "timings": {
+          "wait": 0.07599999662488699
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.812Z",
+        "timings": {
+          "wait": 0.07500010542571545
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.812Z",
+        "timings": {
+          "wait": 0.0849999487400055
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.813Z",
+        "timings": {
+          "wait": 0.08000002708286047
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.813Z",
+        "timings": {
+          "wait": 0.11200003791600466
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.813Z",
+        "timings": {
+          "wait": 0.08300004992634058
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.813Z",
+        "timings": {
+          "wait": 0.07700000423938036
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.813Z",
+        "timings": {
+          "wait": 0.08100003469735384
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.814Z",
+        "timings": {
+          "wait": 0.08000002708286047
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.814Z",
+        "timings": {
+          "wait": 0.07800001185387373
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.814Z",
+        "timings": {
+          "wait": 0.07099995855242014
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.814Z",
+        "timings": {
+          "wait": 0.07700000423938036
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.814Z",
+        "timings": {
+          "wait": 0.07099995855242014
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.815Z",
+        "timings": {
+          "wait": 0.07099995855242014
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.815Z",
+        "timings": {
+          "wait": 0.07599999662488699
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.815Z",
+        "timings": {
+          "wait": 0.07099995855242014
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.815Z",
+        "timings": {
+          "wait": 0.0790000194683671
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.815Z",
+        "timings": {
+          "wait": 0.04900002386420965
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.816Z",
+        "timings": {
+          "wait": 0.06400002166628838
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.816Z",
+        "timings": {
+          "wait": 0.04900002386420965
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.816Z",
+        "timings": {
+          "wait": 0.05600007716566324
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.816Z",
+        "timings": {
+          "wait": 0.057999975979328156
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.816Z",
+        "timings": {
+          "wait": 0.054999953135848045
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:55.817Z",
+        "timings": {
+          "wait": 4.769000037468969
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:803::200e]",
+        "startedDateTime": "2021-02-05T16:40:55.822Z",
+        "timings": {
+          "wait": 0.09300000965595245
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200e]",
+        "startedDateTime": "2021-02-05T16:40:55.847Z",
+        "timings": {
+          "wait": 152.57699995344876
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:2045:a600:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-05T16:40:55.855Z",
+        "timings": {
+          "wait": 0.0689999433234334
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.857Z",
+        "timings": {
+          "wait": 0.16099994536489248
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.866Z",
+        "timings": {
+          "wait": 0.09400001727044582
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.866Z",
+        "timings": {
+          "wait": 0.0969999236986041
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.866Z",
+        "timings": {
+          "wait": 0.10299996938556433
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.867Z",
+        "timings": {
+          "wait": 0.08400005754083395
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.867Z",
+        "timings": {
+          "wait": 0.07299997378140688
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.867Z",
+        "timings": {
+          "wait": 0.07700000423938036
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.868Z",
+        "timings": {
+          "wait": 0.11199992150068283
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "secure.quantserve.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:36a9:ecb:e518:b308]",
+        "startedDateTime": "2021-02-05T16:40:55.885Z",
+        "timings": {
+          "wait": 0.06600003689527512
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "pixel.quantserve.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:36a9:ecb:e518:b308]",
+        "startedDateTime": "2021-02-05T16:40:55.885Z",
+        "timings": {
+          "wait": 226.4930000201389
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:b600:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-05T16:40:55.885Z",
+        "timings": {
+          "wait": 0.062000006437301636
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.onesignal.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e134]",
+        "startedDateTime": "2021-02-05T16:40:55.887Z",
+        "timings": {
+          "wait": 0.1140000531449914
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:55.915Z",
+        "timings": {
+          "wait": 0.6469999444261193
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "rules.quantcount.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:2045:ce00:6:44e3:f8c0:93a1]",
+        "startedDateTime": "2021-02-05T16:40:55.936Z",
+        "timings": {
+          "wait": 0.15900004655122757
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:21f3:7c00:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-05T16:40:55.956Z",
+        "timings": {
+          "wait": 0.37499999395757916
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "onesignal.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e234]",
+        "startedDateTime": "2021-02-05T16:40:55.965Z",
+        "timings": {
+          "wait": 0.12199999764561653
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "efsyngr.disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "efsyngr.disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "45"
+            },
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "private, max-age=60"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.16.134",
+        "startedDateTime": "2021-02-05T16:40:55.967Z",
+        "timings": {
+          "wait": 85.1699999613017
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-www-form-urlencoded; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "application/x-www-form-urlencoded; charset=UTF-8",
+            "text": "nid=280126",
+            "params": [
+              {
+                "name": "nid",
+                "value": "280126"
+              }
+            ]
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3033::ac43:87db]",
+        "startedDateTime": "2021-02-05T16:40:56.101Z",
+        "timings": {
+          "wait": 134.96699994643777
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:56.428Z",
+        "timings": {
+          "wait": 0.936999944113195
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:56.429Z",
+        "timings": {
+          "wait": 2.098999977245927
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:56.429Z",
+        "timings": {
+          "wait": 1.3589999913722277
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "public, stale-while-revalidate=300, s-stalewhilerevalidate=3600, max-age=60"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "21"
+            },
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.0.134",
+        "startedDateTime": "2021-02-05T16:40:56.429Z",
+        "timings": {
+          "wait": 84.22000004896523
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.efsyn.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3035::6815:1a66]",
+        "startedDateTime": "2021-02-05T16:40:56.500Z",
+        "timings": {
+          "wait": 0.4080000124052167
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "stale-if-error=3600, s-stalewhilerevalidate=3600, stale-while-revalidate=30, no-cache, must-revalidate, public, s-maxage=5"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 05 Feb 2021 12:40:13 GMT"
+            },
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "2"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.0.134",
+        "startedDateTime": "2021-02-05T16:40:56.571Z",
+        "timings": {
+          "wait": 88.92700000777096
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:56.769Z",
+        "timings": {
+          "wait": 0.689999945603311
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:56.834Z",
+        "timings": {
+          "wait": 0.6739999760612846
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:56.894Z",
+        "timings": {
+          "wait": 0.6680000033006072
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:56.902Z",
+        "timings": {
+          "wait": 0.564999995842576
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "public, stale-while-revalidate=300, s-stalewhilerevalidate=3600, max-age=60"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "21"
+            },
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.0.134",
+        "startedDateTime": "2021-02-05T16:40:56.906Z",
+        "timings": {
+          "wait": 87.63599995931239
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "0"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.0.134",
+        "startedDateTime": "2021-02-05T16:40:57.023Z",
+        "timings": {
+          "wait": 184.14400001105668
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.080Z",
+        "timings": {
+          "wait": 0.620999948978424
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "a.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.18.49",
+        "startedDateTime": "2021-02-05T16:40:57.081Z",
+        "timings": {
+          "wait": 0.9659999517276883
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.086Z",
+        "timings": {
+          "wait": 0.7279999564364552
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.099Z",
+        "timings": {
+          "wait": 1.0460000505596398
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.100Z",
+        "timings": {
+          "wait": 0.6410000022798776
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.101Z",
+        "timings": {
+          "wait": 0.7470000358000397
+        }
+      },
+      {
+        "_webSocketMessages": [],
+        "request": {
+          "method": "GET",
+          "url": "realtime.services.disqus.com",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {
+              "name": "Host",
+              "value": "realtime.services.disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 101,
+          "statusText": "Switching Protocols",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T16:40:57.503Z",
+        "timings": {
+          "wait": 159.0190000133589
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.161Z",
+        "timings": {
+          "wait": 0.6380000033006072
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "referrer.disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "referrer.disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 28 Sep 1970 06:00:00 GMT"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.16.134",
+        "startedDateTime": "2021-02-05T16:40:57.166Z",
+        "timings": {
+          "wait": 170.6629999950677
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "referrer.disqus.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 28 Sep 1970 06:00:00 GMT"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.16.134",
+        "startedDateTime": "2021-02-05T16:40:57.173Z",
+        "timings": {
+          "wait": 1.0860000157058238
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "referrer.disqus.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 28 Sep 1970 06:00:00 GMT"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.16.134",
+        "startedDateTime": "2021-02-05T16:40:57.173Z",
+        "timings": {
+          "wait": 0.5939999838322401
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "glitter.services.disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "glitter.services.disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.16.64",
+        "startedDateTime": "2021-02-05T16:40:57.190Z",
+        "timings": {
+          "wait": 178.50499995051325
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "82"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.0.134",
+        "startedDateTime": "2021-02-05T16:40:57.198Z",
+        "timings": {
+          "wait": 92.42499998053164
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.209Z",
+        "timings": {
+          "wait": 0.6500000033006073
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a813]",
+        "startedDateTime": "2021-02-05T16:40:57.235Z",
+        "timings": {
+          "wait": 0.35600002221763133
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "disqus.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "disqus.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "stale-while-revalidate=450, public, max-age=1800"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "597"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.0.134",
+        "startedDateTime": "2021-02-05T16:40:57.298Z",
+        "timings": {
+          "wait": 85.12699998245388
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.476Z",
+        "timings": {
+          "wait": 154.43100000620635
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.476Z",
+        "timings": {
+          "wait": 171.50499998345225
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.477Z",
+        "timings": {
+          "wait": 90.54599999772012
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.477Z",
+        "timings": {
+          "wait": 165.5170000353828
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.478Z",
+        "timings": {
+          "wait": 126.91999995425344
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.478Z",
+        "timings": {
+          "wait": 102.2260000333339
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.478Z",
+        "timings": {
+          "wait": 144.80800002585352
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.disquscdn.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:a913]",
+        "startedDateTime": "2021-02-05T16:40:57.479Z",
+        "timings": {
+          "wait": 109.41900004851819
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "live.rezync.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "99.86.3.101",
+        "startedDateTime": "2021-02-05T16:40:57.728Z",
+        "timings": {
+          "wait": 233.11700004748258
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "io.narrative.io",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "io.narrative.io"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "63.32.246.155",
+        "startedDateTime": "2021-02-05T16:40:57.725Z",
+        "timings": {
+          "wait": 94.81400001660734
+        }
+      }
+    ]
+  }
+}

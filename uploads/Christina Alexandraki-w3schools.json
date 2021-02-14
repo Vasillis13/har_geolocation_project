@@ -1,0 +1,4960 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:15.983Z",
+        "timings": {
+          "wait": 77.8900000133421
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.518Z",
+        "timings": {
+          "wait": 71.65099998943694
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=iso-8859-1"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:16.518Z",
+        "timings": {
+          "wait": 0.781000005852431
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:16.519Z",
+        "timings": {
+          "wait": 81.94899999160506
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.519Z",
+        "timings": {
+          "wait": 69.19699999045022
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.519Z",
+        "timings": {
+          "wait": 69.40000000548922
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.519Z",
+        "timings": {
+          "wait": 72.39099999074452
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.519Z",
+        "timings": {
+          "wait": 69.44800000373274
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "translate.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:820::200e]",
+        "startedDateTime": "2020-12-13T15:43:16.519Z",
+        "timings": {
+          "wait": 97.97700000126287
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:16.548Z",
+        "timings": {
+          "wait": 85.74700001320056
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::2004]",
+        "startedDateTime": "2020-12-13T15:43:16.620Z",
+        "timings": {
+          "wait": 81.95599999061227
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:819::200e]",
+        "startedDateTime": "2020-12-13T15:43:16.620Z",
+        "timings": {
+          "wait": 1.2600000054035336
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 304,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.845Z",
+        "timings": {
+          "wait": 68.98799999336899
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 304,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.848Z",
+        "timings": {
+          "wait": 70.55300001298077
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/font-woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:16.851Z",
+        "timings": {
+          "wait": 73.64999999643304
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cse.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200e]",
+        "startedDateTime": "2020-12-13T15:43:17.032Z",
+        "timings": {
+          "wait": 113.88400000553764
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "translate.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::200a]",
+        "startedDateTime": "2020-12-13T15:43:17.046Z",
+        "timings": {
+          "wait": 76.34599999535271
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "translate.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::200a]",
+        "startedDateTime": "2020-12-13T15:43:17.047Z",
+        "timings": {
+          "wait": 76.7140000140518
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "mypage.w3schools.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-www-form-urlencoded"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "192.229.133.221",
+        "startedDateTime": "2020-12-13T15:43:17.048Z",
+        "timings": {
+          "wait": 197.39400000984594
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "pro.ip-api.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "pro.ip-api.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "185.17.115.126",
+        "startedDateTime": "2020-12-13T15:43:17.072Z",
+        "timings": {
+          "wait": 118.37499999963865
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:815::200e]",
+        "startedDateTime": "2020-12-13T15:43:17.117Z",
+        "timings": {
+          "wait": 83.44400000236556
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "translate.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::200a]",
+        "startedDateTime": "2020-12-13T15:43:17.331Z",
+        "timings": {
+          "wait": 1.5719999985173345
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.gstatic.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::2003]",
+        "startedDateTime": "2020-12-13T15:43:17.399Z",
+        "timings": {
+          "wait": 0.6690000109151005
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "translate.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::200a]",
+        "startedDateTime": "2020-12-13T15:43:17.401Z",
+        "timings": {
+          "wait": 0.07999999797903001
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.gstatic.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::2003]",
+        "startedDateTime": "2020-12-13T15:43:17.402Z",
+        "timings": {
+          "wait": 0.8199999965503811
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::2004]",
+        "startedDateTime": "2020-12-13T15:43:17.402Z",
+        "timings": {
+          "wait": 78.81800000573695
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:81f::2004]",
+        "startedDateTime": "2020-12-13T15:43:17.415Z",
+        "timings": {
+          "wait": 1.7160000112354754
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:81f::2004]",
+        "startedDateTime": "2020-12-13T15:43:17.416Z",
+        "timings": {
+          "wait": 1.4170000096838922
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:81f::2004]",
+        "startedDateTime": "2020-12-13T15:43:17.416Z",
+        "timings": {
+          "wait": 68.35700000953675
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "stats.g.doubleclick.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:400c:c09::9c]",
+        "startedDateTime": "2020-12-13T15:43:17.451Z",
+        "timings": {
+          "wait": 91.99100001425296
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:815::200e]",
+        "startedDateTime": "2020-12-13T15:43:17.452Z",
+        "timings": {
+          "wait": 68.53399999031983
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cse.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200e]",
+        "startedDateTime": "2020-12-13T15:43:17.467Z",
+        "timings": {
+          "wait": 90.36399999822304
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:802::200a]",
+        "startedDateTime": "2020-12-13T15:43:17.480Z",
+        "timings": {
+          "wait": 76.81300000254251
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:81f::2004]",
+        "startedDateTime": "2020-12-13T15:43:17.480Z",
+        "timings": {
+          "wait": 2.2179999914951622
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "clients1.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:81d::200e]",
+        "startedDateTime": "2020-12-13T15:43:17.480Z",
+        "timings": {
+          "wait": 84.60100000545756
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "translate.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200a]",
+        "startedDateTime": "2020-12-13T15:43:17.482Z",
+        "timings": {
+          "wait": 94.50700001406483
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:17.486Z",
+        "timings": {
+          "wait": 1.3020000091325492
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.amazon-adsystem.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "52.85.221.233",
+        "startedDateTime": "2020-12-13T15:43:17.496Z",
+        "timings": {
+          "wait": 43.74800000409783
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:17.502Z",
+        "timings": {
+          "wait": 89.30800000591204
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:17.502Z",
+        "timings": {
+          "wait": 89.34100000622496
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:17.503Z",
+        "timings": {
+          "wait": 94.89400000317208
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "securepubads.g.doubleclick.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "172.217.23.130",
+        "startedDateTime": "2020-12-13T15:43:17.503Z",
+        "timings": {
+          "wait": 90.64999999258106
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=iso-8859-1"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:17.605Z",
+        "timings": {
+          "wait": 0.8420000122897326
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:17.608Z",
+        "timings": {
+          "wait": 89.28400000198558
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::2004]",
+        "startedDateTime": "2020-12-13T15:43:17.704Z",
+        "timings": {
+          "wait": 104.69200000700727
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::2003]",
+        "startedDateTime": "2020-12-13T15:43:17.705Z",
+        "timings": {
+          "wait": 129.12100000424124
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.snigelweb.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:e4::ac40:a805]",
+        "startedDateTime": "2020-12-13T15:43:17.711Z",
+        "timings": {
+          "wait": 0.7160000132899731
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "prg.smartadserver.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"siteid\":\"219976\",\"pageid\":\"932544\",\"formatid\":\"62368\",\"bidfloor\":0,\"ckid\":0,\"tagId\":\"snhb-main_leaderboard-0\",\"pageDomain\":\"https://www.w3schools.com/\",\"transactionId\":\"1b1423e7-24c4-4a2c-bbf1-2a1ecc60af5e\",\"timeout\":1500,\"bidId\":\"2fe989d9314ae\",\"prebidVersion\":\"3.27.1\",\"schain\":\"1.0,1!snigelweb.com,7088,1,,,w3schools.com\",\"sizes\":[{\"w\":728,\"h\":90}],\"gdpr_consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"gdpr\":true,\"eids\":[{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5-ZHMO7tKeiTN2iBRBviTQfpwUwtzukC3r7ydm7FAVzQ\",\"atype\":1}]}],\"us_privacy\":\"1---\"}"
+          }
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2020-12-13T15:43:17.745Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "prg.smartadserver.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"siteid\":\"219976\",\"pageid\":\"932546\",\"formatid\":\"62368\",\"bidfloor\":0,\"ckid\":0,\"tagId\":\"snhb-mid_content-0\",\"pageDomain\":\"https://www.w3schools.com/\",\"transactionId\":\"1c4a6541-3e8e-42d6-ae0e-78b3f1af2c33\",\"timeout\":1500,\"bidId\":\"301149d3c84842\",\"prebidVersion\":\"3.27.1\",\"schain\":\"1.0,1!snigelweb.com,7088,1,,,w3schools.com\",\"sizes\":[{\"w\":728,\"h\":90}],\"gdpr_consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"gdpr\":true,\"eids\":[{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5-ZHMO7tKeiTN2iBRBviTQfpwUwtzukC3r7ydm7FAVzQ\",\"atype\":1}]}],\"us_privacy\":\"1---\"}"
+          }
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2020-12-13T15:43:17.746Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "prg.smartadserver.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"siteid\":\"219976\",\"pageid\":\"932547\",\"formatid\":\"62361\",\"bidfloor\":0,\"ckid\":0,\"tagId\":\"snhb-bottom_medium_rectangle-0\",\"pageDomain\":\"https://www.w3schools.com/\",\"transactionId\":\"5d2c3c54-cb52-4905-8f16-2a3650e1bab9\",\"timeout\":1500,\"bidId\":\"42ffda3a0e3b99\",\"prebidVersion\":\"3.27.1\",\"schain\":\"1.0,1!snigelweb.com,7088,1,,,w3schools.com\",\"sizes\":[{\"w\":300,\"h\":250}],\"gdpr_consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"gdpr\":true,\"eids\":[{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5-ZHMO7tKeiTN2iBRBviTQfpwUwtzukC3r7ydm7FAVzQ\",\"atype\":1}]}],\"us_privacy\":\"1---\"}"
+          }
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2020-12-13T15:43:17.748Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "prg.smartadserver.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"siteid\":\"219976\",\"pageid\":\"932548\",\"formatid\":\"62361\",\"bidfloor\":0,\"ckid\":0,\"tagId\":\"snhb-right_bottom_medium_rectangle-0\",\"pageDomain\":\"https://www.w3schools.com/\",\"transactionId\":\"ff64d615-2633-4da8-967e-4d6af3ea78f3\",\"timeout\":1500,\"bidId\":\"5e8edbb8c0924d\",\"prebidVersion\":\"3.27.1\",\"schain\":\"1.0,1!snigelweb.com,7088,1,,,w3schools.com\",\"sizes\":[{\"w\":300,\"h\":250}],\"gdpr_consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"gdpr\":true,\"eids\":[{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5-ZHMO7tKeiTN2iBRBviTQfpwUwtzukC3r7ydm7FAVzQ\",\"atype\":1}]}],\"us_privacy\":\"1---\"}"
+          }
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2020-12-13T15:43:17.749Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "onetag-sys.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"bids\":[{\"adUnitCode\":\"snhb-main_leaderboard-0\",\"bidId\":\"790fe988c68db3\",\"bidderRequestId\":\"63e2725f26ebcd\",\"auctionId\":\"76147dbf-60dc-433f-8253-3db39fb340cc\",\"transactionId\":\"1b1423e7-24c4-4a2c-bbf1-2a1ecc60af5e\",\"pubId\":\"5f8e06c2cbd2faa\",\"sizes\":[{\"width\":728,\"height\":90}],\"type\":\"banner\"},{\"adUnitCode\":\"snhb-try_it_leaderboard-0\",\"bidId\":\"81edd076009daa\",\"bidderRequestId\":\"63e2725f26ebcd\",\"auctionId\":\"76147dbf-60dc-433f-8253-3db39fb340cc\",\"transactionId\":\"c8450b8d-f6c4-47e0-b539-0a510a225a2e\",\"pubId\":\"5f8e06c2cbd2faa\",\"sizes\":[{\"width\":728,\"height\":90}],\"type\":\"banner\"}],\"location\":\"https://www.w3schools.com/\",\"referrer\":null,\"masked\":0,\"wWidth\":982,\"wHeight\":754,\"oWidth\":1536,\"oHeight\":824,\"sWidth\":1536,\"sHeight\":864,\"aWidth\":1536,\"aHeight\":824,\"sLeft\":0,\"sTop\":0,\"xOffset\":0,\"yOffset\":0,\"docHidden\":false,\"docHeight\":7578,\"hLength\":2,\"timing\":{\"pageLoadTime\":-1607874195978,\"connectTime\":85,\"renderTime\":-1607874196488},\"version\":{\"prebid\":\"3.27.1\",\"adapter\":\"1.0.0\"},\"gdprConsent\":{\"consentString\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"consentRequired\":true},\"usPrivacy\":\"1---\"}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "51.89.9.252",
+        "startedDateTime": "2020-12-13T15:43:17.752Z",
+        "timings": {
+          "wait": 222.1849999984484
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "htlb.casalemedia.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.122.204.69",
+        "startedDateTime": "2020-12-13T15:43:17.755Z",
+        "timings": {
+          "wait": 193.34399998585693
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "ib.adnxs.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "ib.adnxs.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"tags\":[{\"sizes\":[{\"width\":728,\"height\":90}],\"primary_size\":{\"width\":728,\"height\":90},\"ad_types\":[\"banner\"],\"uuid\":\"1672371a724d9b6\",\"id\":13164162,\"allow_smaller_sizes\":false,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"hb_source\":1},{\"sizes\":[{\"width\":728,\"height\":90}],\"primary_size\":{\"width\":728,\"height\":90},\"ad_types\":[\"banner\"],\"uuid\":\"1738676e84b9d9\",\"id\":13164164,\"allow_smaller_sizes\":false,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"hb_source\":1},{\"sizes\":[{\"width\":300,\"height\":250}],\"primary_size\":{\"width\":300,\"height\":250},\"ad_types\":[\"banner\"],\"uuid\":\"18c9cf29073ef1a\",\"id\":13164165,\"allow_smaller_sizes\":false,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"hb_source\":1},{\"sizes\":[{\"width\":300,\"height\":250}],\"primary_size\":{\"width\":300,\"height\":250},\"ad_types\":[\"banner\"],\"uuid\":\"194671576fb2d01\",\"id\":13164166,\"allow_smaller_sizes\":false,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"hb_source\":1},{\"sizes\":[{\"width\":728,\"height\":90}],\"primary_size\":{\"width\":728,\"height\":90},\"ad_types\":[\"banner\"],\"uuid\":\"208506aa1571276\",\"id\":13218673,\"allow_smaller_sizes\":false,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"hb_source\":1}],\"user\":{},\"sdk\":{\"source\":\"pbjs\",\"version\":\"3.27.1\"},\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]},\"gdpr_consent\":{\"consent_string\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"consent_required\":true},\"us_privacy\":\"1---\",\"referrer_detection\":{\"rd_ref\":\"https%3A%2F%2Fwww.w3schools.com%2F\",\"rd_top\":true,\"rd_ifs\":0,\"rd_stk\":\"https%3A%2F%2Fwww.w3schools.com%2F\"}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, private"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "37.252.172.37",
+        "startedDateTime": "2020-12-13T15:43:17.758Z",
+        "timings": {
+          "wait": 301.3720000017658
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "snigel-d.openx.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "34.98.64.218",
+        "startedDateTime": "2020-12-13T15:43:17.761Z",
+        "timings": {
+          "wait": 585.3460000135246
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "ap.lijit.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "ap.lijit.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"id\":\"67dcf43ead549a6\",\"imp\":[{\"adunitcode\":\"snhb-right_bottom_medium_rectangle-0\",\"id\":\"2869b938fe2c82c\",\"banner\":{\"format\":[{\"w\":300,\"h\":250}],\"w\":1,\"h\":1},\"tagid\":\"565881\",\"bidfloor\":\"\"},{\"adunitcode\":\"snhb-try_it_leaderboard-0\",\"id\":\"2955b2486dca226\",\"banner\":{\"format\":[{\"w\":728,\"h\":90}],\"w\":1,\"h\":1},\"tagid\":\"563928\",\"bidfloor\":\"\"}],\"site\":{\"page\":\"https://www.w3schools.com/\",\"domain\":\"www.w3schools.com\"},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}},\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}},\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "216.52.2.19",
+        "startedDateTime": "2020-12-13T15:43:17.764Z",
+        "timings": {
+          "wait": 296.202999990765
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "hb.emxdgt.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "hb.emxdgt.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"id\":\"76147dbf-60dc-433f-8253-3db39fb340cc\",\"imp\":[{\"id\":\"318d48cc6b9f95d\",\"tid\":\"1b1423e7-24c4-4a2c-bbf1-2a1ecc60af5e\",\"tagid\":\"122442\",\"secure\":1,\"banner\":{\"format\":[{\"w\":728,\"h\":90}],\"w\":728,\"h\":90}},{\"id\":\"32e1a1609b1bb3f\",\"tid\":\"1c4a6541-3e8e-42d6-ae0e-78b3f1af2c33\",\"tagid\":\"122444\",\"secure\":1,\"banner\":{\"format\":[{\"w\":728,\"h\":90}],\"w\":728,\"h\":90}},{\"id\":\"33363b8ab5a4201\",\"tid\":\"5d2c3c54-cb52-4905-8f16-2a3650e1bab9\",\"tagid\":\"122445\",\"secure\":1,\"banner\":{\"format\":[{\"w\":300,\"h\":250}],\"w\":300,\"h\":250}},{\"id\":\"34bef442d2dd867\",\"tid\":\"ff64d615-2633-4da8-967e-4d6af3ea78f3\",\"tagid\":\"122446\",\"secure\":1,\"banner\":{\"format\":[{\"w\":300,\"h\":250}],\"w\":300,\"h\":250}},{\"id\":\"35c8a39c80d8215\",\"tid\":\"c8450b8d-f6c4-47e0-b539-0a510a225a2e\",\"tagid\":\"122447\",\"secure\":1,\"banner\":{\"format\":[{\"w\":728,\"h\":90}],\"w\":728,\"h\":90}}],\"device\":{\"ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36\",\"js\":1,\"dnt\":0,\"h\":864,\"w\":1536,\"devicetype\":2,\"language\":\"el-GR\"},\"site\":{\"domain\":\"www.w3schools.com\",\"page\":\"https://www.w3schools.com/\",\"ref\":\"\"},\"cur\":\"USD\",\"version\":\"1.5.1\",\"regs\":{\"ext\":{\"gdpr\":1}},\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"}},\"us_privacy\":\"1---\"}"
+          }
+        },
+        "response": {
+          "status": 204,
+          "statusText": "No Content",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "18.196.104.43",
+        "startedDateTime": "2020-12-13T15:43:17.767Z",
+        "timings": {
+          "wait": 263.6299999976009
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "i.connectad.io",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"placements\":[{\"id\":\"1b1423e7-24c4-4a2c-bbf1-2a1ecc60af5e\",\"divName\":\"374bcabc55368fd\",\"sizes\":[[728,90]],\"adTypes\":[4],\"networkId\":\"10047\",\"siteId\":\"1011566\"},{\"id\":\"1c4a6541-3e8e-42d6-ae0e-78b3f1af2c33\",\"divName\":\"384314014259374\",\"sizes\":[[728,90]],\"adTypes\":[4],\"networkId\":\"10047\",\"siteId\":\"1011570\"},{\"id\":\"5d2c3c54-cb52-4905-8f16-2a3650e1bab9\",\"divName\":\"39911e7f33818cb\",\"sizes\":[[300,250]],\"adTypes\":[5],\"networkId\":\"10047\",\"siteId\":\"1011573\"},{\"id\":\"ff64d615-2633-4da8-967e-4d6af3ea78f3\",\"divName\":\"40651f916e2b0c7\",\"sizes\":[[300,250]],\"adTypes\":[5],\"networkId\":\"10047\",\"siteId\":\"1011575\"},{\"id\":\"c8450b8d-f6c4-47e0-b539-0a510a225a2e\",\"divName\":\"4176fc7705fbc68\",\"sizes\":[[728,90]],\"adTypes\":[4],\"networkId\":\"10047\",\"siteId\":\"1011576\"}],\"time\":1607874197768,\"user\":{\"ext\":{\"gdpr\":1,\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"us_privacy\":\"1---\",\"eids\":[{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5-ZHMO7tKeiTN2iBRBviTQfpwUwtzukC3r7ydm7FAVzQ\"}]}]}},\"url\":\"https://www.w3schools.com/\",\"referrer\":\"\",\"referrer_info\":{\"referer\":\"https://www.w3schools.com/\",\"reachedTop\":true,\"numIframes\":0,\"stack\":[\"https://www.w3schools.com/\"]},\"screensize\":\"1536x864\",\"dnt\":0,\"language\":\"el-GR\",\"ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36\",\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:10::ac43:8ae]",
+        "startedDateTime": "2020-12-13T15:43:17.769Z",
+        "timings": {
+          "wait": 177.32199999311194
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c2shb.ssp.yahoo.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c2shb.ssp.yahoo.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "0"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "18.156.195.47",
+        "startedDateTime": "2020-12-13T15:43:17.771Z",
+        "timings": {
+          "wait": 315.5110000142939
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c2shb.ssp.yahoo.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c2shb.ssp.yahoo.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "0"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "18.156.195.47",
+        "startedDateTime": "2020-12-13T15:43:17.773Z",
+        "timings": {
+          "wait": 310.58599998869187
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c2shb.ssp.yahoo.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c2shb.ssp.yahoo.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "0"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "18.156.195.47",
+        "startedDateTime": "2020-12-13T15:43:17.774Z",
+        "timings": {
+          "wait": 363.98899998857826
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c2shb.ssp.yahoo.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c2shb.ssp.yahoo.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "0"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "18.156.195.47",
+        "startedDateTime": "2020-12-13T15:43:17.776Z",
+        "timings": {
+          "wait": 220.81900001409463
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c2shb.ssp.yahoo.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "c2shb.ssp.yahoo.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "0"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "18.156.195.47",
+        "startedDateTime": "2020-12-13T15:43:17.777Z",
+        "timings": {
+          "wait": 256.6719999890141
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "ssc.33across.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"imp\":[{\"banner\":{\"format\":[{\"w\":728,\"h\":90}],\"ext\":{\"ttx\":{\"viewability\":{\"amount\":\"nm\"}}}},\"ext\":{\"ttx\":{\"prod\":\"siab\"}}}],\"site\":{\"id\":\"beuMI6FAar6QjTaKlId8sQ\",\"page\":\"https://www.w3schools.com/\"},\"id\":\"49c3a7070ae68c\",\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"}},\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}},\"ext\":{\"ttx\":{\"prebidStartedAt\":1607874197778,\"caller\":[{\"name\":\"prebidjs\",\"version\":\"3.27.1\"}]}},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "67.202.110.22",
+        "startedDateTime": "2020-12-13T15:43:17.779Z",
+        "timings": {
+          "wait": 190.45300000973418
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "ssc.33across.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"imp\":[{\"banner\":{\"format\":[{\"w\":728,\"h\":90}],\"ext\":{\"ttx\":{\"viewability\":{\"amount\":\"nm\"}}}},\"ext\":{\"ttx\":{\"prod\":\"siab\"}}}],\"site\":{\"id\":\"bkPA-MFAar6QjTaKlId8sQ\",\"page\":\"https://www.w3schools.com/\"},\"id\":\"50f2d06d5df84c1\",\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"}},\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}},\"ext\":{\"ttx\":{\"prebidStartedAt\":1607874197778,\"caller\":[{\"name\":\"prebidjs\",\"version\":\"3.27.1\"}]}},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "67.202.110.22",
+        "startedDateTime": "2020-12-13T15:43:17.780Z",
+        "timings": {
+          "wait": 197.1070000111181
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "ssc.33across.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"imp\":[{\"banner\":{\"format\":[{\"w\":300,\"h\":250}],\"ext\":{\"ttx\":{\"viewability\":{\"amount\":\"nm\"}}}},\"ext\":{\"ttx\":{\"prod\":\"siab\"}}}],\"site\":{\"id\":\"bnNnBAFAar6QjTaKlId8sQ\",\"page\":\"https://www.w3schools.com/\"},\"id\":\"518bc52b7564b34\",\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"}},\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}},\"ext\":{\"ttx\":{\"prebidStartedAt\":1607874197778,\"caller\":[{\"name\":\"prebidjs\",\"version\":\"3.27.1\"}]}},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "67.202.110.22",
+        "startedDateTime": "2020-12-13T15:43:17.781Z",
+        "timings": {
+          "wait": 201.43999999814298
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "ssc.33across.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"imp\":[{\"banner\":{\"format\":[{\"w\":300,\"h\":250}],\"ext\":{\"ttx\":{\"viewability\":{\"amount\":\"nm\"}}}},\"ext\":{\"ttx\":{\"prod\":\"siab\"}}}],\"site\":{\"id\":\"bqPB9YFAar6QjTaKlId8sQ\",\"page\":\"https://www.w3schools.com/\"},\"id\":\"5242f48077c3f5e\",\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"}},\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}},\"ext\":{\"ttx\":{\"prebidStartedAt\":1607874197778,\"caller\":[{\"name\":\"prebidjs\",\"version\":\"3.27.1\"}]}},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "67.202.110.22",
+        "startedDateTime": "2020-12-13T15:43:17.782Z",
+        "timings": {
+          "wait": 330.37099998985605
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "ssc.33across.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"imp\":[{\"banner\":{\"format\":[{\"w\":728,\"h\":90}],\"ext\":{\"ttx\":{\"viewability\":{\"amount\":\"nm\"}}}},\"ext\":{\"ttx\":{\"prod\":\"siab\"}}}],\"site\":{\"id\":\"bud0kcFAar6QjTaKlId8sQ\",\"page\":\"https://www.w3schools.com/\"},\"id\":\"53fdb55e690923c\",\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"}},\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}},\"ext\":{\"ttx\":{\"prebidStartedAt\":1607874197778,\"caller\":[{\"name\":\"prebidjs\",\"version\":\"3.27.1\"}]}},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "67.202.110.22",
+        "startedDateTime": "2020-12-13T15:43:17.783Z",
+        "timings": {
+          "wait": 330.93700000992976
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "hbopenbid.pubmatic.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"id\":\"1607874197784\",\"at\":1,\"cur\":[\"USD\"],\"imp\":[{\"id\":\"55764dd368031a5\",\"tagid\":\"sws-hb_w3schools_Main_Leaderboard\",\"secure\":1,\"ext\":{},\"bidfloorcur\":\"USD\",\"banner\":{\"w\":728,\"h\":90,\"format\":[{\"w\":728,\"h\":90}],\"pos\":0,\"topframe\":1}},{\"id\":\"5629e0eac0a8f8d\",\"tagid\":\"sws-hb_w3schools_Bottom_BillboardMPU\",\"secure\":1,\"ext\":{},\"bidfloorcur\":\"USD\",\"banner\":{\"w\":970,\"h\":250,\"format\":[{\"w\":300,\"h\":250}],\"pos\":0,\"topframe\":1}},{\"id\":\"57e143e77ddde21\",\"tagid\":\"sws-hb_w3schools_try_it_pages_leaderboard\",\"secure\":1,\"ext\":{},\"bidfloorcur\":\"USD\",\"banner\":{\"w\":728,\"h\":90,\"format\":[{\"w\":728,\"h\":90}],\"pos\":0,\"topframe\":1}}],\"site\":{\"page\":\"https://www.w3schools.com/\",\"ref\":\"\",\"publisher\":{\"id\":\"157369\"},\"domain\":\"www.w3schools.com\"},\"device\":{\"ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36\",\"js\":1,\"dnt\":0,\"h\":864,\"w\":1536,\"language\":\"el-GR\",\"geo\":{}},\"user\":{\"geo\":{},\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\"},\"eids\":[{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5-ZHMO7tKeiTN2iBRBviTQfpwUwtzukC3r7ydm7FAVzQ\",\"atype\":1}]}]},\"ext\":{\"wrapper\":{\"wv\":\"prebid_prebid_3.27.1\",\"transactionId\":\"c8450b8d-f6c4-47e0-b539-0a510a225a2e\",\"wp\":\"pbjs\"}},\"source\":{\"tid\":\"c8450b8d-f6c4-47e0-b539-0a510a225a2e\",\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"snigelweb.com\",\"sid\":\"7088\",\"domain\":\"w3schools.com\",\"hp\":1}]}}},\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}}}"
+          }
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "185.64.189.112",
+        "startedDateTime": "2020-12-13T15:43:17.786Z",
+        "timings": {
+          "wait": 349.3289999921303
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "web.hb.ad.cpe.dotomi.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "text/plain",
+            "text": "{\"id\":\"76147dbf-60dc-433f-8253-3db39fb340cc\",\"imp\":[{\"id\":\"5989c29438ab29d\",\"secure\":1,\"bidfloor\":0,\"displaymanager\":\"Prebid.js\",\"displaymanagerver\":\"3.27.1\",\"banner\":{\"format\":[{\"w\":300,\"h\":250}]}},{\"id\":\"604b407f6cac71\",\"secure\":1,\"bidfloor\":0,\"displaymanager\":\"Prebid.js\",\"displaymanagerver\":\"3.27.1\",\"banner\":{\"format\":[{\"w\":728,\"h\":90}]}}],\"site\":{\"id\":\"124672\",\"mobile\":1,\"page\":\"https://www.w3schools.com/\"},\"device\":{\"h\":864,\"w\":1536,\"dnt\":0,\"language\":\"el\",\"make\":\"Google Inc.\",\"ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36\"},\"at\":1,\"regs\":{\"ext\":{\"gdpr\":1,\"us_privacy\":\"1---\"}},\"user\":{\"ext\":{\"consent\":\"CO7XnLwO7XnLwDlAkAELA7CsAP_AAH_AACiQG2Nf_X_fb3_j-_599_t0eY1f9_7_v20zjheds-8Nyd_X_L8X_2M7vB36pr4KuR4ku3bBAQdtHOncTQmR6IlVqTLsbk2Mr7NKJ7PEmlsbe2dYGH9_n9XT_ZKZ79_v___7________77______3_v7wNsAJMNS-AiyEsYCSaNKoUQIQriQ6AEAFFCMLRNYQErgp2VwEfoIGACA1ARgRAgxBRiyCAAAAAJKIgBADwQCIAiAQAAgBUgIQAEaAILACQMAgAFANCwAiiCECQgyOCo5RAgIkWignkjAEoudjCCEEAAA\",\"eids\":[{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5-ZHMO7tKeiTN2iBRBviTQfpwUwtzukC3r7ydm7FAVzQ\",\"atype\":1}]}]}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a02:fa8:8806:16::1460]",
+        "startedDateTime": "2020-12-13T15:43:17.788Z",
+        "timings": {
+          "wait": 119.73799999073145
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fastlane.rubiconproject.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "fastlane.rubiconproject.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.19.162.61",
+        "startedDateTime": "2020-12-13T15:43:17.792Z",
+        "timings": {
+          "wait": 168.40199998787045
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fastlane.rubiconproject.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "fastlane.rubiconproject.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.19.162.61",
+        "startedDateTime": "2020-12-13T15:43:17.793Z",
+        "timings": {
+          "wait": 161.2920000106767
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fastlane.rubiconproject.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "fastlane.rubiconproject.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.19.162.61",
+        "startedDateTime": "2020-12-13T15:43:17.794Z",
+        "timings": {
+          "wait": 181.7599999962207
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fastlane.rubiconproject.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "fastlane.rubiconproject.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.19.162.61",
+        "startedDateTime": "2020-12-13T15:43:17.795Z",
+        "timings": {
+          "wait": 172.96500000273807
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fastlane.rubiconproject.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "fastlane.rubiconproject.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "213.19.162.61",
+        "startedDateTime": "2020-12-13T15:43:17.796Z",
+        "timings": {
+          "wait": 203.61899999649074
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.amazon-adsystem.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "52.85.221.233",
+        "startedDateTime": "2020-12-13T15:43:17.830Z",
+        "timings": {
+          "wait": 306.50600000073945
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.amazon-adsystem.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "52.85.221.233",
+        "startedDateTime": "2020-12-13T15:43:17.831Z",
+        "timings": {
+          "wait": 0.6080000053215772
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "securepubads.g.doubleclick.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "172.217.23.130",
+        "startedDateTime": "2020-12-13T15:43:17.888Z",
+        "timings": {
+          "wait": 0.453999997863546
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "adservice.google.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2020-12-13T15:43:17.889Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "aax-eu.amazon-adsystem.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "aax-eu.amazon-adsystem.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache, no-store, private, must-revalidate, s-maxage=0"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 01 Jan 1970 00:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "52.95.123.167",
+        "startedDateTime": "2020-12-13T15:43:18.172Z",
+        "timings": {
+          "wait": 164.10300000361167
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "acdn.adnxs.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 02 Dec 2020 20:56:47 GMT"
+            },
+            {},
+            {
+              "name": "Expires",
+              "value": "Thu, 03 Dec 2020 21:09:36 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=86402"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Age",
+              "value": "46353"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.17.108",
+        "startedDateTime": "2020-12-13T15:43:21.874Z",
+        "timings": {
+          "wait": 9.70800000476092
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "eu-u.openx.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "34.98.64.218",
+        "startedDateTime": "2020-12-13T15:43:21.879Z",
+        "timings": {
+          "wait": 78.36099998927675
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "js-sec.indexww.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.122.204.69",
+        "startedDateTime": "2020-12-13T15:43:21.883Z",
+        "timings": {
+          "wait": 9.965000002209097
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "ads.pubmatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 21 Oct 2020 18:57:52 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "public, max-age=89460"
+            },
+            {
+              "name": "Expires",
+              "value": "Mon, 14 Dec 2020 10:35:31 GMT"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.107.148.118",
+        "startedDateTime": "2020-12-13T15:43:21.889Z",
+        "timings": {
+          "wait": 9.102000013981014
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "eus.rubiconproject.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 28 Sep 2020 17:02:39 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.125.17.95",
+        "startedDateTime": "2020-12-13T15:43:21.894Z",
+        "timings": {
+          "wait": 8.062000014347955
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "ssum-sec.casalemedia.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "ssum-sec.casalemedia.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Expires",
+              "value": "Sun, 13 Dec 2020 15:43:22 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0, no-cache, no-store"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "2.22.77.27",
+        "startedDateTime": "2020-12-13T15:43:22.050Z",
+        "timings": {
+          "wait": 143.47400000030547
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "eus.rubiconproject.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "eus.rubiconproject.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 08 Dec 2020 23:53:31 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=62995"
+            },
+            {
+              "name": "Expires",
+              "value": "Mon, 14 Dec 2020 09:13:17 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "104.125.17.95",
+        "startedDateTime": "2020-12-13T15:43:22.035Z",
+        "timings": {
+          "wait": 109.36800000416116
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "ib.adnxs.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "ib.adnxs.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, private"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "37.252.172.37",
+        "startedDateTime": "2020-12-13T15:43:22.062Z",
+        "timings": {
+          "wait": 162.86799999477714
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "c.bing.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:1ec:c11::200]",
+        "startedDateTime": "2020-12-13T15:43:22.311Z",
+        "timings": {
+          "wait": 99.04400000601447
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "t.wayfair.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "151.101.17.253",
+        "startedDateTime": "2020-12-13T15:43:22.348Z",
+        "timings": {
+          "wait": 164.0350000083111
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "match.justpremium.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "18.193.90.249",
+        "startedDateTime": "2020-12-13T15:43:22.348Z",
+        "timings": {
+          "wait": 78.8820000026617
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "px.adhigh.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.232.148.147",
+        "startedDateTime": "2020-12-13T15:43:22.348Z",
+        "timings": {
+          "wait": 116.10700001387858
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "grey.erne.co",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "87.98.252.5",
+        "startedDateTime": "2020-12-13T15:43:22.349Z",
+        "timings": {
+          "wait": 79.78700000975653
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "js-sec.indexww.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "js-sec.indexww.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 24 Jan 2017 19:36:04 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1611"
+            },
+            {
+              "name": "Expires",
+              "value": "Sun, 13 Dec 2020 16:10:14 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            }
+          ]
+        },
+        "serverIPAddress": "104.122.204.69",
+        "startedDateTime": "2020-12-13T15:43:22.478Z",
+        "timings": {
+          "wait": 91.38899998566882
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "m.adnxs.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "m.adnxs.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "Found",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, private"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "185.33.220.100",
+        "startedDateTime": "2020-12-13T15:43:22.553Z",
+        "timings": {
+          "wait": 143.99500000458397
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "pixel.onaudience.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "pixel.onaudience.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "Found",
+          "headers": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "51.210.112.64",
+        "startedDateTime": "2020-12-13T15:43:22.664Z",
+        "timings": {
+          "wait": 82.95600000826084
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "secure.adnxs.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "secure.adnxs.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, private"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "185.33.221.53",
+        "startedDateTime": "2020-12-13T15:43:22.908Z",
+        "timings": {
+          "wait": 191.1840000066124
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "m.adnxs.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "m.adnxs.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "Found",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, private"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "185.33.220.100",
+        "startedDateTime": "2020-12-13T15:43:22.949Z",
+        "timings": {
+          "wait": 144.0449999903664
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "sync.crwdcntrl.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "34.253.109.165",
+        "startedDateTime": "2020-12-13T15:43:22.999Z",
+        "timings": {
+          "wait": 113.07499999805538
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "m.adnxs.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "m.adnxs.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, private"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "185.33.220.100",
+        "startedDateTime": "2020-12-13T15:43:23.099Z",
+        "timings": {
+          "wait": 163.8760000001397
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "pixel.onaudience.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "pixel.onaudience.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "Found",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "51.210.112.64",
+        "startedDateTime": "2020-12-13T15:43:23.461Z",
+        "timings": {
+          "wait": 82.09099999041297
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "green.erne.co",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 302,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "87.98.252.5",
+        "startedDateTime": "2020-12-13T15:43:23.624Z",
+        "timings": {
+          "wait": 76.76800000138766
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "secure.adnxs.com",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "secure.adnxs.com"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, private"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "185.33.221.53",
+        "startedDateTime": "2020-12-13T15:43:23.734Z",
+        "timings": {
+          "wait": 149.7110000136085
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,7212 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 301,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.342Z",
+        "timings": {
+          "wait": 147.26000003201514
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 307,
+          "statusText": "Internal Redirect",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T15:52:54.634Z",
+        "timings": {
+          "wait": -2.9593706124542152e-8
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.641Z",
+        "timings": {
+          "wait": 119.03199996360391
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.880Z",
+        "timings": {
+          "wait": 75.67100001645088
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.880Z",
+        "timings": {
+          "wait": 730.9780000272095
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.881Z",
+        "timings": {
+          "wait": 423.0300000551641
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.881Z",
+        "timings": {
+          "wait": 660.0249999751151
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.882Z",
+        "timings": {
+          "wait": 503.3390000028908
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.882Z",
+        "timings": {
+          "wait": 555.1230000481307
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.882Z",
+        "timings": {
+          "wait": 620.9480000186339
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.883Z",
+        "timings": {
+          "wait": 810.7599999482334
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.883Z",
+        "timings": {
+          "wait": 969.7540000578314
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/octet-stream"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.883Z",
+        "timings": {
+          "wait": 869.3620000126585
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.886Z",
+        "timings": {
+          "wait": 807.5180000518262
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.887Z",
+        "timings": {
+          "wait": 809.1269999723137
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.887Z",
+        "timings": {
+          "wait": 807.8260000377744
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.orangeclickmedia.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T15:52:54.887Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.onesignal.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e134]",
+        "startedDateTime": "2021-02-05T15:52:54.887Z",
+        "timings": {
+          "wait": 7.196000045880675
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:811::2008]",
+        "startedDateTime": "2021-02-05T15:52:54.887Z",
+        "timings": {
+          "wait": 539.082999979116
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:811::2008]",
+        "startedDateTime": "2021-02-05T15:52:54.887Z",
+        "timings": {
+          "wait": 786.8209999882803
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.887Z",
+        "timings": {
+          "wait": 1003.0819999727383
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.888Z",
+        "timings": {
+          "wait": 70.95300000155717
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.888Z",
+        "timings": {
+          "wait": 111.50599995458126
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.888Z",
+        "timings": {
+          "wait": 109.99599996171892
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.888Z",
+        "timings": {
+          "wait": 115.15199997933209
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.888Z",
+        "timings": {
+          "wait": 126.80900005177409
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.889Z",
+        "timings": {
+          "wait": 137.4780000517443
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.889Z",
+        "timings": {
+          "wait": 6.1060000506639485
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.889Z",
+        "timings": {
+          "wait": 4.180999953158199
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.889Z",
+        "timings": {
+          "wait": 476.9970000048429
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.889Z",
+        "timings": {
+          "wait": 488.48100002750755
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.890Z",
+        "timings": {
+          "wait": 504.2880000566244
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.890Z",
+        "timings": {
+          "wait": 517.5390000225455
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.890Z",
+        "timings": {
+          "wait": 2.9170000325143337
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.890Z",
+        "timings": {
+          "wait": 525.2829999644234
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.891Z",
+        "timings": {
+          "wait": 525.310000049442
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.891Z",
+        "timings": {
+          "wait": 526.6700000115335
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.891Z",
+        "timings": {
+          "wait": 527.8900000197813
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.891Z",
+        "timings": {
+          "wait": 3.826999992012978
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.891Z",
+        "timings": {
+          "wait": 7.541000048473477
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.921Z",
+        "timings": {
+          "wait": 521.8330000455007
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.921Z",
+        "timings": {
+          "wait": 523.698999977611
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.921Z",
+        "timings": {
+          "wait": 523.5729999627918
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.921Z",
+        "timings": {
+          "wait": 17.56999997842312
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.921Z",
+        "timings": {
+          "wait": 80.16799999608844
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.922Z",
+        "timings": {
+          "wait": 19.922999968387188
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.922Z",
+        "timings": {
+          "wait": 20.497000013291835
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.922Z",
+        "timings": {
+          "wait": 531.660999944739
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.923Z",
+        "timings": {
+          "wait": 545.8970000011772
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.923Z",
+        "timings": {
+          "wait": 601.5139999916479
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.923Z",
+        "timings": {
+          "wait": 634.7669999441654
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.924Z",
+        "timings": {
+          "wait": 640.7489999576956
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.924Z",
+        "timings": {
+          "wait": 642.2839999440462
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.924Z",
+        "timings": {
+          "wait": 646.1340000473708
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.924Z",
+        "timings": {
+          "wait": 650.1700000563413
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.924Z",
+        "timings": {
+          "wait": 654.4489999550954
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.924Z",
+        "timings": {
+          "wait": 661.4840000059977
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.938Z",
+        "timings": {
+          "wait": 664.5289999739081
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.938Z",
+        "timings": {
+          "wait": 681.7450000548512
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.938Z",
+        "timings": {
+          "wait": 696.476000023447
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.938Z",
+        "timings": {
+          "wait": 701.3949999426976
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/webp"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.938Z",
+        "timings": {
+          "wait": 705.6510000336244
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.938Z",
+        "timings": {
+          "wait": 21.167999995946886
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.938Z",
+        "timings": {
+          "wait": 21.402000031352042
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.939Z",
+        "timings": {
+          "wait": 21.076999974437058
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/webp"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.939Z",
+        "timings": {
+          "wait": 20.856000004187226
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.939Z",
+        "timings": {
+          "wait": 722.2490000578016
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.939Z",
+        "timings": {
+          "wait": 677.0890000261738
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.939Z",
+        "timings": {
+          "wait": 20.194999997511506
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 728.1790000076667
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 19.906999952293933
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 19.92999995009601
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 747.9989999608994
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 752.1180000190884
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 773.0459999755471
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 798.3129999570698
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.940Z",
+        "timings": {
+          "wait": 806.6439999832511
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.942Z",
+        "timings": {
+          "wait": 810.024999968037
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:54.942Z",
+        "timings": {
+          "wait": 834.4830000325293
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:54.942Z",
+        "timings": {
+          "wait": 10.097999958917498
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "instant.page",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:a1a]",
+        "startedDateTime": "2021-02-05T15:52:54.942Z",
+        "timings": {
+          "wait": 9.059000012762844
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "xplayer.stream",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3037::ac43:8a81]",
+        "startedDateTime": "2021-02-05T15:52:54.942Z",
+        "timings": {
+          "wait": 18.83100004962832
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "static.cloudflareinsights.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6810:5e41]",
+        "startedDateTime": "2021-02-05T15:52:54.942Z",
+        "timings": {
+          "wait": 144.21099996554108
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:811::2008]",
+        "startedDateTime": "2021-02-05T15:52:55.770Z",
+        "timings": {
+          "wait": 965.4160000470802
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:2045:5e00:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-05T15:52:55.832Z",
+        "timings": {
+          "wait": 215.4990000550598
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:55.980Z",
+        "timings": {
+          "wait": 840.1160000261143
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:55.983Z",
+        "timings": {
+          "wait": 17.335999958090483
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.27",
+        "startedDateTime": "2021-02-05T15:52:56.100Z",
+        "timings": {
+          "wait": 175.29399994798007
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "cdn.onesignal.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e134]",
+        "startedDateTime": "2021-02-05T15:52:56.274Z",
+        "timings": {
+          "wait": 0.5939999696239829
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "onesignal.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6812:e234]",
+        "startedDateTime": "2021-02-05T15:52:56.327Z",
+        "timings": {
+          "wait": 147.2549999506325
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "secure.quantserve.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:36a9:ecb:e518:b308]",
+        "startedDateTime": "2021-02-05T15:52:56.463Z",
+        "timings": {
+          "wait": 1.0459999547898768
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "imasdk.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T15:52:56.467Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "rules.quantcount.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/x-javascript"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:2045:9400:6:44e3:f8c0:93a1]",
+        "startedDateTime": "2021-02-05T15:52:56.476Z",
+        "timings": {
+          "wait": 270.0900000143871
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:56.768Z",
+        "timings": {
+          "wait": 259.2060000428334
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:56.868Z",
+        "timings": {
+          "wait": 283.40699994546173
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:818::200e]",
+        "startedDateTime": "2021-02-05T15:52:56.895Z",
+        "timings": {
+          "wait": 185.28300003272295
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:811::2008]",
+        "startedDateTime": "2021-02-05T15:52:56.896Z",
+        "timings": {
+          "wait": 321.62999996928124
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript;charset=UTF-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:b600:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-05T15:52:57.012Z",
+        "timings": {
+          "wait": 151.45400003774463
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "pixel.quantserve.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:8c6e:cf2c:8d6:9fb5]",
+        "startedDateTime": "2021-02-05T15:52:57.014Z",
+        "timings": {
+          "wait": 115.59600002576411
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:57.134Z",
+        "timings": {
+          "wait": 210.38499995227903
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/x-woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.140Z",
+        "timings": {
+          "wait": 91.9589999438748
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/x-woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.140Z",
+        "timings": {
+          "wait": 92.29800000479071
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.141Z",
+        "timings": {
+          "wait": 84.05399997342379
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.141Z",
+        "timings": {
+          "wait": 82.16799999366701
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.142Z",
+        "timings": {
+          "wait": 100.05400000521541
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.142Z",
+        "timings": {
+          "wait": 220.54900000361351
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.googletagmanager.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:811::2008]",
+        "startedDateTime": "2021-02-05T15:52:57.143Z",
+        "timings": {
+          "wait": 130.8449999786839
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "vjs.zencdn.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a04:4e42:4::729]",
+        "startedDateTime": "2021-02-05T15:52:57.143Z",
+        "timings": {
+          "wait": 6.741000042267144
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.143Z",
+        "timings": {
+          "wait": 220.32100000525264
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.143Z",
+        "timings": {
+          "wait": 90.90399996660648
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.144Z",
+        "timings": {
+          "wait": 220.7240000483468
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "imasdk.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T15:52:57.144Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "vjs.zencdn.net",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a04:4e42:4::729]",
+        "startedDateTime": "2021-02-05T15:52:57.145Z",
+        "timings": {
+          "wait": 4.857999967761338
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:57.145Z",
+        "timings": {
+          "wait": 220.65199999251962
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T15:52:57.145Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"m\":\"d0d422291a3967e4741ffa3d0370bfc4cb8d7331-1612540374-1800-AaBfFBtsqeSlAdOlCJaa4FToaqv1xO+PNns9BhlYfInF9rJ7ETqv30jQ6kCj8NPr6gpTlBIEyZcemT6pgUh9BpCgUkuSKqJ2EOB32TCUaTAFOuSIPM3uQlGRbw348iAoYg==\",\"results\":[\"af9c21da24c065531c0e86e7c133caab\",\"26576b7368344d50465598e864f16e40\"],\"timing\":528,\"fp\":{\"id\":3,\"e\":{\"r\":[1536,864],\"ar\":[824,1536],\"pr\":1.25,\"cd\":24,\"wb\":false,\"wp\":false,\"wn\":false,\"ch\":true,\"ws\":false,\"wd\":false}}}"
+          }
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:57.757Z",
+        "timings": {
+          "wait": 63.62899999176711
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200e]",
+        "startedDateTime": "2021-02-05T15:52:57.814Z",
+        "timings": {
+          "wait": 79.91899999875575
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200e]",
+        "startedDateTime": "2021-02-05T15:52:57.832Z",
+        "timings": {
+          "wait": 81.80199998102337
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "get.contentpass.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "35.186.249.177",
+        "startedDateTime": "2021-02-05T15:52:57.760Z",
+        "timings": {
+          "wait": 73.55499999077617
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.27",
+        "startedDateTime": "2021-02-05T15:52:57.849Z",
+        "timings": {
+          "wait": 86.34400003945082
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "quantcast.mgr.consensu.org",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2600:9000:206e:c00:9:46dc:4700:93a1]",
+        "startedDateTime": "2021-02-05T15:52:57.884Z",
+        "timings": {
+          "wait": 0.6349999772384762
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "stats.g.doubleclick.net",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T15:52:57.917Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::200e]",
+        "startedDateTime": "2021-02-05T15:52:57.923Z",
+        "timings": {
+          "wait": 100.96100001825393
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "s.tvopen.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "193.104.200.26",
+        "startedDateTime": "2021-02-05T15:52:58.000Z",
+        "timings": {
+          "wait": 115.40699998284131
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "aka-cdn-ns.adtech.de",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "headers": []
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-02-05T15:52:58.070Z",
+        "timings": {
+          "wait": 0
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "api.contentpass.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "35.186.245.144",
+        "startedDateTime": "2021-02-05T15:52:58.093Z",
+        "timings": {
+          "wait": 106.09300000173599
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "api.contentpass.net",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "35.186.245.144",
+        "startedDateTime": "2021-02-05T15:52:58.093Z",
+        "timings": {
+          "wait": 106.53099996060132
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "pixel.quantserve.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2620:116:800d:21:8c6e:cf2c:8d6:9fb5]",
+        "startedDateTime": "2021-02-05T15:52:58.304Z",
+        "timings": {
+          "wait": 92.20600004515796
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"memory\":{\"totalJSHeapSize\":18649422,\"usedJSHeapSize\":8526946,\"jsHeapSizeLimit\":2172649472},\"resources\":[{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFDasGroteskPro/PFDasGroteskPro-Light.woff2\",\"s\":543.525,\"d\":498.705,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":543.525,\"ds\":567.225,\"de\":567.235,\"cs\":567.235,\"ce\":620.05,\"qs\":620.125,\"ps\":696.115,\"pe\":1042.23,\"ws\":0,\"ss\":567.58,\"ts\":88474,\"ec\":87732,\"dc\":87732},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFDasGroteskPro/PFDasGroteskPro-Regular.woff2\",\"s\":544.08,\"d\":880.465,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":544.08,\"ds\":544.08,\"de\":544.08,\"cs\":544.08,\"ce\":544.08,\"qs\":623.05,\"ps\":1354.115,\"pe\":1424.545,\"ws\":0,\"ss\":544.08,\"ts\":83604,\"ec\":82908,\"dc\":82908},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFDasGroteskPro/PFDasGroteskPro-Italic.woff2\",\"s\":544.55,\"d\":578.645,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":544.55,\"ds\":544.55,\"de\":544.55,\"cs\":544.55,\"ce\":544.55,\"qs\":620.535,\"ps\":1043.91,\"pe\":1123.195,\"ws\":0,\"ss\":544.55,\"ts\":77854,\"ec\":77160,\"dc\":77160},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFDasGroteskPro/PFDasGroteskPro-Medium.woff2\",\"s\":545.07,\"d\":806.185,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":545.07,\"ds\":545.07,\"de\":545.07,\"cs\":545.07,\"ce\":545.07,\"qs\":622.77,\"ps\":1283.025,\"pe\":1351.255,\"ws\":0,\"ss\":545.07,\"ts\":88107,\"ec\":87412,\"dc\":87412},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFDasGroteskPro/PFDasGroteskPro-Bold.woff2\",\"s\":545.52,\"d\":629.93,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":545.52,\"ds\":545.52,\"de\":545.52,\"cs\":545.52,\"ce\":545.52,\"qs\":620.955,\"ps\":1124.575,\"pe\":1175.45,\"ws\":0,\"ss\":545.52,\"ts\":65729,\"ec\":65040,\"dc\":65040},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFVenue/PFVenue-Regular.woff2\",\"s\":545.875,\"d\":695.74,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":545.875,\"ds\":545.875,\"de\":545.875,\"cs\":545.875,\"ce\":545.875,\"qs\":621.31,\"ps\":1176.805,\"pe\":1241.615,\"ws\":0,\"ss\":545.875,\"ts\":65228,\"ec\":64532,\"dc\":64532},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFVenue/PFVenue-Medium.woff2\",\"s\":546.205,\"d\":735.505,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":546.205,\"ds\":546.205,\"de\":546.205,\"cs\":546.205,\"ce\":546.205,\"qs\":621.785,\"ps\":1243.58,\"pe\":1281.71,\"ws\":0,\"ss\":546.205,\"ts\":62715,\"ec\":62028,\"dc\":62028},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFVenue/PFVenue-Bold.woff2\",\"s\":546.545,\"d\":937.62,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":546.545,\"ds\":546.545,\"de\":546.545,\"cs\":546.545,\"ce\":546.545,\"qs\":623.425,\"ps\":1434.24,\"pe\":1484.165,\"ws\":0,\"ss\":546.545,\"ts\":64320,\"ec\":63632,\"dc\":63632},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFDINSerif/PFDINSerif-Regular.woff2\",\"s\":546.865,\"d\":1078.66,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":546.865,\"ds\":546.865,\"de\":546.865,\"cs\":546.865,\"ce\":546.865,\"qs\":623.58,\"ps\":1593.395,\"pe\":1625.525,\"ws\":0,\"ss\":546.865,\"ts\":65405,\"ec\":64716,\"dc\":64716},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/fonts/PFDINSerif/PFDINSerif-Medium.woff2\",\"s\":547.14,\"d\":1044.81,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":547.14,\"ds\":547.14,\"de\":547.14,\"cs\":547.14,\"ce\":547.14,\"qs\":623.505,\"ps\":1492.915,\"pe\":1591.95,\"ws\":0,\"ss\":547.14,\"ts\":108481,\"ec\":107764,\"dc\":107764},{\"n\":\"https://www.ethnos.gr/sites/default/files/google_tag/google_tag.script.js?qo1181\",\"s\":550.025,\"d\":881.56,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":550.025,\"ds\":550.025,\"de\":550.025,\"cs\":550.025,\"ce\":550.025,\"qs\":623.17,\"ps\":1430.745,\"pe\":1431.585,\"ws\":0,\"ss\":550.025,\"ts\":863,\"ec\":195,\"dc\":348},{\"n\":\"https://www.ethnos.gr/sites/default/files/css/css_wwN5xKcVesdk6tr_l0BxBIrvXHTZI8Cyunw6GkkicLQ.css?qo1181\",\"s\":550.475,\"d\":883.445,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":550.475,\"ds\":550.475,\"de\":550.475,\"cs\":550.475,\"ce\":550.475,\"qs\":623.335,\"ps\":1432.515,\"pe\":1433.92,\"ws\":0,\"ss\":550.475,\"ts\":2766,\"ec\":2080,\"dc\":8405},{\"n\":\"https://www.ethnos.gr/sites/default/files/css/css_N-Q_7bFAFR1Omg9gItmr71KQS6HDPQd525sapF9J5hM.css?qo1181\",\"s\":550.755,\"d\":881.475,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":550.755,\"ds\":550.755,\"de\":550.755,\"cs\":550.755,\"ce\":550.755,\"qs\":623.255,\"ps\":1431.135,\"pe\":1432.23,\"ws\":0,\"ss\":550.755,\"ts\":15481,\"ec\":14781,\"dc\":96734},{\"n\":\"https://cdn.orangeclickmedia.com/tech/libs/ocm_iab_compliance.js\",\"s\":551.075,\"d\":1197.885,\"i\":\"script\",\"p\":\"\",\"rs\":0,\"re\":0,\"fs\":551.075,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":1748.96,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\",\"s\":551.165,\"d\":1095.985,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":551.165,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":1647.15,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.googletagmanager.com/gtag/js?id=UA-128184575-1\",\"s\":551.26,\"d\":1989.035,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":551.26,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2540.295,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.googletagmanager.com/gtag/js?id=UA-128184575-2\",\"s\":551.36,\"d\":2241.36,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":551.36,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2792.72,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.ethnos.gr/sites/default/files/js/js_B7pS3ddmNLFYOJi3j28odiodelMu-EhaOeKlHZ8E6y0.js\",\"s\":551.445,\"d\":1076.015,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":551.445,\"ds\":551.445,\"de\":551.445,\"cs\":551.445,\"ce\":551.445,\"qs\":623.67,\"ps\":1626.81,\"pe\":1627.46,\"ws\":0,\"ss\":551.445,\"ts\":2566,\"ec\":1878,\"dc\":5184},{\"n\":\"https://www.ethnos.gr/cdn-cgi/bm/cv/669835187/api.js\",\"s\":551.745,\"d\":1172.41,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":551.745,\"ds\":551.745,\"de\":551.745,\"cs\":551.745,\"ce\":551.745,\"qs\":1647.855,\"ps\":1719.195,\"pe\":1724.155,\"ws\":0,\"ss\":551.745,\"ts\":9696,\"ec\":9179,\"dc\":35662},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/images/logo.svg\",\"s\":551.865,\"d\":1211.075,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":551.865,\"ds\":551.865,\"de\":551.865,\"cs\":551.865,\"ce\":551.865,\"qs\":1648.31,\"ps\":1760.085,\"pe\":1762.94,\"ws\":0,\"ss\":551.865,\"ts\":1282,\"ec\":616,\"dc\":1283},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/2020-12/%CE%B5%CE%BC%CE%B2%CE%BF%CE%BB%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CF%83.jpg?itok=c419dPFY\",\"s\":552.005,\"d\":1208.765,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":552.005,\"ds\":552.005,\"de\":552.005,\"cs\":552.005,\"ce\":552.005,\"qs\":1649.135,\"ps\":1759.495,\"pe\":1760.77,\"ws\":0,\"ss\":552.005,\"ts\":4671,\"ec\":4003,\"dc\":4003},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/ursula.jpg?itok=GWCxT78k\",\"s\":552.13,\"d\":1220.26,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":552.13,\"ds\":552.13,\"de\":552.13,\"cs\":552.13,\"ce\":552.13,\"qs\":1650.32,\"ps\":1765.865,\"pe\":1772.39,\"ws\":0,\"ss\":552.13,\"ts\":5280,\"ec\":4614,\"dc\":4614},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/farmako_0.jpg?itok=Z31HlI_F\",\"s\":552.26,\"d\":1230.585,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":552.26,\"ds\":552.26,\"de\":552.26,\"cs\":552.26,\"ce\":552.26,\"qs\":1651.68,\"ps\":1779.195,\"pe\":1782.845,\"ws\":0,\"ss\":552.26,\"ts\":5107,\"ec\":4441,\"dc\":4441},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/default/public/2021-02/koronoios-athina.jpg?itok=X_uSRTE9\",\"s\":552.71,\"d\":1581.51,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":552.71,\"ds\":552.71,\"de\":552.71,\"cs\":552.71,\"ce\":552.71,\"qs\":1653.34,\"ps\":1792,\"pe\":2134.22,\"ws\":0,\"ss\":552.71,\"ts\":193009,\"ec\":192300,\"dc\":192300},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/images/open-logo-dark.svg\",\"s\":552.955,\"d\":1104.67,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":552.955,\"ds\":552.955,\"de\":552.955,\"cs\":552.955,\"ce\":552.955,\"qs\":1649.9,\"ps\":1655.21,\"pe\":1657.625,\"ws\":0,\"ss\":552.955,\"ts\":0,\"ec\":858,\"dc\":1681},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/images/imerisia.svg\",\"s\":553.11,\"d\":1105.3,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":553.11,\"ds\":553.11,\"de\":553.11,\"cs\":553.11,\"ce\":553.11,\"qs\":1653.07,\"ps\":1656.25,\"pe\":1658.41,\"ws\":0,\"ss\":553.11,\"ts\":0,\"ec\":2376,\"dc\":5653},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/default_teaser/public/widgets/2021/02/05/1774397.jpg?itok=Zb0LgKHY\",\"s\":553.27,\"d\":1592.745,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":553.27,\"ds\":553.27,\"de\":553.27,\"cs\":553.27,\"ce\":553.27,\"qs\":1658.785,\"ps\":2136.18,\"pe\":2146.015,\"ws\":0,\"ss\":553.27,\"ts\":15344,\"ec\":14633,\"dc\":14633},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/default_teaser/public/widgets/2021/02/05/%25CE%25B1%25CE%25BA%25CE%25AF%25CE%25BD%25CE%25B7%25CF%2584%25CE%25B1.jpg?itok=a29yQfC6\",\"s\":553.405,\"d\":1612.115,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":553.405,\"ds\":553.405,\"de\":553.405,\"cs\":553.405,\"ce\":553.405,\"qs\":1659.315,\"ps\":2147.925,\"pe\":2165.52,\"ws\":0,\"ss\":553.405,\"ts\":24549,\"ec\":23839,\"dc\":23839},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/default_teaser/public/widgets/2021/02/05/chobani-ukulagia.jpg?itok=FBOQOtt0\",\"s\":553.65,\"d\":1627.56,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":553.65,\"ds\":553.65,\"de\":553.65,\"cs\":553.65,\"ce\":553.65,\"qs\":1662.4,\"ps\":2167.09,\"pe\":2181.21,\"ws\":0,\"ss\":553.65,\"ts\":15257,\"ec\":14544,\"dc\":14544},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/default_teaser/public/widgets/2021/02/05/Bitcoin.jpg?itok=Z3QjHKbg\",\"s\":553.81,\"d\":1638.07,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":553.81,\"ds\":553.81,\"de\":553.81,\"cs\":553.81,\"ce\":553.81,\"qs\":1663.91,\"ps\":2181.92,\"pe\":2191.88,\"ws\":0,\"ss\":553.81,\"ts\":16291,\"ec\":15513,\"dc\":15513},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/full_width/public/2021-02/metoo2.jpg?itok=kEmFdv0I\",\"s\":553.955,\"d\":1116.895,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":553.955,\"ds\":553.955,\"de\":553.955,\"cs\":553.955,\"ce\":553.955,\"qs\":1663.705,\"ps\":1665.71,\"pe\":1670.85,\"ws\":0,\"ss\":553.955,\"ts\":0,\"ec\":90352,\"dc\":90352},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2020-07/%CF%83%CE%B5%CE%BC%CE%B9%CE%BD%CE%B1_%CE%B4%CE%B9%CE%B3%CE%B5%CE%BD%CE%B71.jpg?h=ec20c355&itok=a4KTaktp\",\"s\":554.255,\"d\":1639.18,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":554.255,\"ds\":554.255,\"de\":554.255,\"cs\":554.255,\"ce\":554.255,\"qs\":1667.325,\"ps\":2193,\"pe\":2193.435,\"ws\":0,\"ss\":554.255,\"ts\":1627,\"ec\":961,\"dc\":961},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2019-12/foto%20%CE%9D%CF%84%CE%AF%CE%BD%CE%B1%2C%20%CE%AF%CF%83%CE%B9%CE%BF%20%CE%BC%CE%B1%CE%BB%CE%BB%CE%AF.jpg?h=9e181aec&itok=GBMigv8g\",\"s\":554.47,\"d\":1640.365,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":554.47,\"ds\":554.47,\"de\":554.47,\"cs\":554.47,\"ce\":554.47,\"qs\":1668.285,\"ps\":2194.175,\"pe\":2194.835,\"ws\":0,\"ss\":554.47,\"ts\":1556,\"ec\":888,\"dc\":888},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2019-06/65386856_10220086265525938_1244222729679273984_n.jpg?h=39896e94&itok=NYowFHDP\",\"s\":554.595,\"d\":1641.96,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":554.595,\"ds\":554.595,\"de\":554.595,\"cs\":554.595,\"ce\":554.595,\"qs\":1669.29,\"ps\":2196.13,\"pe\":2196.555,\"ws\":0,\"ss\":554.595,\"ts\":1697,\"ec\":1032,\"dc\":1032},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2018-11/angela43.jpg?h=1a229891&itok=CpWmzurZ\",\"s\":554.72,\"d\":1643.235,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":554.72,\"ds\":554.72,\"de\":554.72,\"cs\":554.72,\"ce\":554.72,\"qs\":1669.525,\"ps\":2197.535,\"pe\":2197.955,\"ws\":0,\"ss\":554.72,\"ts\":1590,\"ec\":854,\"dc\":854},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2019-10/%CE%B2%CF%82.jpg?h=22d476c1&itok=yyIw4HvN\",\"s\":554.835,\"d\":1118.055,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":554.835,\"ds\":554.835,\"de\":554.835,\"cs\":554.835,\"ce\":554.835,\"qs\":1667.235,\"ps\":1670.575,\"pe\":1672.89,\"ws\":0,\"ss\":554.835,\"ts\":0,\"ec\":738,\"dc\":738},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2020-05/IMG_8566b%20copy.jpg?h=3a5f1499&itok=aKcmr1gX\",\"s\":554.95,\"d\":1129.52,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":554.95,\"ds\":554.95,\"de\":554.95,\"cs\":554.95,\"ce\":554.95,\"qs\":1672.465,\"ps\":1676.975,\"pe\":1684.47,\"ws\":0,\"ss\":554.95,\"ts\":0,\"ec\":879,\"dc\":879},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square/public/authors/2021-02/s.Tsiouris.jpg?h=5c3b24b0&itok=nMhO_bbW\",\"s\":584.985,\"d\":1615.68,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":584.985,\"ds\":584.985,\"de\":584.985,\"cs\":584.985,\"ce\":584.985,\"qs\":1676.5,\"ps\":2198.765,\"pe\":2200.665,\"ws\":0,\"ss\":584.985,\"ts\":3777,\"ec\":3014,\"dc\":3014},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square/public/authors/2019-06/65386856_10220086265525938_1244222729679273984_n.jpg?h=39896e94&itok=OSszo9eM\",\"s\":585.065,\"d\":1619.485,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":585.065,\"ds\":585.065,\"de\":585.065,\"cs\":585.065,\"ce\":585.065,\"qs\":1677.75,\"ps\":2201.825,\"pe\":2204.55,\"ws\":0,\"ss\":585.065,\"ts\":5104,\"ec\":4398,\"dc\":4398},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square/public/authors/2021-02/Kakali%20%281%29.jpg?h=5d87ff00&itok=nJqZOwfi\",\"s\":585.125,\"d\":1639.61,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":585.125,\"ds\":585.125,\"de\":585.125,\"cs\":585.125,\"ce\":585.125,\"qs\":1682.1,\"ps\":2205.815,\"pe\":2224.735,\"ws\":0,\"ss\":585.125,\"ts\":4989,\"ec\":4318,\"dc\":4318},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square/public/authors/2019-06/zaxaraki1.jpg?h=34a55a78&itok=peOQWVkA\",\"s\":585.18,\"d\":1114.04,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":585.18,\"ds\":585.18,\"de\":585.18,\"cs\":585.18,\"ce\":585.18,\"qs\":1675.72,\"ps\":1686.4,\"pe\":1699.22,\"ws\":0,\"ss\":585.18,\"ts\":0,\"ec\":4423,\"dc\":4423},{\"n\":\"https://www.ethnos.gr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\",\"s\":585.24,\"d\":1127.225,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":585.24,\"ds\":585.24,\"de\":585.24,\"cs\":585.24,\"ce\":585.24,\"qs\":1628.06,\"ps\":1708.515,\"pe\":1712.465,\"ws\":0,\"ss\":585.24,\"ts\":1179,\"ec\":655,\"dc\":1239},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square/public/authors/2020-02/avgerinos1.jpg?h=f8d967c6&itok=85997mkX\",\"s\":585.785,\"d\":1115.055,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":585.785,\"ds\":585.785,\"de\":585.785,\"cs\":585.785,\"ce\":585.785,\"qs\":1676.345,\"ps\":1689.805,\"pe\":1700.84,\"ws\":0,\"ss\":585.785,\"ts\":0,\"ec\":4465,\"dc\":4465},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/images/open-logo.svg\",\"s\":585.94,\"d\":1117.135,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":585.94,\"ds\":585.94,\"de\":585.94,\"cs\":585.94,\"ce\":585.94,\"qs\":1677.575,\"ps\":1691.845,\"pe\":1703.075,\"ws\":0,\"ss\":585.94,\"ts\":0,\"ec\":860,\"dc\":1678},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/gallery_inner/public/2020-12/%CE%B5%CE%BC%CE%B2%CE%BF%CE%BB%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CF%83.jpg?itok=ZuzvHwVX\",\"s\":586.135,\"d\":1652.645,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":586.135,\"ds\":586.135,\"de\":586.135,\"cs\":586.135,\"ce\":586.135,\"qs\":1693.85,\"ps\":2225.8,\"pe\":2238.78,\"ws\":0,\"ss\":586.135,\"ts\":38147,\"ec\":37449,\"dc\":37449},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/gallery_inner/public/images/2021/02/genna_stin_kifisias.jpg?itok=9YmO_nab\",\"s\":587.11,\"d\":1708.94,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.11,\"ds\":587.11,\"de\":587.11,\"cs\":587.11,\"ce\":587.11,\"qs\":1695.155,\"ps\":2241.385,\"pe\":2296.05,\"ws\":0,\"ss\":587.11,\"ts\":66977,\"ec\":66270,\"dc\":66270},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/gallery_inner/public/images/2021/02/panelladikes.jpg?itok=IuwqyZCB\",\"s\":587.255,\"d\":1743.93,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.255,\"ds\":587.255,\"de\":587.255,\"cs\":587.255,\"ce\":587.255,\"qs\":1696.605,\"ps\":2298.54,\"pe\":2331.185,\"ws\":0,\"ss\":587.255,\"ts\":32357,\"ec\":31660,\"dc\":31660},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/wuhan.jpg?itok=n6Ey3M41\",\"s\":587.41,\"d\":1750.25,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.41,\"ds\":587.41,\"de\":587.41,\"cs\":587.41,\"ce\":587.41,\"qs\":1697.41,\"ps\":2332.51,\"pe\":2337.66,\"ws\":0,\"ss\":587.41,\"ts\":7072,\"ec\":6388,\"dc\":6388},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2020/07/ap_20199287205258.jpg?itok=CzjBRXx6\",\"s\":587.505,\"d\":1752.45,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.505,\"ds\":587.505,\"de\":587.505,\"cs\":587.505,\"ce\":587.505,\"qs\":1697.8,\"ps\":2338.665,\"pe\":2339.955,\"ws\":0,\"ss\":587.505,\"ts\":3993,\"ec\":3323,\"dc\":3323},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/01/tzo_baiden.jpg?itok=lHJqmexJ\",\"s\":587.6,\"d\":1756.815,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.6,\"ds\":587.6,\"de\":587.6,\"cs\":587.6,\"ce\":587.6,\"qs\":1698.9,\"ps\":2341.315,\"pe\":2344.415,\"ws\":0,\"ss\":587.6,\"ts\":4446,\"ec\":3780,\"dc\":3780},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/2020-04/soydia.jpg?itok=NmbVE5Xh\",\"s\":587.725,\"d\":1761.175,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.725,\"ds\":587.725,\"de\":587.725,\"cs\":587.725,\"ce\":587.725,\"qs\":1699.51,\"ps\":2345.79,\"pe\":2348.9,\"ws\":0,\"ss\":587.725,\"ts\":5676,\"ec\":4998,\"dc\":4998},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2020/10/ap_20276285732619.jpg?itok=2BGDte9x\",\"s\":587.82,\"d\":1765.735,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.82,\"ds\":587.82,\"de\":587.82,\"cs\":587.82,\"ce\":587.82,\"qs\":1700.115,\"ps\":2350.41,\"pe\":2353.555,\"ws\":0,\"ss\":587.82,\"ts\":5488,\"ec\":4818,\"dc\":4818},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/germany.jpg?itok=7vOIbPTt\",\"s\":587.905,\"d\":1770.995,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":587.905,\"ds\":587.905,\"de\":587.905,\"cs\":587.905,\"ce\":587.905,\"qs\":1700.305,\"ps\":2354.86,\"pe\":2358.9,\"ws\":0,\"ss\":587.905,\"ts\":6952,\"ec\":6275,\"dc\":6275},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2020/04/ap_20111529690877.jpg?itok=2RsQmtkG\",\"s\":588.005,\"d\":1776.985,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":588.005,\"ds\":588.005,\"de\":588.005,\"cs\":588.005,\"ce\":588.005,\"qs\":1700.47,\"ps\":2362.055,\"pe\":2364.99,\"ws\":0,\"ss\":588.005,\"ts\":7061,\"ec\":6384,\"dc\":6384},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2020/10/tramp_2.jpg?itok=AZEPZVu6\",\"s\":602.135,\"d\":1780.91,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.135,\"ds\":602.135,\"de\":602.135,\"cs\":602.135,\"ce\":602.135,\"qs\":1701.055,\"ps\":2365.705,\"pe\":2383.045,\"ws\":0,\"ss\":602.135,\"ts\":5317,\"ec\":4650,\"dc\":4650},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2020/11/paralia-lockdown_2.jpg?itok=OwnIdwgr\",\"s\":602.205,\"d\":1782.66,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.205,\"ds\":602.205,\"de\":602.205,\"cs\":602.205,\"ce\":602.205,\"qs\":1701.85,\"ps\":2383.83,\"pe\":2384.865,\"ws\":0,\"ss\":602.205,\"ts\":5150,\"ec\":4467,\"dc\":4467},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/ekatommyriouxos.jpg?itok=D74CC010\",\"s\":602.255,\"d\":1801.18,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.255,\"ds\":602.255,\"de\":602.255,\"cs\":602.255,\"ce\":602.255,\"qs\":1702.63,\"ps\":2399.245,\"pe\":2403.435,\"ws\":0,\"ss\":602.255,\"ts\":5801,\"ec\":5118,\"dc\":5118},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/ilja-freiberg-fwrnxmqqv8u-unsplash.jpg?itok=TcS6FzzN\",\"s\":602.3,\"d\":1806.69,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.3,\"ds\":602.3,\"de\":602.3,\"cs\":602.3,\"ce\":602.3,\"qs\":1703.61,\"ps\":2405.23,\"pe\":2408.99,\"ws\":0,\"ss\":602.3,\"ts\":6358,\"ec\":5669,\"dc\":5669},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/apagogi.png?itok=EW-FEgFz\",\"s\":602.35,\"d\":1825.035,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.35,\"ds\":602.35,\"de\":602.35,\"cs\":602.35,\"ce\":602.35,\"qs\":1704.84,\"ps\":2410.685,\"pe\":2427.385,\"ws\":0,\"ss\":602.35,\"ts\":22055,\"ec\":21348,\"dc\":21348},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/plane.jpg?itok=d2gJ0NTg\",\"s\":602.4,\"d\":1110.615,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.4,\"ds\":602.4,\"de\":602.4,\"cs\":602.4,\"ce\":602.4,\"qs\":1687.885,\"ps\":1705.615,\"pe\":1713.015,\"ws\":0,\"ss\":602.4,\"ts\":0,\"ec\":3643,\"dc\":3643},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2020/06/pe.jpg?itok=XUTYkx6n\",\"s\":602.45,\"d\":1111.055,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.45,\"ds\":602.45,\"de\":602.45,\"cs\":602.45,\"ce\":602.45,\"qs\":1688.475,\"ps\":1706.385,\"pe\":1713.505,\"ws\":0,\"ss\":602.45,\"ts\":0,\"ec\":5263,\"dc\":5263},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2020/02/512310.jpg?itok=zUxcWTsK\",\"s\":602.495,\"d\":1111.34,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.495,\"ds\":602.495,\"de\":602.495,\"cs\":602.495,\"ce\":602.495,\"qs\":1689.09,\"ps\":1706.495,\"pe\":1713.835,\"ws\":0,\"ss\":602.495,\"ts\":0,\"ec\":5152,\"dc\":5152},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/header_news/public/images/2021/02/photo.png?itok=SeMQ1lWs\",\"s\":602.575,\"d\":1111.565,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":602.575,\"ds\":602.575,\"de\":602.575,\"cs\":602.575,\"ce\":602.575,\"qs\":1689.49,\"ps\":1706.595,\"pe\":1714.14,\"ws\":0,\"ss\":602.575,\"ts\":0,\"ec\":18384,\"dc\":18384},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/portrait_mini/public/images/2021/02/0122_spatoula.jpg?itok=BVtp-r_A\",\"s\":603.175,\"d\":1827.565,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.175,\"ds\":603.175,\"de\":603.175,\"cs\":603.175,\"ce\":603.175,\"qs\":1706.83,\"ps\":2429.17,\"pe\":2430.74,\"ws\":0,\"ss\":603.175,\"ts\":5521,\"ec\":4840,\"dc\":4840},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/portrait_mini/public/images/2021/01/0121-rolo-kima.jpg?itok=DqKSvNsc\",\"s\":603.265,\"d\":1782.18,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.265,\"ds\":603.265,\"de\":603.265,\"cs\":603.265,\"ce\":603.265,\"qs\":1706.97,\"ps\":2384.14,\"pe\":2385.445,\"ws\":0,\"ss\":603.265,\"ts\":5280,\"ec\":4600,\"dc\":4600},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/portrait_mini/public/images/2020/02/psito_koynoypidi.jpg?itok=94mI6SME\",\"s\":603.41,\"d\":1110.83,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.41,\"ds\":603.41,\"de\":603.41,\"cs\":603.41,\"ce\":603.41,\"qs\":1690.465,\"ps\":1707.42,\"pe\":1714.24,\"ws\":0,\"ss\":603.41,\"ts\":0,\"ec\":6278,\"dc\":6278},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/portrait_mini/public/images/2021/02/0202-loukanika-auga.jpg?itok=RMpBrF4e\",\"s\":603.46,\"d\":1836.845,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.46,\"ds\":603.46,\"de\":603.46,\"cs\":603.46,\"ce\":603.46,\"qs\":1707.09,\"ps\":2435.39,\"pe\":2440.305,\"ws\":0,\"ss\":603.46,\"ts\":8825,\"ec\":8144,\"dc\":8144},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/portrait_mini/public/images/2019/11/patates-me-prasa-sto-foyrno-me-krema-kai-grabiera_mg_9562.jpg?itok=QfmTcTWQ\",\"s\":603.515,\"d\":1110.84,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.515,\"ds\":603.515,\"de\":603.515,\"cs\":603.515,\"ce\":603.515,\"qs\":1690.975,\"ps\":1707.49,\"pe\":1714.355,\"ws\":0,\"ss\":603.515,\"ts\":0,\"ec\":5483,\"dc\":5483},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/portrait_mini/public/images/2021/02/0119-koxilia-me-kima.jpg?itok=2_kJ-NfD\",\"s\":603.565,\"d\":1110.885,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.565,\"ds\":603.565,\"de\":603.565,\"cs\":603.565,\"ce\":603.565,\"qs\":1691.18,\"ps\":1707.57,\"pe\":1714.45,\"ws\":0,\"ss\":603.565,\"ts\":0,\"ec\":7534,\"dc\":7534},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/images/logo_white.svg\",\"s\":603.615,\"d\":1852.495,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.615,\"ds\":603.615,\"de\":603.615,\"cs\":603.615,\"ce\":603.615,\"qs\":1707.305,\"ps\":2455.395,\"pe\":2456.11,\"ws\":0,\"ss\":603.615,\"ts\":1289,\"ec\":617,\"dc\":1280},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/images/pixual.svg\",\"s\":603.665,\"d\":1862,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.665,\"ds\":603.665,\"de\":603.665,\"cs\":603.665,\"ce\":603.665,\"qs\":1707.69,\"ps\":2459.91,\"pe\":2465.665,\"ws\":0,\"ss\":603.665,\"ts\":8451,\"ec\":7798,\"dc\":26670},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2019-08/bistis.jpg?h=8ac26c8f&itok=rHHAvOt3\",\"s\":603.905,\"d\":1877.645,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.905,\"ds\":603.905,\"de\":603.905,\"cs\":603.905,\"ce\":603.905,\"qs\":1707.94,\"ps\":2481.065,\"pe\":2481.55,\"ws\":0,\"ss\":603.905,\"ts\":1645,\"ec\":969,\"dc\":969},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2018-10/27-Kechagia-Voula.jpg?h=b3e64cc5&itok=LN8o2L_F\",\"s\":603.965,\"d\":1903.815,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":603.965,\"ds\":603.965,\"de\":603.965,\"cs\":603.965,\"ce\":603.965,\"qs\":1708.15,\"ps\":2506.535,\"pe\":2507.78,\"ws\":0,\"ss\":603.965,\"ts\":1545,\"ec\":878,\"dc\":878},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2019-09/dollis.jpg?h=0e83f2b1&itok=OyBuHh5y\",\"s\":604.015,\"d\":1911.815,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":604.015,\"ds\":604.015,\"de\":604.015,\"cs\":604.015,\"ce\":604.015,\"qs\":1708.255,\"ps\":2514.96,\"pe\":2515.83,\"ws\":0,\"ss\":604.015,\"ts\":1699,\"ec\":967,\"dc\":967},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2020-04/theodorou.jpeg?h=62af41c7&itok=eV1Y_EMl\",\"s\":605.735,\"d\":1914.345,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":605.735,\"ds\":605.735,\"de\":605.735,\"cs\":605.735,\"ce\":605.735,\"qs\":1708.345,\"ps\":2518.43,\"pe\":2520.08,\"ws\":0,\"ss\":605.735,\"ts\":1747,\"ec\":1014,\"dc\":1014},{\"n\":\"https://www.ethnos.gr/sites/default/files/styles/square_mini/public/authors/2020-02/%CE%A1%CF%8C%CE%BC%CF%80%CE%B5%CF%81%CF%84%20%CE%A0%CE%B5%CF%86%CE%AC%CE%BD%CE%B7%CF%82_0.jpg?h=62c4c8ac&itok=o2mMOwA_\",\"s\":605.83,\"d\":1937.76,\"i\":\"img\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":605.83,\"ds\":605.83,\"de\":605.83,\"cs\":605.83,\"ce\":605.83,\"qs\":1708.43,\"ps\":2542.975,\"pe\":2543.59,\"ws\":0,\"ss\":605.83,\"ts\":1436,\"ec\":769,\"dc\":769},{\"n\":\"https://www.ethnos.gr/sites/default/files/js/js_ycdaZO4zblXsfnFiYL3Wiec2558p2Z79grcDRLUCE9o.js\",\"s\":605.895,\"d\":1049.89,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":605.895,\"ds\":605.895,\"de\":605.895,\"cs\":605.895,\"ce\":605.895,\"qs\":1632.545,\"ps\":1641.29,\"pe\":1655.785,\"ws\":0,\"ss\":605.895,\"ts\":0,\"ec\":72904,\"dc\":259191},{\"n\":\"https://instant.page/5.1.0\",\"s\":605.975,\"d\":1040.655,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":605.975,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":1646.63,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://xplayer.stream/players/ytethnos.js\",\"s\":606.03,\"d\":1109.135,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":606.03,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":1715.165,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://static.cloudflareinsights.com/beacon.min.js\",\"s\":606.1,\"d\":2104.97,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":606.1,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2711.07,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.googletagmanager.com/gtm.js?id=GTM-P2DX3GP\",\"s\":1434.075,\"d\":1451.125,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":1434.075,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2885.2,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://quantcast.mgr.consensu.org/choice/nZNe13N2v0dnM/www.ethnos.gr/choice.js\",\"s\":1495.88,\"d\":1174.595,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":1495.88,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2670.475,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.ethnos.gr/themes/custom/ethnos/images/sprite.svg#burger\",\"s\":1644.3,\"d\":910.16,\"i\":\"use\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":1644.3,\"ds\":1644.3,\"de\":1644.3,\"cs\":1644.3,\"ce\":1644.3,\"qs\":1708.96,\"ps\":2549.15,\"pe\":2554.46,\"ws\":0,\"ss\":1644.3,\"ts\":8685,\"ec\":8018,\"dc\":26829},{\"n\":\"https://www.ethnos.gr/#\",\"s\":1647.135,\"d\":158.025,\"i\":\"img\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":1647.135,\"ds\":1647.135,\"de\":1647.135,\"cs\":1647.135,\"ce\":1647.135,\"qs\":1695.87,\"ps\":1710.085,\"pe\":1805.16,\"ws\":0,\"ss\":1647.135,\"ts\":65536,\"ec\":65536,\"dc\":65536},{\"n\":\"https://www.tvopen.gr/ethnoslive\",\"s\":1759.275,\"d\":1004.515,\"i\":\"iframe\",\"p\":\"\",\"rs\":0,\"re\":0,\"fs\":1759.275,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2763.79,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151105\",\"s\":1937.71,\"d\":4.88,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":1937.71,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":1942.59,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://onesignal.com/api/v1/sync/f501735a-9dd6-4cb3-a3c9-7aacc864c3d3/web?callback=__jp0\",\"s\":1991.14,\"d\":724.295,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":1991.14,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2715.435,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://secure.quantserve.com/quant.js\",\"s\":2127.095,\"d\":3.77,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":2127.095,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2130.865,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://imasdk.googleapis.com/js/sdkloader/ima3.js\",\"s\":2130.99,\"d\":9.735,\"i\":\"script\",\"p\":\"\",\"rs\":0,\"re\":0,\"fs\":2130.99,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2140.725,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://rules.quantcount.com/rules-p-nZNe13N2v0dnM.js\",\"s\":2139.87,\"d\":913.25,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":2139.87,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":3053.12,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.ethnos.gr/kosmos/144597_orgi-solts-pros-fon-nter-laien-einai-skt-programma-gia-ta-embolia\",\"s\":2432.225,\"d\":318.9,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":2432.225,\"ds\":2432.225,\"de\":2432.225,\"cs\":2432.225,\"ce\":2432.225,\"qs\":2434.19,\"ps\":2693.785,\"pe\":2751.125,\"ws\":0,\"ss\":2432.225,\"ts\":20841,\"ec\":20117,\"dc\":95039},{\"n\":\"https://www.ethnos.gr/ellada/144730_lockdown-entones-diafonies-gia-kleista-sholeia-kai-katastimata-se-attiki\",\"s\":2532.13,\"d\":410.82,\"i\":\"link\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":2532.13,\"ds\":2532.13,\"de\":2532.13,\"cs\":2532.13,\"ce\":2532.13,\"qs\":2535.445,\"ps\":2819.79,\"pe\":2942.95,\"ws\":0,\"ss\":2532.13,\"ts\":22172,\"ec\":21450,\"dc\":102054},{\"n\":\"https://www.google-analytics.com/analytics.js\",\"s\":2558.7,\"d\":360.195,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":2558.7,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2918.895,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.googletagmanager.com/gtag/js?id=UA-128184575-2&l=dataLayer&cx=c\",\"s\":2559.495,\"d\":431.78,\"i\":\"script\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":2559.495,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2991.275,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://quantcast.mgr.consensu.org/tcfv2/cmp2.js\",\"s\":2676.35,\"d\":191.215,\"i\":\"script\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":2676.35,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":2867.565,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://pixel.quantserve.com/pixel/p-nZNe13N2v0dnM.gif\",\"s\":2678.105,\"d\":485.28,\"i\":\"img\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":2678.105,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":3163.385,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.ethnos.gr/api/articles/latest_id\",\"s\":2798.425,\"d\":224.1,\"i\":\"xmlhttprequest\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":2798.425,\"ds\":2798.425,\"de\":2798.425,\"cs\":2798.425,\"ce\":2798.425,\"qs\":2811.03,\"ps\":3022.08,\"pe\":3022.525,\"ws\":0,\"ss\":2798.425,\"ts\":729,\"ec\":22,\"dc\":18},{\"n\":\"https://www.ethnos.gr/cdn-cgi/bm/cv/result?req_id=61cdcd1e78839de9\",\"s\":3420.645,\"d\":66.955,\"i\":\"xmlhttprequest\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":3420.645,\"ds\":3420.645,\"de\":3420.645,\"cs\":3420.645,\"ce\":3420.645,\"qs\":3422.96,\"ps\":3487.03,\"pe\":3487.6,\"ws\":0,\"ss\":3420.645,\"ts\":707,\"ec\":0,\"dc\":0},{\"n\":\"https://www.google-analytics.com/j/collect?v=1&_v=j87&a=528428654&t=pageview&_s=1&dl=https%3A%2F%2Fwww.ethnos.gr%2F&ul=el-gr&de=UTF-8&dt=%CE%88%CE%B8%CE%BD%CE%BF%CF%82%20-%20%CE%95%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82%2C%20%CE%B1%CE%BD%CE%B1%CE%BB%CF%8D%CF%83%CE%B5%CE%B9%CF%82%2C%20%CF%81%CE%B5%CF%80%CE%BF%CF%81%CF%84%CE%AC%CE%B6%2C%20%CE%B1%CF%80%CE%BF%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AD%CF%82%20%CE%AD%CF%81%CE%B5%CF%85%CE%BD%CE%B5%CF%82&sd=24-bit&sr=1536x864&vp=965x754&je=0&_u=AACAAUABAAAAAC~&jid=566440908&gjid=304840025&cid=354195947.1586972747&tid=UA-128184575-1&_gid=2086610698.1612368068&_r=1&gtm=2ou1r0&z=2073567780\",\"s\":3477.705,\"d\":84.4,\"i\":\"xmlhttprequest\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":3477.705,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":3562.105,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://www.google-analytics.com/j/collect?v=1&_v=j87&a=528428654&t=pageview&_s=1&dl=https%3A%2F%2Fwww.ethnos.gr%2F&ul=el-gr&de=UTF-8&dt=%CE%88%CE%B8%CE%BD%CE%BF%CF%82%20-%20%CE%95%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82%2C%20%CE%B1%CE%BD%CE%B1%CE%BB%CF%8D%CF%83%CE%B5%CE%B9%CF%82%2C%20%CF%81%CE%B5%CF%80%CE%BF%CF%81%CF%84%CE%AC%CE%B6%2C%20%CE%B1%CF%80%CE%BF%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AD%CF%82%20%CE%AD%CF%81%CE%B5%CF%85%CE%BD%CE%B5%CF%82&sd=24-bit&sr=1536x864&vp=965x754&je=0&_u=AACAAUABAAAAAC~&jid=521053095&gjid=1935016516&cid=354195947.1586972747&tid=UA-128184575-2&_gid=2086610698.1612368068&_r=1&gtm=2ou1r0&z=2118173334\",\"s\":3495.775,\"d\":84.54,\"i\":\"xmlhttprequest\",\"p\":\"h3-29\",\"rs\":0,\"re\":0,\"fs\":3495.775,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":3580.315,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://quantcast.mgr.consensu.org/tcfv2/google-atp-list.json\",\"s\":3547.62,\"d\":5.43,\"i\":\"xmlhttprequest\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":3547.62,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":3553.05,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j87&tid=UA-128184575-1&cid=354195947.1586972747&jid=566440908&gjid=304840025&_gid=2086610698.1612368068&_u=AACAAUAAAAAAAC~&z=42099811\",\"s\":3580.645,\"d\":8.675,\"i\":\"xmlhttprequest\",\"p\":\"\",\"rs\":0,\"re\":0,\"fs\":3580.645,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":3589.32,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0},{\"n\":\"https://pixel.quantserve.com/pixel;r=1894056138;rf=0;uht=2;a=p-nZNe13N2v0dnM;url=https%3A%2F%2Fwww.ethnos.gr%2F;fpan=0;fpa=P0-1849063053-1597662362505;ns=0;ce=1;qjs=1;qv=58f0669e-20201210192756;cm=;gdpr=1;gdpr_consent=CPAarBSPAarBSAKAXAELBKCsAP_AAH_AAAyIHSNd_X_fb39j-_59_9t0eY1f9_7_v-0zjgeds-8Nyd_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7PEinMbe2dYGHtfn9VTuZKYr97s___z__-__v__79f_r-3_3_vp9X---_e_V0DJwCTDUvgIEhLGAkmjSqFECEK4kKgBABRQjC0SWEBI4KdkcBHqABAAgMQEIEQIMQUQsAgAAAACSiIAQAYEAiAIgEAAIARICEABEgCCwAkDAIABQDQsAIoAhAkIMDgqOUQICJFooJ5AAAAA.fngAAAAAAAAA;ref=;d=ethnos.gr;je=0;sr=1536x864x24;dst=1;et=1612540377792;tzo=-120;ogl=site_name.%CE%88%CE%B8%CE%BD%CE%BF%CF%82%2Ctitle.%CE%88%CE%B8%CE%BD%CE%BF%CF%82%20-%20%CE%95%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82%252C%20%CE%B1%CE%BD%CE%B1%CE%BB%CF%8D%CF%83%CE%B5%CE%B9%CF%82%252C%20%CF%81%CE%B5%CF%80%CE%BF%CF%81%CF%84%CE%AC%CE%B6%252C%20%CE%B1%CF%80%CE%BF%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AD%CF%82%20%CE%AD%CF%81%CE%B5%CF%85%CE%BD%CE%B5%CF%82%2Cdescription.%CE%95%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20%CF%83%CE%B5%20%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%20%CF%87%CF%81%CF%8C%CE%BD%CE%BF%252C%20%CE%B1%CE%BD%CE%B1%CE%BB%CF%8D%CF%83%CE%B5%CE%B9%CF%82%252C%20%CF%81%CE%B5%CF%80%CE%BF%CF%81%CF%84%CE%AC%CE%B6%252C%20%CE%B1%CF%80%CE%BF%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AD%CF%82%20%CE%AD%CF%81%CE%B5%CF%85%CE%BD%CE%B5%CF%82%252C%20%CE%BC%CE%AD%CF%83%CE%B1%20%CE%BA%2Cimage.https%3A%2F%2Fwww%252Eethnos%252Egr%2Fthemes%2Fcustom%2Fethnos%2Fimages%2Fogimage%252Epng\",\"s\":3967.64,\"d\":100.09,\"i\":\"img\",\"p\":\"h2\",\"rs\":0,\"re\":0,\"fs\":3967.64,\"ds\":0,\"de\":0,\"cs\":0,\"ce\":0,\"qs\":0,\"ps\":0,\"pe\":4067.73,\"ws\":0,\"ss\":0,\"ts\":0,\"ec\":0,\"dc\":0}],\"redirectCount\":0,\"referrer\":\"\",\"documentWriteIntervention\":false,\"errorCount\":0,\"eventType\":1,\"firstPaint\":1751.3400000752881,\"firstContentfulPaint\":1751.3400000752881,\"largestContentfulPaint\":-1,\"firstInputDelay\":-1,\"cumulativeLayoutShift\":-1,\"si\":10,\"startTime\":1612540374336.554,\"versions\":{\"fl\":\"2021.1.2\",\"js\":\"2021.1.0\",\"timings\":2},\"pageloadId\":\"5be7d010-b283-49c0-878c-3da39d5771fe\",\"location\":\"https://www.ethnos.gr/\",\"timingsV2\":{\"unloadEventStart\":0,\"unloadEventEnd\":0,\"domInteractive\":2127.7550000231713,\"domContentLoadedEventStart\":2715.77500004787,\"domContentLoadedEventEnd\":2746.875000069849,\"domComplete\":4091.000000014901,\"loadEventStart\":4091.0750000039116,\"loadEventEnd\":4092.7200000733137,\"type\":\"navigate\",\"redirectCount\":0,\"initiatorType\":\"navigation\",\"nextHopProtocol\":\"h2\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":304.1700000176206,\"domainLookupStart\":304.1700000176206,\"domainLookupEnd\":304.1700000176206,\"connectStart\":304.1700000176206,\"connectEnd\":304.1700000176206,\"secureConnectionStart\":304.1700000176206,\"requestStart\":348.6800000537187,\"responseStart\":465.3600000310689,\"responseEnd\":535.2399999974295,\"transferSize\":33761,\"encodedBodySize\":33199,\"decodedBodySize\":203241,\"name\":\"https://www.ethnos.gr/\",\"entryType\":\"navigation\",\"startTime\":0,\"duration\":4092.7200000733137},\"st\":2}"
+          }
+        },
+        "response": {
+          "status": 204,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:58.440Z",
+        "timings": {
+          "wait": 323.1290000259653
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:58.442Z",
+        "timings": {
+          "wait": 0.5869999708011746
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/x-icon"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7973]",
+        "startedDateTime": "2021-02-05T15:52:58.445Z",
+        "timings": {
+          "wait": 0.7459999616965651
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "liveopencloud.siliconweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/vnd.apple.mpegurl"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "67.27.234.122",
+        "startedDateTime": "2021-02-05T15:52:58.585Z",
+        "timings": {
+          "wait": 203.7259999530762
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:58.955Z",
+        "timings": {
+          "wait": 107.95199995588511
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:58.955Z",
+        "timings": {
+          "wait": 248.3880000429377
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/webp"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:58.956Z",
+        "timings": {
+          "wait": 177.5310000082776
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:59.438Z",
+        "timings": {
+          "wait": 106.08100003406406
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:59.439Z",
+        "timings": {
+          "wait": 115.31200002382695
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:59.439Z",
+        "timings": {
+          "wait": 175.89899994578957
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "liveopencloud.siliconweb.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "application/vnd.apple.mpegurl"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "67.27.234.122",
+        "startedDateTime": "2021-02-05T15:52:59.630Z",
+        "timings": {
+          "wait": 122.61799999544024
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:52:59.652Z",
+        "timings": {
+          "wait": 169.93699999324232
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ethnos.gr",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:20::681b:7873]",
+        "startedDateTime": "2021-02-05T15:53:00.990Z",
+        "timings": {
+          "wait": 114.20599994217605
+        }
+      }
+    ]
+  }
+}

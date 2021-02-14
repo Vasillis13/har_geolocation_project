@@ -110,25 +110,24 @@
         <img class="img-responsive" src="images/HAR_geo.png" >
       </a>      
     </nav>
-    <br><br>
-    <div class="box-container">
+    
+    <section class="jumbotron text-center">
+        <div class="container">
+        <div class="box-container">
       <form method="post"  action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
         <div class="center">
           <h2 class="register_heading">Εγγραφή</h2>
         </div>
         <div class="container">
-          Όνομα: <input type="name" name="name" autocomplete="off">
-          <span class="error">* <?php echo $nameErr;?></span>
+          Όνομα: <input type="name" name="name" autocomplete="off" required>
         </div>
 
         <div class="container">
-          E-mail: <input type="email" name="email" autocomplete="off">
-          <span class="error">* <?php echo $emailErr;?></span>
+          E-mail: <input type="email" name="email" autocomplete="off" required>
         </div>
 
         <div class="container">
-          Κωδικός: <input type="password" name="password" autocomplete="off">
-          <span class="error">* <?php echo $passwordErr;?></span>
+          Κωδικός: <input type="password" name="password" autocomplete="off" required>
         </div>
 
         <div class="container">
@@ -137,6 +136,10 @@
 
       </form>
     </div>
+        </div>
+    </section>
+
+    
 
     </body>
 </html>

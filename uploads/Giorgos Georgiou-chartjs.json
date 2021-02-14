@@ -1,0 +1,1210 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2035]",
+        "startedDateTime": "2021-02-04T16:41:43.899Z",
+        "timings": {
+          "wait": 0.5550000346228481
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.953Z",
+        "timings": {
+          "wait": 2.6479999981299045
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.953Z",
+        "timings": {
+          "wait": 2.847999994598329
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.953Z",
+        "timings": {
+          "wait": 3.325000058107078
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.954Z",
+        "timings": {
+          "wait": 3.7000000336170196
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.954Z",
+        "timings": {
+          "wait": 4.164000011168421
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.954Z",
+        "timings": {
+          "wait": 4.4630000020638105
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.954Z",
+        "timings": {
+          "wait": 4.8330000352710485
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.954Z",
+        "timings": {
+          "wait": 5.379000014863908
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "img.shields.io",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "image/svg+xml;charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700:3034::ac43:813c]",
+        "startedDateTime": "2021-02-04T16:41:43.954Z",
+        "timings": {
+          "wait": 2.678999943807721
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 0.299999953687191
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 0.8230000420808792
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 0.9099999603629112
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 2.5110000407546758
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 2.607999984078109
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 3.2020000430345537
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 2.6330000177547337
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 2.573999979838729
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:43.955Z",
+        "timings": {
+          "wait": 2.5839999874532222
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:44.054Z",
+        "timings": {
+          "wait": 0.29600000055134296
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2135]",
+        "startedDateTime": "2021-02-04T16:41:44.272Z",
+        "timings": {
+          "wait": 0.35399997974932196
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:813::200e]",
+        "startedDateTime": "2021-02-04T16:41:44.273Z",
+        "timings": {
+          "wait": 0.07400009781122208
+        }
+      },
+      {
+        "request": {
+          "method": "POST",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/plain"
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:803::200e]",
+        "startedDateTime": "2021-02-04T16:41:44.322Z",
+        "timings": {
+          "wait": 75.97800000862777
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.chartjs.org",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2606:4700::6811:2035]",
+        "startedDateTime": "2021-02-04T16:41:46.553Z",
+        "timings": {
+          "wait": 0.3539999532178044
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.google-analytics.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:803::200e]",
+        "startedDateTime": "2021-02-04T16:41:46.701Z",
+        "timings": {
+          "wait": 68.56299995222687
+        }
+      }
+    ]
+  }
+}

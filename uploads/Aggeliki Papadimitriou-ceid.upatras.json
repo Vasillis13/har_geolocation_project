@@ -1,0 +1,2298 @@
+{
+  "log": {
+    "entries": [
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "Expires",
+              "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache, must-revalidate"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:49.316Z",
+        "timings": {
+          "wait": 612.1569999428913
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:37 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.289Z",
+        "timings": {
+          "wait": 1.0859999546334147
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.290Z",
+        "timings": {
+          "wait": 3.947000013679266
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:55:45 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.290Z",
+        "timings": {
+          "wait": 47.17600003047288
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "maxcdn.bootstrapcdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2001:4de0:ac19::1:b:1b]",
+        "startedDateTime": "2021-02-04T18:36:50.291Z",
+        "timings": {
+          "wait": 7.17499998292327
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "maxcdn.bootstrapcdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2001:4de0:ac19::1:b:1b]",
+        "startedDateTime": "2021-02-04T18:36:50.291Z",
+        "timings": {
+          "wait": 7.088999997131526
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.291Z",
+        "timings": {
+          "wait": 8.283000035524369
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.291Z",
+        "timings": {
+          "wait": 8.499999972097577
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:26 GMT"
+            },
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.292Z",
+        "timings": {
+          "wait": 8.390999988660216
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:26 GMT"
+            },
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.292Z",
+        "timings": {
+          "wait": 8.759999979399145
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:26 GMT"
+            },
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.292Z",
+        "timings": {
+          "wait": 9.1889999461174
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.293Z",
+        "timings": {
+          "wait": 9.202000016845762
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 14 Jan 2021 16:58:44 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.293Z",
+        "timings": {
+          "wait": 9.586999977126718
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 14 Jan 2021 16:59:31 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.293Z",
+        "timings": {
+          "wait": 75.18199996741116
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.294Z",
+        "timings": {
+          "wait": 8.77100001747161
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Sat, 16 Jan 2021 20:59:07 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.294Z",
+        "timings": {
+          "wait": 46.508999992899604
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "maxcdn.bootstrapcdn.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2001:4de0:ac19::1:b:1b]",
+        "startedDateTime": "2021-02-04T18:36:50.294Z",
+        "timings": {
+          "wait": 8.608999997138977
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.295Z",
+        "timings": {
+          "wait": 8.237000023670495
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "maps.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=UTF-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:800::200a]",
+        "startedDateTime": "2021-02-04T18:36:50.295Z",
+        "timings": {
+          "wait": 106.5150000533238
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.296Z",
+        "timings": {
+          "wait": 8.126999995566905
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.296Z",
+        "timings": {
+          "wait": 7.516000042192638
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:25 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.296Z",
+        "timings": {
+          "wait": 0.7040000303834677
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:28 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.296Z",
+        "timings": {
+          "wait": 0.5579999772384763
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:28 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:11 GMT"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.296Z",
+        "timings": {
+          "wait": 0.6910000456124544
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:12 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.296Z",
+        "timings": {
+          "wait": 46.10100004874915
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:12 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 50.73400002522022
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:12 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 62.908000013820825
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 28 Jan 2021 21:49:33 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 91.44800004532188
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 21 Jan 2021 14:15:57 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 124.94900005176663
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 18 Jan 2021 09:29:37 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 132.01700004166364
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 14 Jan 2021 17:18:56 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 142.50400003537536
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:53:09 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:51 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 174.20400003017485
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 16 Dec 2020 15:54:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:51 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.297Z",
+        "timings": {
+          "wait": 109.70399996073542
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:52:38 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 16 Feb 2021 07:57:13 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.329Z",
+        "timings": {
+          "wait": 0.5599999696239829
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 31 Dec 2020 13:53:08 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:50 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.332Z",
+        "timings": {
+          "wait": 45.62499995902181
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200a]",
+        "startedDateTime": "2021-02-04T18:36:50.358Z",
+        "timings": {
+          "wait": 1.8200000091940165
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200a]",
+        "startedDateTime": "2021-02-04T18:36:50.358Z",
+        "timings": {
+          "wait": 1.7189999582469464
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:809::200a]",
+        "startedDateTime": "2021-02-04T18:36:50.359Z",
+        "timings": {
+          "wait": 1.5100000553503632
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:803::200a]",
+        "startedDateTime": "2021-02-04T18:36:50.371Z",
+        "timings": {
+          "wait": 186.0680000181049
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:803::200a]",
+        "startedDateTime": "2021-02-04T18:36:50.372Z",
+        "timings": {
+          "wait": 186.08699998003243
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.googleapis.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:803::200a]",
+        "startedDateTime": "2021-02-04T18:36:50.387Z",
+        "timings": {
+          "wait": 191.31100001161545
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:26 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:51 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.685Z",
+        "timings": {
+          "wait": 132.76600004597753
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "maxcdn.bootstrapcdn.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2001:4de0:ac19::1:b:1b]",
+        "startedDateTime": "2021-02-04T18:36:50.691Z",
+        "timings": {
+          "wait": 0.8200000139772892
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:812::2003]",
+        "startedDateTime": "2021-02-04T18:36:50.691Z",
+        "timings": {
+          "wait": 0.7680000532269478
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:812::2003]",
+        "startedDateTime": "2021-02-04T18:36:50.692Z",
+        "timings": {
+          "wait": 1.7779999592676758
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 24 Mar 2015 18:44:04 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:50.792Z",
+        "timings": {
+          "wait": 5.906999960467219
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "fonts.gstatic.com",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "headers": [
+            {},
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "[2a00:1450:4001:808::2003]",
+        "startedDateTime": "2021-02-04T18:36:50.823Z",
+        "timings": {
+          "wait": 174.86499995527416
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 204,
+          "statusText": "No Response",
+          "headers": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:51.355Z",
+        "timings": {
+          "wait": 506.71700005511195
+        }
+      },
+      {
+        "request": {
+          "method": "GET",
+          "url": "www.ceid.upatras.gr",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "www.ceid.upatras.gr"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "headers": [
+            {},
+            {},
+            {},
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 09 Feb 2018 23:38:22 GMT"
+            },
+            {},
+            {},
+            {
+              "name": "Cache-Control",
+              "value": "max-age=1209600"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 18 Feb 2021 18:36:51 GMT"
+            },
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        "serverIPAddress": "150.140.141.173",
+        "startedDateTime": "2021-02-04T18:36:51.754Z",
+        "timings": {
+          "wait": 89.30599996740371
+        }
+      }
+    ]
+  }
+}

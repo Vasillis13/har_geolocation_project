@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Οπτικοποίηση δεδομένων</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+    <script src="leaflet-heat.js"></script>
+
+    <style>
+        * {
+            font-family: Helvetica;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        #mapid {
+            height: 500px;
+        }
+
+        .alert {
+            padding: 0px !important;
+            border-radius: 0 !important;
+        }
+
+        .alert-dismissable {
+            padding-right: 24px !important;
+        }
+
+        .alertwrapper {
+            border-radius: 0;
+        }
+
+        .alerticon {
+            font-size: 2em;
+            float: left;
+            margin-right: 0.5em;
+            padding: 0.5em;
+        }
+
+        .successful {
+            background-color: #D6E9C6;
+        }
+
+        .dangerous {
+            background-color: #EBCCD1;
+        }
+
+        .alertcontent {
+            padding: 0.5em;
+            overflow: hidden;
+        }
+    </style>
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-light">
+        <a class="navbar-brand" href="user_page.html">
+            <img class="img-responsive" src="images/HAR_geo.png">
+        </a>
+    </nav>
+
+    <div id="mapid"></div>
+    <button class="btn btn-primary  btn-block" type="button" id="button">Προσθήκη τοποθεσιών</button>
+    <br>
+    <div class="container">
+        <div class="">
+            <div class="alert alert-info alert-dismissable">
+                <div class="alertwrapper clearfix">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    <div class="alertcontent">
+                        <h4>Προσοχή!</h4>
+                        Η προσθήκη νέων τοποθεσιών πρέπει να γίνεται με αναμονή ενός λεπτού από την προηγούμενη προσθήκη
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                var mymap = L.map('mapid').setView([37.42171337867867, 22.768588851643532], 2.5);
+
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(mymap);
+
+
+                $('#button').on('click', function () {
+                    $.ajax({
+                            method: 'POST',
+                            url: 'data_visualization.php',
+                            dataType: 'application/json',
+                            data: {}
+                        })
+                        .then(function (error) {
+                            console.log(error);
+                        })
+                        .catch(function (response) {
+                            var user_contents = JSON.parse(response.responseText);
+
+                            for (var i = 0; i < user_contents.length; i++) {
+                                user_contents[i] = JSON.parse(user_contents[i]);
+                            }
+
+                            var userIPs = [];
+
+                            for (var i = 0; i < user_contents.length; i++) {
+                                for (var y = 0; y < user_contents[i].log.entries.length; y++) {
+                                    userIPs.push(user_contents[i].log.entries[y].serverIPAddress);
+                                }
+                            }
+
+                            function shuffle(array) {
+                                var currentIndex = array.length,
+                                    temporaryValue, randomIndex;
+                                while (0 !== currentIndex) {
+
+                                    randomIndex = Math.floor(Math.random() * currentIndex);
+                                    currentIndex -= 1;
+
+                                    temporaryValue = array[currentIndex];
+                                    array[currentIndex] = array[randomIndex];
+                                    array[randomIndex] = temporaryValue;
+                                }
+
+                                return array;
+                            }
+
+                            shuffle(userIPs);
+
+                            var xml_userIPs = [];
+                            for (var i = 0; i < 14; i++) {
+                                xml_userIPs[i] = userIPs[i].replace(/[\])}[{(]/g, '');
+                            }
+
+                            var endpoint = 'http://ip-api.com/batch';
+                            var xhr_api = new XMLHttpRequest();
+                            xhr_api.onreadystatechange = function () {
+                                if (this.readyState == 4 && this.status == 200) {
+                                    var response = JSON.parse(this.responseText);
+                                    response.forEach(function (item) {
+                                        marker = [
+                                            [item.lat,
+                                                item.lon,
+                                                0.2
+                                            ]
+                                        ];
+                                        var heat = L.heatLayer(marker, {
+                                            radius: 25,
+                                            minOpacity: 0.5,
+                                            maxZoom: 0.5,
+                                            max: 2,
+                                            blur: 20
+                                        }).addTo(mymap);
+                                    });
+                                }
+                            };
+
+                            xhr_api.open('POST', endpoint, true);
+                            xhr_api.send(JSON.stringify(xml_userIPs));
+
+                        });
+                });
+            </script>
+
+</body>
+
+</html>

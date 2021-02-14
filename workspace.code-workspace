@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Users\\vasil\\node_modules\\jquery"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project_web"
+	}
+}
