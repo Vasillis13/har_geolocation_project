@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+html, body {
+  height: 100% !important;
+  width: 100% !important;
+  font-family: 'Open Sans', sans-serif;
+  color: #222;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+nav {
+  background-color: rgba(88, 88, 88, 0.7);
+  margin: 0;
+}
+
+nav ul a:hover {
+  color: whitesmoke !important;
+}
+
+nav li {
+  text-align: center;
+  margin-right: 2rem;
+}
+
+.nav-link {
+  font-size: 1.4rem;
+  color: whitesmoke !important;
+}
+
+nav li > a:after{
+  content: '';
+  display: block;
+  height: 1.5px;
+  background: whitesmoke !important;
+  transform: scaleX(0);
+  transition: transform .3s;
+}
+
+nav li > a:hover:after{
+  transform: scaleX(1);
+  transition: transform .3s;
+}
+
+nav .active{
+  color: whitesmoke !important;
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.room-container {
+  padding: 4rem;
+  background-color: rgba(88, 88, 88, 0.7);
+}
+
+.room-container .row .col-6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.room-container .row .col-6 img {
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important; 
+}
+
+.room-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+.icon-container img {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.fp-slide {
+  position: relative !important;
+}
+
+.fp-controlArrow.fp-prev {
+  left: 15px;
+  width: 0;
+  border-width: 38.5px 34px 38.5px 0;
+  border-color: transparent rgba(88, 88, 88, 0.7) transparent transparent;
+}
+.fp-controlArrow.fp-next {
+  right: 15px;
+  border-width: 38.5px 0 38.5px 34px;
+  border-color: transparent transparent transparent rgba(88, 88, 88);
+}
+
+.small-content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(88, 88, 88, 0.671);
+  width: 30rem;
+  height: 20rem;
+  color: whitesmoke;
+}
+
+.wider-content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(88, 88, 88, 0.671);
+  width: 50rem;
+  height: 20rem;
+  color: whitesmoke;
+}
+
+.section:nth-child(1) {
+  background: url('../img/paralax1.jpg');
+  background-size: cover; 
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.section:nth-child(2) {
+  background: url('../img/paralax2.jpg');
+  background-size: cover; 
+  background-position: center;
+}
+
+.section:nth-child(3) {
+  background: url('../img/paralax3.jpg');
+  background-size: cover; 
+  background-position: center;
+}
+
+.section:nth-child(4) {
+  background: url('../img/paralax4.jpg');
+  background-size: cover; 
+  background-position: center;
+}
+
+.section:nth-child(5) {
+  background: url('../img/paralax5.jpg');
+  background-size: cover; 
+  background-position: center;
+}
+
+.section:nth-child(6) {
+  background: url('../img/paralax6.jpg');
+  background-size: cover; 
+  background-position: center;
+}

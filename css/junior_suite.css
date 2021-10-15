@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #222;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+  
+.overflow {
+    overflow-x: hidden !important;
+}
+
+.padding {
+    padding: 2rem;
+}
+
+nav {
+    background-color: rgba(88, 88, 88, 0.7);
+    margin: 0;
+}
+
+nav ul a:hover {
+    color: whitesmoke !important;
+}
+
+nav li {
+    text-align: center;
+    margin-right: 2rem;
+}
+
+.nav-link {
+    font-size: 1.4rem;
+    color: whitesmoke !important;
+}
+
+nav li > a:after{
+    content: '';
+    display: block;
+    height: 1.5px;
+    background: whitesmoke !important;
+    transform: scaleX(0);
+    transition: transform .3s;
+}
+
+nav li > a:hover:after{
+    transform: scaleX(1);
+    transition: transform .3s;
+}
+
+nav .active{
+    color: whitesmoke !important;
+}
+
+
+#junior-bgimg .jumbotron {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("../img/Room-types/junior-suite.jpg");
+    background-size: cover;
+    object-fit: cover;
+    margin: 0;
+}
+
+#junior-bgimg .jumbotron h1 {
+    font-size: 500%;
+    text-shadow: 1px 1px 15px #000;
+}
+
+#icons-container {
+    background-color: rgba(107, 107, 107, 0.055);
+}
+
+.room-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 2rem;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#one-column-text {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#one-section {
+    background-color: rgba(107, 107, 107, 0.055);
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+#image-gallery {
+    background-color: rgba(107, 107, 107, 0.055);
+}
+
+.social-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 2rem;
+}
+
+.social a {
+    margin: 2rem;
+}
+
+footer {
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top: 2rem;
+}
+
+hr.light {
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;
+}
+
+footer a {
+    color: #d5d5d5;
+}
+
+hr.light-100 {
+    border-top: 1px solid #d5d5d5;
+    width: 100%;
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 2560px){
+    
+}
+
+@media (max-width: 1440px){
+    
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 768px){
+
+}
+
+@media (max-width: 540px){
+    
+}
+
+@media (max-width: 425px){
+
+}
+
+@media (max-width: 375px){
+    
+}
+
+@media (max-width: 320px){
+}
+
+@media (max-width: 280px){
+}
